@@ -3,6 +3,7 @@ layout: default
 title: Setup
 permalink: /setup/
 nav_order: 1
+nav_enabled: true
 has_children: false
 has_toc: false
 ---
