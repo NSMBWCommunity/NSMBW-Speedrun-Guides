@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Hardware
+title: Any%
 permalink: /setup/hardware/
-parent: Setup
+parent: Categories
+haschild: true
 nav_order: 1
 ---
 # Recommended Hardware
