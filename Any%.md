@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Any%
-permalink: /setup/hardware/
+permalink: /Categories/Any%/
 parent: Categories
 haschild: true
 nav_order: 1
