@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Categories
-permalink: /setup/hardware/
+permalink: /Categories/
 haschild: true
 nav_order: 1
 ---

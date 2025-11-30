@@ -1,7 +1,7 @@
 ---
 layout: default
 title: World 1
-permalink: /setup/hardware/
+permalink: /Categories/Any%/World1/
 parent: Any%
 haschild: true
 nav_order: 1
