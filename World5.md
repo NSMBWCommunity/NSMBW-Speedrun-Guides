@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Any%
+title: World5
 permalink: /setup/hardware/
 parent: Categories
 haschild: true
