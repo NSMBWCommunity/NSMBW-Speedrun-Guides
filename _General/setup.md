@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Setup
-nav_enabled: true
 permalink: /setup/
 nav_order: 1
 has_children: false
