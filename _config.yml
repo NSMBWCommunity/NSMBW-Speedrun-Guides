@@ -1,5 +1,6 @@
 title: NSMBW Resources
-remote_theme: just-the-docs/just-the-docs@v0.10.1
+description: GTGR
+theme: just-the-docs
 color_scheme: dark
 
 url: https://just-the-docs.github.io
