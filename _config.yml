@@ -1,26 +1,17 @@
 title: NSMBW Resources
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 color_scheme: dark
-markdown: kramdown
-kramdown:
-  parse_block_html: true
 
 collections:
   general:
     permalink: "/:collection/:path/"
     output: true
-  game:
+  categories:
     permalink: "/:collection/:path/"
-    output: true
-  community:
-    permalink: "/:collection/:path/"
-    output: true
 
 just_the_docs:
   collections:
     general:
       name: General
-    game:
-      name: Game
-    community:
-      name: Community
+    categories:
+      name: Categories
