@@ -3,6 +3,12 @@ description: GTGR
 theme: just-the-docs
 color_scheme: dark
 
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+
+
 url: https://just-the-docs.github.io
 
 aux_links:
