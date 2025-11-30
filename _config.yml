@@ -1,8 +1,26 @@
-title: NSMBW Speedrun Tutorials
-description: Resources for NSMBW Speedrunning!
-theme: dark
+title: SMS Guide
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+color_scheme: dark
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 
-url: https://just-the-docs.github.io
+collections:
+  general:
+    permalink: "/:collection/:path/"
+    output: true
+  game:
+    permalink: "/:collection/:path/"
+    output: true
+  community:
+    permalink: "/:collection/:path/"
+    output: true
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+just_the_docs:
+  collections:
+    general:
+      name: General
+    game:
+      name: Game
+    community:
+      name: Community
