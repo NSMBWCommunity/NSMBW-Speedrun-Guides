@@ -18,12 +18,9 @@ Physical Platforms
 - Wii RVL 101 (Side Wii)
 - Wii U (Physical)
 
-[**Recommended Hardware**](/sms-guide/setup/hardware)
-
 
 **Practice Codes Guide**  
-[Homebrew](https://wii.hacks.guide/) your wii and install [Nintendont](https://zint.ch/NintendontPackager/).  
-Check out our [in-depth guide](https://gct.zint.ch/guide.html) on installing practice codes.  
+[Homebrew](https://wii.hacks.guide/) your wii and install [Riivolution](https://aerialx.github.io/rvlution.net/riivolution.zip).  
 
-**Save Files, Blank Splits, and Important Links**  
-Found on the speedrun.com [resources page](https://www.speedrun.com/sms/resources).  
+**Blank Splits**  
+Found on the speedrun.com [resources page](https://www.speedrun.com/nsmbw/resources).  
