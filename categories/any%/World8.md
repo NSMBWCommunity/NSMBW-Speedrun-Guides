@@ -2,7 +2,7 @@
 layout: default
 title: World 8
 permalink: /Categories/Any%/World8/
-parent: Categories
+parent: Any%
 haschild: true
 nav_order: 3
 ---
