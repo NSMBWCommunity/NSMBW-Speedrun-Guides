@@ -14,5 +14,7 @@ nav_order: 6
 {% include yt.html id="VNH8Bu7XlUI" %}
 
 ## 5-GH Intermediate
+{% include yt.html id="PZySe9G_zOg" %}
 
 ## 5-GH Expert
+{% include yt.html id="P5wNGR7l164" %}
