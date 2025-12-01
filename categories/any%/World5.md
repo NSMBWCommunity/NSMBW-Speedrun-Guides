@@ -1,10 +1,10 @@
 ---
 layout: default
-title: World5
-permalink: /setup/hardware/
+title: World 5
+permalink: /Categories/Any%/World5/
 parent: Categories
 haschild: true
-nav_order: 1
+nav_order: 2
 ---
 # Recommended Hardware
 
