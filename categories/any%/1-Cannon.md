@@ -4,7 +4,7 @@ title: 1-Cannon
 permalink: /Categories/Any%/World1/1-Cannon
 parent: World 1
 haschild: false
-nav_order: 1
+nav_order: 4
 ---
 # 1-1 Godrun
 

@@ -1,12 +1,11 @@
 ---
 layout: default
-title: 1-3
-permalink: /Categories/Any%/World1/1-3
-parent: World 1
-haschild: false
-nav_order: 3
+title: Movement
+permalink: /Movement/
+haschild: true
+nav_order: 1
 ---
-# 1-1 Godrun
+# General Movement Rules
 
 There are **four** options you have to capture your game when playing on console. These are ordered from best to worst quality.  
 1. You can use component cables if your capture card allows for it, or if you have a Retrotink 5X.
