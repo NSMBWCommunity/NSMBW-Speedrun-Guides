@@ -8,8 +8,11 @@ nav_order: 6
 ---
 
 # 5-GH
-The cannon split is a very simple part of the run but there still is stuff to focus on.
 
-Eventhough it doesnt look like you can it's important to mash 2 during all the text boxes during the toad cutscene after 1-3 to make them go away faster.
 
-{% include yt.html id="81OsP2NNCW8" %}
+## 5-GH Beginner
+{% include yt.html id="VNH8Bu7XlUI" %}
+
+## 5-GH Intermediate
+
+## 5-GH Expert
