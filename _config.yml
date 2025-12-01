@@ -15,8 +15,4 @@ aux_links:
   
 
 just_the_docs:
-  collections:
-    general:
-      name: General
-    categories:
-      name: Categories
+
