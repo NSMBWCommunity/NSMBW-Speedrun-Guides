@@ -19,7 +19,7 @@ The practice Mod uses a Homebrew App called
 To use this mod download and open the newest version of the practice mod zip/rar located in the [Resources Channel](https://discordapp.com/channels/135832360099774464/1033932077890027561)
 
 ### Installation
-Drag both folders onto the Root of your homebrew SD card and load riivolution.
+Drag both folders onto the Root of your homebrew SD card and load riivolution and hit replace files if a prompt shows up.
 
 ## Info Display
 MGR's Info Display is a very good tool to have on while doing practice.
@@ -33,4 +33,4 @@ Features
 
 ### Installation
 The newest version is pinned in the general channel of the NSMBW Server.
-Drag both folders onto the Root of your homebrew SD card and load riivolution.
+Drag both folders onto the Root of your homebrew SD card and load riivolution and hit replace files if a prompt shows up.

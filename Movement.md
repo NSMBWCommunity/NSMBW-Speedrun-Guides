@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Movement
-permalink: /Movement/
+permalink: 
 haschild: true
 nav_order: 1
 ---
