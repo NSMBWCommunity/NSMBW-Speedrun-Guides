@@ -12,7 +12,7 @@ Knowing how to effectively practice NSMBW is what will keep you from plateauing 
 
 ## Practice Mod
 The practice mod for NSMBW can be used on all platforms with homebrew set up.
-Homebrew is really easy to set up on Wii and is fairly simple on WiiU.
+Homebrew is really easy to set up on [Wii](https://youtu.be/bHGf7JbQR9c) and is fairly simple on [WiiU](https://www.youtube.com/watch?v=iTJ3cShA6AI).
 
 The practice Mod uses a Homebrew App called 
 [Riivolution](https://aerialx.github.io/rvlution.net/riivolution.zip)
