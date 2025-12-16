@@ -23,7 +23,7 @@ In any other category you will get a real leaderboard advantage by having the fa
 ### Average Any% Loads
 - Wii RVL 101 (Side Wii): 2:03 - 2:06
 - Wii U (Physical): 2:09 - 2:12
-- Wii RVL 001 (Gamecube Wii): 2:10 - 2:15
+- Wii RVL 001 (Gamecube Wii): 2:09 - 2:13
 
 **Blank Splits**  
 Found on the speedrun.com [resources page](https://www.speedrun.com/nsmbw/resources).  
