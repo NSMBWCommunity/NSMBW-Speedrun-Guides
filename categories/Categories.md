@@ -17,6 +17,6 @@ nav_order: 1
 
 ## Any% Multiplayer
 
-## ARE
+## All Regular Exits
 
 ## Low%
