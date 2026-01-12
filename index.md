@@ -9,4 +9,5 @@ Built and regularly updated by the community and active top-level speedrunners.
 
 # Invite Link for Tutorials Server
 Join to ask questions or make suggestions for the site, and to share your accomplishments!
+
 [NSMBW Tutorials Server](https://discord.gg/xMmfPyJ6Mh){: .btn } 
