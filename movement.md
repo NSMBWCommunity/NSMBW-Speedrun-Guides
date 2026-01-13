@@ -30,10 +30,7 @@ There are many types of moving platforms/ground in this game. This includes roll
 
 A good rule of thumb for these is to run on any platform that is moving in your desired direction.
 
-There are essentially two types of moving ground:
-
-1) **Ground that affects your speed in mid-air**
-2) **Ground that *doesn't* affect your speed in the air**
+Some moving ground/platforms can affect your speed after jumping off of them. Let's take a closer look at these:
 
 ### 1. Ground That *Does* Affect Your Air Speed
 
@@ -41,13 +38,11 @@ There are essentially two types of moving ground:
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydmMzN3o2cHR3MW9tZmI5MWtrYjg3YTdtazJlcm5nYWI0MXFkb2JnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iVgk2p7rHnwANWz4sb/giphy.gif" alt="1-1 rolling hills">
 </div>
 
-The first you will have to deal with are rolling hills.
+Moving platforms/ground that will affect your speed in the air include **rolling hills, conveyor belts, and big ice blocks.** The first of this type you will have to deal with are rolling hills.
 
-When running on rolling hills, your speed changes based on the speed/direction of the rolling hill.
+To maximize the speed from these types of  ground, run onto it as early as possible then jump off of it as late as possible and stay in the air as long as possible. Twirling (if you aren't propellor Mario) will help you stay in the air for longer.
 
-To maximize the speed from forward rolling hills, run onto it as early as possible then jump off of it as late as possible and stay in the air as long as possible to maintain its speed. Twirling in midair (if you aren't propellor Mario) will help you stay in the air for longer.
-
-Similarly, backwards rolling hills will decrease your speed while running/jumping off of them.
+Similarly, backwards moving ground and rolling hills will decrease your speed while running/jumping off of them.
 
 For all backwards moving ground that affects your momentum, there are two ways "cancel" the speed of the hill you're on and return to 3 speed.
 
@@ -65,11 +60,11 @@ For all backwards moving ground that affects your momentum, there are two ways "
 
 Of course, your speed will revert to the speed of the moving ground (or 3 speed if on normal ground) as soon as you land.
 
-### Ground That Does *Not* Affect Your Air Speed
+### 2. Ground That Does *Not* Affect Your Air Speed
 
-Any line-controlled blocks/platforms and floating platforms will not affect your speed however you jump off of them.
+Any line-controlled blocks/platforms, rotating blocks, and floating platforms will not affect your speed when you jump off of them. They still change your speed when running on them, though.
 
-Follow the rule of thumb and run on them while they are moving in your desired direction. Jumping off will immediately revert you to 3 speed regardless of which direction they are moving.
+Follow the rule of thumb and run on them while they are moving in your desired direction. Jumping off will immediately revert you to 3 speed regardless of which direction the ground is moving.
 
 <div class="gif-container">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2I3eWE1dGpzZThmMGk4NnF1b2hnNzR3Y3Ryb3l6ODl6ZjBwcXhrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0QJ8tjNsjvRr2UOFX/giphy.gif" alt="7-3 floating platform">
