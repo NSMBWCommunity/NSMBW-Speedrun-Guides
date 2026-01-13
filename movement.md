@@ -34,6 +34,18 @@ There are essentially two types of moving ground:
 
 ### 1. Ground That Carries Your Momentum
 
+<div class="gif-grid">
+  <div class="gif-item">
+    <img src="{{ site.baseurl }}/assets/gifs/example1.gif" alt="Description 1">
+  </div>
+  <div class="gif-item">
+    <img src="{{ site.baseurl }}/assets/gifs/example2.gif" alt="Description 2">
+  </div>
+  <div class="gif-item">
+    <img src="{{https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyd3RpdTE3dDJoZ3VoNnBpbmNhMDcybHN4cmpwbDZheTVwbm9xbWFjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AwO1qhrl668zp1Rsa7/giphy.gif}}" alt="7-3">
+  </div>
+</div>
+
 #### Some examples of moving ground that carry your speed when jumping off of them.
 The first you will have to deal with are rolling hills.
 When running on rolling hills, your speed changes based on the speed/direction of the rolling hill.
