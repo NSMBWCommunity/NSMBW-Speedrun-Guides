@@ -26,13 +26,13 @@ Running up upwards slopes is slow. Avoid them if possible. If you are forced to 
 
 ### Moving Platforms
 
-There are many, many types of moving ground in this game. A good rule of thumb for both is to run on any platform that is moving in your desired direction.
-There are essentially two types of moving ground effect your speed differently when jumping off of them:
+There are many types of moving platforms/ground in this game. A good rule of thumb for both is to run on any platform that is moving in your desired direction.
+There are essentially two types of moving ground:
 
 1) **Ground that carries your momentum**
 2) **Ground that *doesn't* carry your momentum**
 
-### Ground That Carries Your Momentum
+### 1. Ground That Carries Your Momentum
 
 #### Some examples of moving ground that carry your speed when jumping off of them.
 The first you will have to deal with are rolling hills.
