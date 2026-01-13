@@ -37,9 +37,6 @@ There are essentially two types of moving ground:
   <div class="gif-item">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydmMzN3o2cHR3MW9tZmI5MWtrYjg3YTdtazJlcm5nYWI0MXFkb2JnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iVgk2p7rHnwANWz4sb/giphy.gif" alt="rolling hill in 1-1">
   </div>
-  <div class="gif-item">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyaXo1dDN1ZjQ1eGx1c3J0aWQxbnloeTBvejVncnl4eGU1b2tuM292YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ylOzISlxDBkhUiWzz/giphy.gif" alt="icycles in 3-4">
-  </div>
 
 #### Some examples of moving ground that carry your speed when jumping off of them.
 The first you will have to deal with are rolling hills.
