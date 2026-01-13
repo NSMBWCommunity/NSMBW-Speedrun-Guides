@@ -54,11 +54,10 @@ For all backwards moving ground that affects your momentum, there are two ways "
 1) Crouch jumping and uncrouching mid-air will neutralize your speed. Crouch jumping off of a steep portion of a rolling hill requires a frame-perfect down+jump input, so aim for the peak of a rolling hill for a more lenient crouch jump.
 
 <div class="gif-container">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydmMzN3o2cHR3MW9tZmI5MWtrYjg3YTdtazJlcm5nYWI0MXFkb2JnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iVgk2p7rHnwANWz4sb/giphy.gif" alt="1-1 rolling hills">
+  <img src="https://media1.giphy.com/media/3Thg7wDl1MCXpqN1b0/giphy.gif?cid=9b38fe91hqfcy4fuusmhklvtgyswgb2kwavv41bnyo2r0cf8&ep=v1_gifs_username&rid=giphy.gif&ct=g" alt="8-2 rolling hills">
 </div>
 
 2) Shooting a projectile (fire or ice, ideally immediately before jumping) will neutralize your speed. The position on the hill/platform does not matter; this technique is essentially free. 
-
 
 <div class="gif-container">
   <img src ="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzVkMGNic2pycm1lejgxZmI1amtwOTRvYjJkdGc5cXdheHZicXN3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wze80frMywYZ33uu7c/giphy.gif" alt="6-2 rolling hill">
@@ -70,7 +69,7 @@ Of course, your speed will revert to the speed of the moving ground (or 3 speed 
 
 Any line-controlled blocks/platforms and floating platforms will not affect your speed however you jump off of them.
 
-Follow the rule of thumb and run on them while they are moving in your desired direction. No need to jump off to maintain the platform's speed because it doesn't work. If these platforms are moving against you, avoid them or jump off of them; you will remain at 3 speed.
+Follow the rule of thumb and run on them while they are moving in your desired direction. Jumping off will immediately revert you to 3 speed regardless of which direction they are moving.
 
 <div class="gif-container">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2I3eWE1dGpzZThmMGk4NnF1b2hnNzR3Y3Ryb3l6ODl6ZjBwcXhrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0QJ8tjNsjvRr2UOFX/giphy.gif" alt="7-3 floating platform">
