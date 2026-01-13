@@ -36,14 +36,15 @@ There are essentially two types of moving ground:
 
 <div class="gif-grid">
   <div class="gif-item">
-    <img src="{{ site.baseurl }}/assets/gifs/example1.gif" alt="Description 1">
+    <img src="https://giphy.com/gifs/iVgk2p7rHnwANWz4sb" alt="rolling hill in 1-1">
   </div>
   <div class="gif-item">
-    <img src="{{ site.baseurl }}/assets/gifs/example2.gif" alt="Description 2">
+    <img src="https://giphy.com/gifs/7ylOzISlxDBkhUiWzz" alt="icycles in 3-4">
   </div>
   <div class="gif-item">
-    <img src="{{https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyd3RpdTE3dDJoZ3VoNnBpbmNhMDcybHN4cmpwbDZheTVwbm9xbWFjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AwO1qhrl668zp1Rsa7/giphy.gif}}" alt="7-3">
+    <img src="https://giphy.com/gifs/89w1Ca2xH7laXELpI8" alt="conveyers in 4-t">
   </div>
+  <!-- Add more GIFs here -->
 </div>
 
 #### Some examples of moving ground that carry your speed when jumping off of them.
