@@ -18,7 +18,7 @@ The community has hosted speedrunning events dating way back to 2016. Here is a 
 
 **Staff:** Azord, Volza, Pacasa02
 
-**Restreamer:** [NSMBWCommunity](https://www.twitch.tv/nsmbwcommunity)
+**Restreamer:** [NSMBWCommunity Twitch Channel](https://www.twitch.tv/nsmbwcommunity)
 
 **Vods:**
 
@@ -36,9 +36,9 @@ The community has hosted speedrunning events dating way back to 2016. Here is a 
 
 **Staff:** Volza, LunaEclipse
 
-**Restreamer:** Speedgaming
+**Restreamer:** [Speedgaming](https://www.twitch.tv/speedgaming)
 
-**Vods:** https://www.youtube.com/watch?v=NbO81w0TAEI&list=PLdoWICJMgPKVkxA7dK43dBeuy-Epz72dV
+**Vods:** [NSMBW Summer Tournament 2025 Playlist](https://www.youtube.com/watch?v=NbO81w0TAEI&list=PLdoWICJMgPKVkxA7dK43dBeuy-Epz72dV)
 
 **Bracket:** https://challonge.com/nsmbw2025
 
