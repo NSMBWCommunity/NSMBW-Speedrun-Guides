@@ -10,17 +10,16 @@ Here you'll find everything you need for NSMBW speedrunning, from a huge amount 
 Built and regularly updated by the community and active top-level speedrunners.
 
 ## Website Guide
-If you're here because you're brand new to speedrunning this game, we recommend you watch our [Introduction to Speedrunning NSMBW]() video.
+If you're here because you're brand new to speedrunning this game, we recommend you watch our [Introduction to Speedrunning NSMBW]() video (coming soon).
 
-For important links, see [Resources]().
+For extended info on hardware and mods to help with effective practice, navigate to [Getting Started](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/getting-started/)
 
-For an in-depth guide to moving Mario as fast as possible in this game, see our [Movement Guide]().
+For an in-depth guide to moving Mario as fast as possible in this game, see our [Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/).
 
-If you're looking to learn a specific category, we have detailed tutorials and videos for every experience level--beginner to expert. Head to [Categories]() and go from there.
+If you're looking to learn a specific category, like Any%, we have detailed tutorials and videos for every experience level--beginner to expert. Head to [Categories](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/) and go from there.
 
-Interested at all in the game's speedrun history? Head to the [NSMBW Speedrun Archive].
+For important links, spreadsheets with useful information, and a community archive see [Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/).
 
-## NSMBW Tutorials Server
-Join to ask questions or make suggestions for the site, and to share your accomplishments!
+---
 
-[NSMBW Tutorials Server](https://discord.gg/xMmfPyJ6Mh){: .btn } 
+    All site content managed by rynnoo and v0lza on Discord. DM us for questions or feedback!
