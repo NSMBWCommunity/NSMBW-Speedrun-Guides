@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 # Welcome To The Ultimate NSMBW Speedrun Resource
