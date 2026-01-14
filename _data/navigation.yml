@@ -23,16 +23,17 @@
 - title: Getting Started
   children:
     - title: Setup
-      url: /getting started/setup/
+      url: /getting-started/setup/
       children:
         - title: Hardware
-          url: /resources/tools/hardware/
-    - title: Guides
-      url: /resources/guides/
-    - title: Archive
-      url: /resources/archive/
-    - title: Communities
-      url: /resources/communities/
+          url: /resources/getting-started/hardware/
+          title: Software
+          url: /resources/getting-started/software/
+    - title: Practice
+      url: /getting-started/practice/
+      
+
+
 # tutorials
   # movement guide
   # categories
@@ -44,8 +45,8 @@
   # practice
 
 # resources
+  # discord servers
   # practice mods
   # tools
-  # communities
-
-# archive
+  # community sheets
+  # archive
