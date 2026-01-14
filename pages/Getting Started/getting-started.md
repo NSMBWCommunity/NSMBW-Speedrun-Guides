@@ -8,4 +8,4 @@ has_children: true
 
 # Getting Started
 
-Guides for getting set up and practice resources.
+These guides will help you pick a way to play NSMBW and prepare you for recording and practicing for runs.
