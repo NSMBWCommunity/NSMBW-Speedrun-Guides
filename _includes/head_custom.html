@@ -8,11 +8,19 @@
   box-sizing: border-box;
   border: 8px solid rgba(56, 165, 255, 0.9); /* light blue */
   border-radius: 12px; /* rounded corners */
-  opacity: 0;
-  transform: translateY(8px);
+  /* images are visible by default (in case JS fails). When JS is available, */
+  /* the `js-enabled` class will be added to <html> and hide them until revealed. */
+  opacity: 1;
+  transform: translateY(0);
   transition: opacity 420ms ease-in, transform 420ms ease-in;
 }
-.gif-container img.is-visible {
+
+/* When JavaScript runs we add `js-enabled` to <html> and hide images until observed */
+.js-enabled .gif-container img {
+  opacity: 0;
+  transform: translateY(8px);
+}
+.js-enabled .gif-container img.is-visible {
   opacity: 1;
   transform: translateY(0);
 }
@@ -21,7 +29,10 @@
 <script>
 // Fade images in when they enter the viewport using IntersectionObserver
 (function(){
-  if (typeof window === 'undefined' || !('IntersectionObserver' in window)) return;
+  if (typeof window === 'undefined') return;
+  // mark that JS is enabled so CSS can hide images until revealed
+  try { document.documentElement.classList.add('js-enabled'); } catch(e){}
+  if (!('IntersectionObserver' in window)) return;
   function onIntersect(entries) {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
