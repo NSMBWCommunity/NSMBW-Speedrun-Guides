@@ -1,24 +1,21 @@
 ---
 layout: default
-title: Setup
-permalink: /getting-started/setup/
+title: Picking a Platform
+permalink: /getting-started/picking-a-platform/
 parent: Getting Started
 nav_order: 1
 has_children: true
 has_toc: true
 ---
 
-# Setup
+# Picking a Platform
 
-{: .no_toc }
-
-## Picking a Platform
 In order to submit to the [official leaderboards](https://www.speedrun.com/nsmbw), you need to play on one of the supported platforms:
-- Wii RVL-001 (Gamecube Wii)
-- Wii RVL-101 (Side Wii)
-- Wii U (Physical)
+- Wii RVL-001 ("Gamecube Wii")
+- Wii RVL-101 ("Side Wii")
+- Wii U (Physical or Digital)
 
-The only difference between the 3 platforms is load times dictated by the version of the disc drive in the wii. Side Wiis have the best chance to have the fast disc drive, but this is not guaranteed. In Any%, Low%, and Any% NoW5 loadless retimes are done after a time barrier.
+The only difference between the 3 platforms is load times dictated by the version of the disc drive in the wii. Side Wiis have the best chance to have the fastest disc drive, but this is not guaranteed. In Any%, Low%, and Any% NoW5, loadless retimes are done after breaking a time barrier.
 
 In the other categories you will get a real leaderboard advantage by having faster loads. When people mention their "loads," they typically are referring to their any% load time.
 Example: 24:30 RTA - **2:10 loads** = 22:20 LRT
@@ -28,4 +25,4 @@ Example: 24:30 RTA - **2:10 loads** = 22:20 LRT
 - Wii RVL 001 (Gamecube Wii): 2:09 - 2:13
 
 **Blank Splits**  
-Found on the speedrun.com [resources page](https://www.speedrun.com/nsmbw/resources).  
+Found on the speedrun.com [Resources Page](https://www.speedrun.com/nsmbw/resources).  

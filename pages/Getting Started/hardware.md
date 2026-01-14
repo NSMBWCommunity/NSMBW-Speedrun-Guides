@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hardware
-permalink: /getting-started/setup/hardware/
+permalink: /getting-started/hardware/
 parent: Setup
 nav_order: 1
 ---
