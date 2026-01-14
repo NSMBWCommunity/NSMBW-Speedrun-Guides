@@ -24,6 +24,15 @@
   opacity: 1;
   transform: translateY(0);
 }
+
+/* Archive filtering styles */
+.archive-item {
+  display: block;
+  margin: 1rem 0;
+}
+.archive-item.hidden {
+  display: none;
+}
 </style>
 
 <script>
@@ -43,6 +52,25 @@
   const io = new IntersectionObserver(onIntersect, { root: null, rootMargin: '0px 0px -10% 0px', threshold: 0.05 });
   document.addEventListener('DOMContentLoaded', function(){
     document.querySelectorAll('.gif-container img').forEach(img => io.observe(img));
+  });
+})();
+
+// Archive filtering
+(function(){
+  if (typeof window === 'undefined') return;
+  document.addEventListener('DOMContentLoaded', function(){
+    const dropdown = document.getElementById('archive-dropdown');
+    if (!dropdown) return;
+    dropdown.addEventListener('change', function(){
+      const selected = this.value;
+      document.querySelectorAll('.archive-item').forEach(item => {
+        if (selected === '' || item.dataset.category === selected) {
+          item.classList.remove('hidden');
+        } else {
+          item.classList.add('hidden');
+        }
+      });
+    });
   });
 })();
 </script>
