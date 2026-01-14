@@ -1,0 +1,18 @@
+---
+---
+/* Site-wide image styling: uniform size, subtle fade-in, and light blue border */
+.gif-container { max-width: 480px; margin: 0.5rem auto; }
+.gif-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  border: 8px solid rgba(173, 216, 230, 0.9); /* lightblue */
+  opacity: 0;
+  animation: fadeIn 420ms ease-in forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
