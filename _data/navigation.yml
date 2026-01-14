@@ -1,0 +1,51 @@
+# Site navigation used to order and group the sidebar
+- url: /
+
+- title: Tutorials
+  children:
+    - title: Movement Guide
+      url: /movement/
+    - title: Any%
+      url: /categories/Any%25/
+    - title: Cannonless
+      url: /categories/Cannonless/
+      title: 100%
+      url: /categories/100%25/
+      titleL: Any% No World 5
+      url: /categories/Any%25-No-World-5/
+      title: Any% Multiplayer
+      url: /categories/Any%25-Multiplayer/
+      title: All Regular Exits
+      url: /categories/All-Regular-Exits/
+    - title: Low%
+      url: /categories/low%25/
+
+- title: Getting Started
+  children:
+    - title: Setup
+      url: /getting started/setup/
+      children:
+        - title: Hardware
+          url: /resources/tools/hardware/
+    - title: Guides
+      url: /resources/guides/
+    - title: Archive
+      url: /resources/archive/
+    - title: Communities
+      url: /resources/communities/
+# tutorials
+  # movement guide
+  # categories
+
+# getting started
+  # setup
+    # hardware
+    #software
+  # practice
+
+# resources
+  # practice mods
+  # tools
+  # communities
+
+# archive
