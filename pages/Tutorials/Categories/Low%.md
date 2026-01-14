@@ -2,7 +2,7 @@
 layout: default
 title: Low%
 permalink: /categories/Low%/
-parent: Tutorials
+parent: Categories
 nav_order: 8
 ---
 

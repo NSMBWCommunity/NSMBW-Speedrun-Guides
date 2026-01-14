@@ -1,55 +1,15 @@
 ---
 layout: default
-title: Movement
-permalink: /tutorials/movement/
-parent: Tutorials
+title: Speed
+permalink: /tutorials/movement/speed/
+parent: Movement
 nav_order: 1
-has_toc: true
-has_children: true
+has_toc: false
 ---
 
-# Movement
+# Speed
 
-Movement in this game is quite intuitive once you get the hang of it. Understanding the physics and using the info display mod will greatly help you improve at speedrunning this game.
-
-First, some ground rules when talking about movement in this game.
-
-1) If controls are mentioned, sideways Wii remote is assumed.
-
-<div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/controls.png" alt="Different NSMBW controls">
-</div>
-
-2) "Blocks" refer to the tiling system this game's levels are built with. 2 "blocks" wil refer to 2 "tiles."
-
-<div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/tiles.png" alt="See? Every level is build on a grid">
-</div>
-
-3) Holding "run" while running is always assumed, unless otherwise stated.
-4) 
-
-There is no relevant framerule system in this game, so the goal for every level is to always reach the goal as quick as possible. That means in most instances, we always want to be maximizing Mario's X-speed in horizontal levels, and Y-speed in vertical levels.
-
-## Speed
-
-At maximum regular running speed, Mario moves 3 pixes per frame, or *3 speed*. There are many techniques to increase this speed or avoid losing it.
-
-### Sliding Down Slopes
-
-It fastest to slide down slopes that are less steep than 45 degrees (if solid ground, only slide down 1x2 or 1x4 slopes).
-
-<div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/slopeBlocks.png" alt="The three steepnesses of solid ground slopes">
-</div>
-
-When sliding down slopes it's usually important to slide on the ground after the slope for a bit to get full advantage of the slope speed. Looking at the speed display in the example videos and in your own practice can be a great way to get used to how far on the flat ground you should continue sliding. For 45 degree slopes, it is fastest to run down these and slide at the last moment and on the flat ground for a bit.
-
-<div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/steepSlope.gif" alt="How to deal with a steep 45 degree slope like in 6-3">
-</div>
-
-Running up upwards slopes is slow. Avoid them if possible. If you are forced to land on an upwards slope, jump off as quick as possible.
+Mario's maximum regular running speed is 3 pixels/frame, or *3 speed*. There are many techniques and physics to take advantage of to increase Mario's speed.
 
 ### Moving Platforms
 
@@ -96,3 +56,4 @@ Of course, your speed will revert to the speed of the moving ground (or 3 speed 
 Any **line-controlled blocks/platforms, rotating blocks, and floating platforms** will *not* affect your speed when you jump off of them. They still change your speed when running on them.
 
 Follow the rule of thumb and run on them while they are moving in your desired direction. Jumping off will immediately revert you to 3 speed regardless of which direction the ground is moving.
+
