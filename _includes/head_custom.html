@@ -6,9 +6,32 @@
   width: 100%;
   height: auto;
   box-sizing: border-box;
-  border: 8px solid rgba(173, 216, 230, 0.9); /* light blue */
+  border: 8px solid rgba(56, 165, 255, 0.9); /* light blue */
+  border-radius: 12px; /* rounded corners */
   opacity: 0;
-  animation: jtd-fade-in 420ms ease-in forwards;
+  transform: translateY(8px);
+  transition: opacity 420ms ease-in, transform 420ms ease-in;
 }
-@keyframes jtd-fade-in { from { opacity: 0; } to { opacity: 1; } }
+.gif-container img.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
 </style>
+
+<script>
+// Fade images in when they enter the viewport using IntersectionObserver
+(function(){
+  if (typeof window === 'undefined' || !('IntersectionObserver' in window)) return;
+  function onIntersect(entries) {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('is-visible');
+      }
+    });
+  }
+  const io = new IntersectionObserver(onIntersect, { root: null, rootMargin: '0px 0px -10% 0px', threshold: 0.05 });
+  document.addEventListener('DOMContentLoaded', function(){
+    document.querySelectorAll('.gif-container img').forEach(img => io.observe(img));
+  });
+})();
+</script>
