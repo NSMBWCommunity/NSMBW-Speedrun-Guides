@@ -14,7 +14,7 @@ To have a practical speedrunning setup we recommend having a reliable recording 
 
 For recording, most speedrunners use [OBS](https://obsproject.com/download), although any recording software will do as long as you can upload legible run footage to YouTube. OBS is free and easy to use, and allows for easily streaming to Twitch and locally recording at the same. 
 
-For verification purposes we recommend recording at a bitrate and video quality that won't cause choppy recording whiel still being legible.
+For verification purposes we recommend recording at a bitrate and video quality that won't cause choppy recording while still being legible.
 <i> For information on when to start recording and where to upload your runs, see the [Intro to NSMBW Speedrunning Video (WIP)]().
 
 ## LiveSplit
