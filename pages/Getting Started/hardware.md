@@ -2,9 +2,10 @@
 layout: default
 title: Hardware
 permalink: /getting-started/hardware/
-parent: Setup
-nav_order: 1
+parent: Getting Started
+nav_order: 2
 ---
+
 # Recommended Hardware
 
 There are **four** options you have to capture your game when playing on console. These are ordered from best to worst quality.  

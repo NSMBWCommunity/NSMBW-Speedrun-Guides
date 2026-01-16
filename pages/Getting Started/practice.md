@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Practice
-permalink: /getting-started/Practice/
+permalink: /getting-started/practice/
 parent: Getting Started
-nav_order: 2
+nav_order: 4
 ---
 
 # Practice
