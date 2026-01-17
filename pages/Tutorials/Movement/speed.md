@@ -4,56 +4,48 @@ title: Speed
 permalink: /tutorials/movement/speed/
 parent: Movement
 nav_order: 1
-has_toc: false
 ---
 
-# Speed
+# Introdution to Speed
 
-Mario's maximum regular running speed is 3 pixels/frame, or *3 speed*. There are many techniques and physics to take advantage of to increase Mario's speed.
+Mario's maximum regular running speed is 3 pixels/frame, or *3 speed*. You always want to be holding "1" while moving left or right to run in NSMBW.
 
-### Moving Platforms
+For reference, here are some of Mario's speeds during different actions.
 
-There are many examples of moving platforms/ground in this game, including rolling hills, line-controlled blocks, and floating platforms. **A good rule of thumb for these is to run on any ground that is moving in your desired direction.**
+**Running:**:            3.0
+**Jumping**:             3.0 *(does not affect speed)*
+**Star Power**:          4.0
+**Prop Spin (Up)**:      2.5
+**Prop Spin (Falling)**: 1.5
 
-Some moving ground/platforms can affect your speed im the air after jumping off of them. Let's take a closer look at these:
+Learning these is important for understanding speed optimization. The propellor suit may be convenient for vertical levels and some obstacles, but because of its slow speed while spinning, we want to utilize it as little as possible in horizontal levels.
 
-### 1. Ground That *Does* Affect Your Air Speed
+This also shows the benefits of using the star power-up. More on the star and propellor power-ups soon!
 
-<div class="gif-container">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydmMzN3o2cHR3MW9tZmI5MWtrYjg3YTdtazJlcm5nYWI0MXFkb2JnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iVgk2p7rHnwANWz4sb/giphy.gif" alt="1-1 rolling hills">
-</div>
+---
 
-Moving platforms/ground that will affect your speed in the air include **rolling hills, conveyor belts, the bone coaster, and big ice blocks.**
+## Acceleration
 
-To maximize the speed from these ground types, run onto them as early as possible then jump off of as late as possible, staying in the air as long as possible. Twirling (if you aren't propellor Mario) will help you stay in the air for longer.
+In order to have speed, you must accelerate to that speed!
 
-Similarly, backwards moving ground and rolling hills will decrease your speed while running/jumping off of them.
+Downward slopes aid acceleration, so if you are trying to speed up, run down a slope.
 
-For all backwards moving ground of this type, there are two ways to jump off and "cancel" the speed of the ground you're on and return to 3 speed:
-
-1) **Crouch jumping and uncrouching mid-air.** Crouch jumping off of a steep portion of a rolling hill requires a frame-perfect down+jump input, so aim for the peak of a rolling hill for a more lenient crouch jump.
-
-<div class="gif-container">
-  <img src="https://media1.giphy.com/media/3Thg7wDl1MCXpqN1b0/giphy.gif?cid=9b38fe91hqfcy4fuusmhklvtgyswgb2kwavv41bnyo2r0cf8&ep=v1_gifs_username&rid=giphy.gif&ct=g" alt="8-2 rolling hills">
-</div>
-
-2) **Shooting fire or ice** (ideally immediately before jumping). The position on the hill/platform does not matter; this technique is essentially free and is faster because you don't have to wait until the peak of your jump to regain speed.
-
-<div class="gif-container">
-  <img src ="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzVkMGNic2pycm1lejgxZmI1amtwOTRvYjJkdGc5cXdheHZicXN3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wze80frMywYZ33uu7c/giphy.gif" alt="6-2 rolling hill">
-</div>
-
-Of course, your speed will revert to the speed of the moving ground (or 3 speed if on normal ground) as soon as you land.
-
-### 2. Ground That Does *Not* Affect Your Air Speed
-
-<div class="gif-container">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2I3eWE1dGpzZThmMGk4NnF1b2hnNzR3Y3Ryb3l6ODl6ZjBwcXhrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0QJ8tjNsjvRr2UOFX/giphy.gif" alt="7-3 floating platform">
-</div>
-    these sideways-moving platforms appear in many horizontal levels including 2-2, 7-3, and 9-3.
+In a flat, open area (most levels start this way), running is the fastest way to accelerate starting with no speed. Unless there is a wall...
 
 
-Any **line-controlled blocks/platforms, rotating blocks, and floating platforms** will *not* affect your speed when you jump off of them. They still change your speed when running on them.
+## Wallkicks
 
-Follow the rule of thumb and run on them while they are moving in your desired direction. Jumping off will immediately revert you to 3 speed regardless of which direction the ground is moving.
+[8-1 gif]
+<i></i>
+ 
+ **Wallkicking** is one of the main ways we get to max speed quickly in this game. It is the fastest way to go from zero to max speed if you are near enough to a wall. When doing a wallkick, make it as small as possible (press "2" for as short as the situation permits). The smaller the wallkick, the faster you will accelerate! If you have fire, ice, or penguin, shoot fire/ice as you wallkick and you will get an acceleration boost. Wallkicking instantly sets Mario's speed above 2.0.
 
+ Wallkicking is also extremely fast for vertical climbing. Keep in mind, in order to wallkick:
+ 1) You must be a certain height above the ground
+ 2) You must be near the peak of a propellor spin
+
+---
+
+There are many ways to increase Mario's X speed and Y speed, and avoid losing it. That is what this guide hopes to teach. Let's take a look at one of the most common ways to increase X speed.
+
+[Slopes](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/slopes){: .btn }

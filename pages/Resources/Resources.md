@@ -9,4 +9,16 @@ has_toc: true
 
 # Resources
 
-Our resources for this game range from helpful documents specific to certain routes, to spreadsheets with old tournament statistics. Use the table of contents to help find what you need.
+Anything that the community has achieved, created, or documented in terms of speedrunning this game can be found on this page somewhere. You can find a complete world record history for all categories here as well. Use the table of contents to help find what you need!
+
+Feel free to ask in our [Discord Servers](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/discord-servers) for help finding something you can't find!
+
+<!--
+
+nav order
+1- servers
+2- practice resources
+3- spreadsheets
+4- archive
+
+>

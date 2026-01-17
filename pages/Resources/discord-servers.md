@@ -40,4 +40,4 @@ Interested in speedrunning another game in the NSMB Series like New Super Mario 
 ---
 
 ## Inactive Servers
-Check out [NSMBW Speedrunning Archive > Servers](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/nsmbw-speedrunning-archive/) for any inactive servers you're interested in!
+Check out [NSMBW Speedrunning Archive > Inactive Servers](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/nsmbw-speedrunning-archive/) for any inactive servers you're interested in!

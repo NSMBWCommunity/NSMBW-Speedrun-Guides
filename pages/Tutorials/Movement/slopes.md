@@ -4,7 +4,6 @@ title: Slopes
 permalink: /tutorials/movement/slopes/
 parent: Movement
 nav_order: 2
-has_toc: false
 ---
 
 # Slopes
@@ -25,3 +24,4 @@ For 45 degree slopes, it is fastest to run down these and slide at the last mome
 
 Running up upwards slopes is slow. Avoid them if possible. If you are forced to land on an upwards slope, jump off as quick as possible.
 
+Now that we understand slopes, let's learn about how to enter/exit pipes optimally.

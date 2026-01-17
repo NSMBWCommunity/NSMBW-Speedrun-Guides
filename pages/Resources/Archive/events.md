@@ -2,7 +2,7 @@
 layout: default
 title: Past Events
 permalink: /resources/nsmbw-speedrunning-archive/past-events
-nav_order: 2
+nav_order: 1
 parent: NSMBW Speedrunning Archive
 ---
 
@@ -46,7 +46,7 @@ The community has hosted speedrunning events dating way back to 2016. Here is a 
 
 **Bracket:** [Challonge - NSMBW2025](https://challonge.com/nsmbw2025)
 
-**Times/Stats:** [NSMBW Summer 2025 Tournament Tracker]https://docs.google.com/spreadsheets/d/1lOO4B_X3twEdJrzOOzOGl8YDK-CAjSL_Hl_Xn8UaWA8/edit?usp=sharing
+**Times/Stats:** [NSMBW Summer 2025 Tournament Tracker](https://docs.google.com/spreadsheets/d/1lOO4B_X3twEdJrzOOzOGl8YDK-CAjSL_Hl_Xn8UaWA8/edit?usp=sharing)
 
 ---
 

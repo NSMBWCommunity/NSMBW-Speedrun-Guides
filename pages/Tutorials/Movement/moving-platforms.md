@@ -1,0 +1,54 @@
+---
+layout: default
+title: Moving Platforms
+permalink: /tutorials/movement/moving-platforms/
+parent: Movement
+nav_order: 3
+---
+
+# Moving Platforms
+
+There are many examples of moving platforms/ground in this game, including rolling hills, line-controlled blocks, and floating platforms. **A good rule of thumb for these is to run on any ground that is moving in your desired direction.**
+
+Some moving ground/platforms can affect your speed ind the air after jumping off of them. Let's take a closer look at these:
+
+## 1. Ground That *Does* Affect Your Air Speed
+
+<div class="gif-container">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydmMzN3o2cHR3MW9tZmI5MWtrYjg3YTdtazJlcm5nYWI0MXFkb2JnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iVgk2p7rHnwANWz4sb/giphy.gif" alt="1-1 rolling hills">
+</div>
+
+Moving platforms/ground that will affect your speed in the air include **rolling hills, conveyor belts, the bone coaster, and big ice blocks.**
+
+To maximize the speed from these ground types, run onto them as early as possible then jump off of as late as possible, staying in the air as long as possible. Twirling (if you aren't propellor Mario) will help you stay in the air for longer.
+
+Similarly, backwards moving ground and rolling hills will decrease your speed while running/jumping off of them.
+
+For all backwards moving ground of this type, there are two ways to jump off and "cancel" the speed of the ground you're on and return to 3 speed:
+
+1) **Crouch jumping and uncrouching mid-air.** Crouch jumping off of a steep portion of a rolling hill requires a frame-perfect down+jump input, so aim for the peak of a rolling hill for a more lenient crouch jump.
+
+<div class="gif-container">
+  <img src="https://media1.giphy.com/media/3Thg7wDl1MCXpqN1b0/giphy.gif?cid=9b38fe91hqfcy4fuusmhklvtgyswgb2kwavv41bnyo2r0cf8&ep=v1_gifs_username&rid=giphy.gif&ct=g" alt="8-2 rolling hills">
+</div>
+<i> notice how Mario's X speed returns to 3.0 as soon as he uncrouches midair.
+
+2) **Shooting fire or ice.** The position on the hill/platform does not matter; this technique is essentially free and is faster because you don't have to wait until the peak of your jump to regain speed.
+
+<div class="gif-container">
+  <img src ="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzVkMGNic2pycm1lejgxZmI1amtwOTRvYjJkdGc5cXdheHZicXN3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wze80frMywYZ33uu7c/giphy.gif" alt="6-2 rolling hill">
+</div>
+<i> Shooting fire/ice immediately before you jump is optimal. Jumping as soon as you land will minimize speed loss. </i>
+
+Of course, your speed will revert to the speed of the moving ground (or 3 speed if on normal ground) as soon as you land.
+
+### 2. Ground That Does *Not* Affect Your Air Speed
+
+Any **line-controlled blocks/platforms, rotating blocks, and floating platforms** will *not* affect your speed when you jump off of them. They still change your speed when running on them.
+
+<div class="gif-container">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2I3eWE1dGpzZThmMGk4NnF1b2hnNzR3Y3Ryb3l6ODl6ZjBwcXhrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0QJ8tjNsjvRr2UOFX/giphy.gif" alt="7-3 floating platform">
+</div>
+<i> these sideways-moving platforms appear in many horizontal levels including 2-2, 7-3, and 9-3. </i>
+
+Follow the rule of thumb and run on them while they are moving in your desired direction. Jumping off will immediately revert you to 3 speed regardless of which direction the ground is moving.
