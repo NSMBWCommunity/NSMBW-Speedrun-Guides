@@ -16,7 +16,7 @@ This guide is ordered from simple to advanced, starting with the basics to help 
 
 The guide starts by providing some base knowledge on speed:
 
-[Speed ⇨](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/speed){: .btn }
+[Speed ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/speed){: .btn }
 
 <!--
 
@@ -37,4 +37,4 @@ nav order
 13- multiplayer
 
 
->
+-->

@@ -3,7 +3,7 @@ layout: default
 title: Moving Platforms
 permalink: /tutorials/movement/moving-platforms/
 parent: Movement
-nav_order: 3
+nav_order: 6
 ---
 
 # Moving Platforms
@@ -50,6 +50,12 @@ Any **line-controlled blocks/platforms, rotating blocks, and floating platforms*
 <div class="gif-container">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2I3eWE1dGpzZThmMGk4NnF1b2hnNzR3Y3Ryb3l6ODl6ZjBwcXhrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0QJ8tjNsjvRr2UOFX/giphy.gif" alt="7-3 floating platform">
 </div>
-<i> these sideways-moving platforms appear in many horizontal levels including 2-2, 7-3, and 9-3. </i>
+<i><small> these sideways-moving platforms appear in many horizontal levels including 2-2, 7-3, and 9-3. </small></i>
 
 Follow the rule of thumb and run on them while they are moving in your desired direction. Jumping off will immediately revert you to 3 speed regardless of which direction the ground is moving.
+
+---
+
+Now let's take a quick look at the type of movement every speedrunner hates...
+
+[Swimming ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/swimming){: .btn }

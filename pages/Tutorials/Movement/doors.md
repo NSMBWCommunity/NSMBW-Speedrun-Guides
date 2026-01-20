@@ -21,6 +21,8 @@ This game has big and small doors but this rule applies to them both.
 </div>
 <i><small> Here's an RTA tower door (2-Tower). Notice how Mario goes straight in.</small></i>
 
+---
+
 <div class="gif-container">
   <img src="https://media.giphy.com/media/mls0xagOWEFT89YSxB/giphy.gif" alt="3-GH RTA door">
 </div>
@@ -35,6 +37,8 @@ For the most part, save these for ILs! **Enter the door as early as possible.** 
 </div>
 <i><small> IL door example in 2-Tower. IL doors have a greater difference on big doors because the center is further from either edge. </small></i>
 
+---
+
 <div class="gif-container">
   <img src="https://media.giphy.com/media/ifTThB0E6vl4Y24WHB/giphy.gif" alt="3-GH IL door">
 </div>
@@ -42,6 +46,6 @@ For the most part, save these for ILs! **Enter the door as early as possible.** 
 
 ---
 
-Let's get a little more complex now! Let's take a closer look at how moving platforms affect Mario's speed.
+Let's get a little more complex now! We'll next take a closer look at how moving platforms affect Mario's speed.
 
-[Moving Platforms ⇨](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/moving-platforms){: .btn }
+[Moving Platforms ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/moving-platforms){: .btn }

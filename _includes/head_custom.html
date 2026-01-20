@@ -25,6 +25,12 @@
   transform: translateY(0);
 }
 
+/* Centering for small text in captions under GIF containers */
+.gif-container + i small {
+  display: block;
+  text-align: center;
+}
+
 /* Archive filtering styles */
 .archive-item {
   display: block;
@@ -34,43 +40,4 @@
   display: none;
 }
 </style>
-
-<script>
-// Fade images in when they enter the viewport using IntersectionObserver
-(function(){
-  if (typeof window === 'undefined') return;
-  // mark that JS is enabled so CSS can hide images until revealed
-  try { document.documentElement.classList.add('js-enabled'); } catch(e){}
-  if (!('IntersectionObserver' in window)) return;
-  function onIntersect(entries) {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add('is-visible');
-      }
-    });
-  }
-  const io = new IntersectionObserver(onIntersect, { root: null, rootMargin: '0px 0px -10% 0px', threshold: 0.05 });
-  document.addEventListener('DOMContentLoaded', function(){
-    document.querySelectorAll('.gif-container img').forEach(img => io.observe(img));
-  });
-})();
-
-// Archive filtering
-(function(){
-  if (typeof window === 'undefined') return;
-  document.addEventListener('DOMContentLoaded', function(){
-    const dropdown = document.getElementById('archive-dropdown');
-    if (!dropdown) return;
-    dropdown.addEventListener('change', function(){
-      const selected = this.value;
-      document.querySelectorAll('.archive-item').forEach(item => {
-        if (selected === '' || item.dataset.category === selected) {
-          item.classList.remove('hidden');
-        } else {
-          item.classList.add('hidden');
-        }
-      });
-    });
-  });
-})();
-</script>
+// ...existing code...
