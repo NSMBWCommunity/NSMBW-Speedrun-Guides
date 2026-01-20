@@ -43,7 +43,7 @@ For all backwards moving ground of this type, there are two ways to jump off and
 
 Of course, your speed will revert to the speed of the moving ground (or 3 speed if on normal ground) as soon as you land.
 
-### 2. Ground That Does *Not* Affect Your Air Speed
+## 2. Ground That Does *Not* Affect Your Air Speed
 
 Any **line-controlled blocks/platforms, rotating blocks, and floating platforms** will *not* affect your speed when you jump off of them. They still change your speed when running on them.
 
@@ -56,6 +56,6 @@ Follow the rule of thumb and run on them while they are moving in your desired d
 
 ---
 
-Now let's take a quick look at the type of movement every speedrunner hates...
+Next: neutral speed preservation tricks! 
 
-[Swimming ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/swimming){: .btn }
+[Neutral Tricks ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/neutral-tricks){: .btn }

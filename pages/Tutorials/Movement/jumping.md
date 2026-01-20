@@ -8,9 +8,7 @@ nav_order: 3
 
 # Jumping
 
-There are a few techniques used while jumping.
-
-First for the basics:
+There are a few techniques used while jumping. First for the basics:
 
 1. Jumping on solid ground does not lose or gain Mario speed.
 2. Running and jumping makes Mario jump higher than stationairy jumping (will refer to as full jumps).

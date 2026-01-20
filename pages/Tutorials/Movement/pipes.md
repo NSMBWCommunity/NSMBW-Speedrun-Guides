@@ -17,8 +17,6 @@ RTA strategies are strategies used to optimize **real-time** speedruns, so *RTA 
 A pipe can face four directions. For **left and right facing pipes**, running into them normally is as fast as you'll get. Keep in mind you need to be on the ground by a pipe entrance for **6 frames** (0.1 seconds) before entering that pipe. Meaning, ideally you want to land on the ground about one two blocks before a horizontal pipe to enter it without waiting.
 
 For **down-facing pipes**, you want to crouch jump into the middle of the pipe. Crouch jumping makes Mario's hitbox height smaller, thus making the pipe-entering animation shorter. Entering on the left or right edge of the pipe causes Mario to slowly align to the center of the pipe- much slower than Mario's running speed. 
-[gif]
-<i></i>
 
 For pipes facing up, enter them as close to the middle as possible. Crouching into upwards-facing pipes has no effect.
 
@@ -39,21 +37,21 @@ For **sideways pipes** do a small wallkick off of the pipe. We call these pipeki
 <div class="gif-container">
   <img src="https://media.giphy.com/media/VGimiSYk4YZZXmRofq/giphy.gif" alt="5-3 pipekick">
 </div>
-<i><small> This pipekick in 5-3 is barely possible with a small wallkick. </small></i>[gif]
+<i><small> This pipekick in 5-3 is barely possible with a small wallkick. </small></i>
 
 For **down-facing pipes**, just fall. If you are high enough up and there is a wall opposite your desired direction, do a small wallkick off that wall as you fall out of the pipe.
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/JHnGrdqKo2gOeg60M6/giphy.gif" alt="8-C downwards pipe">
 </div>
-<i><small> Example of a downward facing pipe with an opposite wall (8-Castle). </small></i>[gif]
+<i><small> Example of a downward facing pipe with an opposite wall (8-Castle). </small></i>
 
 For **upwards-facing pipes**, just run off unless there is a wall opposite to your desired direciton. If so, immediately do a small wallkick off the wall after you exit the pipe.
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/FOzzMUIEkh5Ps3Yf82/giphy.gif" alt="5-2 upwards pipe">
 </div>
-<i><small> Upwards facing pipe with opposite wall (5-2). </small></i>[gif]
+<i><small> Upwards facing pipe with opposite wall (5-2). </small></i>
 
 ---
 

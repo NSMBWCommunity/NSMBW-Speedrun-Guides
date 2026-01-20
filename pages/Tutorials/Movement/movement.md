@@ -28,8 +28,8 @@ nav order
 4- pipes
 5- doors
 6- moving platforms
-7- swimming
-8- neutral tricks
+7- neutral tricks
+8- swimming
 9- star
 10- propellor
 11- penguin
