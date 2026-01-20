@@ -48,9 +48,9 @@ Of course, your speed will revert to the speed of the moving ground (or 3 speed 
 Any **line-controlled blocks/platforms, rotating blocks, and floating platforms** will *not* affect your speed when you jump off of them. They still change your speed when running on them.
 
 <div class="gif-container">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2I3eWE1dGpzZThmMGk4NnF1b2hnNzR3Y3Ryb3l6ODl6ZjBwcXhrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0QJ8tjNsjvRr2UOFX/giphy.gif" alt="7-3 floating platform">
+  <img src="https://media.giphy.com/media/CCAaxLpfqoYuRQCJ3M/giphy.gif" alt="7-3 floating platform">
 </div>
-<i><small> these sideways-moving platforms appear in many horizontal levels including 2-2, 7-3, and 9-3. </small></i>
+<i><small> these sideways-moving platforms appear in many horizontal levels including 2-2, 7-3, and 9-3. Note how Mario's speed momentarily goes to 4.0 while on the patform, then reverts to 3.0 when he jumps off. </small></i>
 
 Follow the rule of thumb and run on them while they are moving in your desired direction. Jumping off will immediately revert you to 3 speed regardless of which direction the ground is moving.
 

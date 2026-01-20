@@ -18,6 +18,8 @@ The guide starts by providing some base knowledge on speed:
 
 [Speed ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/speed){: .btn }
 
+<small> Keep in mind the examples shown in this guide are only there for the sole purpose of better explaining the movement being taught.</small>
+
 <!--
 
 nav order
