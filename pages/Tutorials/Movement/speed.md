@@ -28,10 +28,9 @@ This also shows the benefits of using the star power-up. More on the star and pr
 
 In order to have speed, you must accelerate to that speed!
 
-Downward slopes aid acceleration, so if you are trying to speed up, run down a slope.
+Downward slopes aid acceleration, so if you are trying to speed up, go down a slope. More on [Slopes](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/slopes) next.
 
 In a flat, open area (most levels start this way), running is the fastest way to accelerate starting with no speed. Unless there is a wall...
-
 
 ## Wallkicks
 
@@ -40,7 +39,9 @@ In a flat, open area (most levels start this way), running is the fastest way to
  
  **Wallkicking** is one of the main ways we get to max speed quickly in this game. It is the fastest way to go from zero to max speed if you are near enough to a wall. When doing a wallkick, make it as small as possible (press "2" for as short as the situation permits). The smaller the wallkick, the faster you will accelerate! If you have fire, ice, or penguin, shoot fire/ice as you wallkick and you will get an acceleration boost. Wallkicking instantly sets Mario's speed above 2.0.
 
- Wallkicking is also extremely fast for vertical climbing. Keep in mind, in order to wallkick:
+
+
+ Wallkicking is also extremely fast for vertical climbing. Keep in mind, in order to wallkick: 
  1) You must be a certain height above the ground
  2) You must be near the peak of a propellor spin
 
@@ -48,4 +49,4 @@ In a flat, open area (most levels start this way), running is the fastest way to
 
 There are many ways to increase Mario's X speed and Y speed, and avoid losing it. That is what this guide hopes to teach. Let's take a look at one of the most common ways to increase X speed.
 
-[Slopes](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/slopes){: .btn }
+[Slopes ⇨](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/slopes){: .btn }

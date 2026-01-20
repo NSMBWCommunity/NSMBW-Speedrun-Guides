@@ -14,21 +14,27 @@ Movement in this game is intricate yet intuitive. It is worth understanding the 
 
 This guide is ordered from simple to advanced, starting with the basics to help you understand what makes Mario fast, and will eventually tackle the advanced techniques and precise inputs. Use the table of contents if you're looking for info on a specific topic!
 
+The guide starts by providing some base knowledge on speed:
+
+[Speed ⇨](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/speed){: .btn }
+
 <!--
 
 nav order
 
 1- speed (intro)
 2- slopes
-3- pipes
-4- moving ground
-5- propellor
-6- neutral tricks
-7- triple jumps
-swimming
-penguin
-extras (mini/multiplayer)
-
+3- jumping
+4- pipes
+5- doors
+6- moving platforms
+7- swimming
+8- neutral tricks
+9- star
+10- propellor
+11- penguin
+12- mini
+13- multiplayer
 
 
 >

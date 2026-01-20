@@ -3,14 +3,14 @@ layout: default
 title: Pipes
 permalink: /tutorials/movement/pipes/
 parent: Movement
-nav_order: 3
+nav_order: 4
 ---
 
 # Pipes
 
 Dealing with pipes is simple once you learn how to enter and exit them properly in different scenarios.
 
-## RTA Pipe Entering
+## *RTA Pipe* **Entering**
 
 RTA, or *Real Time Attack* refers to the fastest strategy to do for "real time" runs, i.e. any speedrun that isn't an IL, or *Idivudual Level*, which uses the *In-Game Timer* (IGT).
 
@@ -22,31 +22,41 @@ For **down-facing pipes**, you want to crouch jump into the middle of the pipe. 
 
 For pipes facing up, enter them as close to the middle as possible. Crouching into upwards-facing pipes has no effect.
 
-## IL Pipe Entering
+## *IL Pipe* **Entering**
 
 Entering pipes when optimizing for ILs is essentially the opposite of optimizing for RTA. 
 
 Pipe animations and transitions pause the IGT so you want to enter pipes as soon as possible in ILs. This means no crouch jumping, and entering as far left/right as possible.
-[gif]
-<i>source:</i>
 
 ---
 
-## Exiting Pipes
+## **Exiting** Pipes
 
 The optimal technique for exiting pipes is the same for all run types.
 
-For **sideways pipes** do a small wallkick off of the pipe. The smaller jump you do, the faster you will accelerate. If you have fire, ice, or penguin, shoot fire/ice after you wallkick to get an acceleration boost.
+For **sideways pipes** do a small wallkick off of the pipe. We call these pipekicks. The wallkick you do, the faster you will accelerate. If you have fire, ice, or penguin, shoot fire/ice after you wallkick to get an acceleration boost.
 
-[gif]
-<i></i>
+<div class="gif-container">
+  <img src="https://media.giphy.com/media/VGimiSYk4YZZXmRofq/giphy.gif" alt="5-3 pipekick">
+</div>
+<i><small> This pipekick in 5-3 is barely possible with a small wallkick. </small></i>[gif]
 
-For **down-facing pipes**, just fall. If you are high enough up and there is a wall opposite to your desired direction, do a small wallkick off that wall as you fall out of the pipe.
+For **down-facing pipes**, just fall. If you are high enough up and there is a wall opposite your desired direction, do a small wallkick off that wall as you fall out of the pipe.
 
-[gif]
-<i></i>
+<div class="gif-container">
+  <img src="https://media.giphy.com/media/JHnGrdqKo2gOeg60M6/giphy.gif" alt="8-C downwards pipe">
+</div>
+<i><small> Example of a downward facing pipe with an opposite wall (8-Castle). </small></i>[gif]
 
 For **upwards-facing pipes**, just run off unless there is a wall opposite to your desired direciton. If so, immediately do a small wallkick off the wall after you exit the pipe.
 
-[gif]
-<i></i>
+<div class="gif-container">
+  <img src="https://media.giphy.com/media/FOzzMUIEkh5Ps3Yf82/giphy.gif" alt="5-2 upwards pipe">
+</div>
+<i><small> Upwards facing pipe with opposite wall (5-2). </small></i>[gif]
+
+---
+
+Pipes are the most common way Mario transitions areas. Next most common are doors. These are pretty easy!
+
+[Doors ⇨](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/doors){: .btn }
