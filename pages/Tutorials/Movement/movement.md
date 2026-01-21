@@ -41,8 +41,10 @@ nav order
 13- multiplayer
 
 list of gifs to create
+8-a RTA and IL downward pipe entry
 1-1 goomba boost
 8-2 goomba boost
 5-1 neutral vines
+
 
 -->

@@ -36,7 +36,7 @@ As seen in 1-1, you can get a boost from a goomba right after the checkpoint. Th
 </div>
 <i><small> This is "goomba boost" in 1-1, and is only faster to attempt if you get [DSS]((https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/any%/world1/1-1)) </small></i>
 
-<i class="fas fa-info-circle" style="font-size: 0.8em; color: rgba(56, 165, 255, 0.9);"></i> <i> This has to be frame-perfect, because typically when you jump off of a slope, you immediately revert to 3 speed. Also, as long as you're not small/mini Mario, **sliding will ensure you will not take damage to attemping goomba boost.**</i>
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: rgba(56, 165, 255, 0.9);"></i> <i> This is frame-perfect because when you jump off of a slope, you immediately revert to 3 speed. Also, as long as you're not small/mini Mario, **sliding will ensure you will not take damage to attemping goomba boost.**</i>
 
 ---
 
