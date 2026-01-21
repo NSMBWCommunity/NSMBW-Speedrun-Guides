@@ -50,7 +50,7 @@ A **crouch triple** is done by double jumping, then doing a frame-perfect crouch
 
 ## Hovering
 
-An underrated mechanic that is worth getting used to is hovering. Hovering is done by buffering "2" as you're falling. It will decrease your negative Y acceleration so you fall slower! This is useful for a ton of strats, notably the first skip in 6-1 and the last skip in 8-Airship. Take note of the usage of the "2" button on the input display in the examples.
+An underrated mechanic that is worth getting used to is hovering. Hovering is done by buffering `2` as you're falling. It will decrease your negative-Y acceleration so you fall slower! This is useful for a ton of strats, notably the first skip in 6-1 and the last skip in 8-Airship. Take note of the usage of the `2` button on the input display in the examples.
 
 <div class="gif-container">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVlZzVlZ2Nmc3hsb3hsYm5iZ3I2cnc5dW94ZGpldWVmc3hubmczZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HQW4v3Q27pzXHtgwXH/giphy.gif" alt="6-1 hover jump">
