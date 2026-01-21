@@ -30,7 +30,7 @@ This game has big and small doors but this rule applies to them both.
 
 ## IL Doors
 
-For the most part, save these for ILs! **Enter the door as early as possible.** It can be helpful to buffer an "up" input as you land near a door to get an optimal IL entry. Again, these work the same for big and small doors.
+For the most part, save these for ILs! **Enter the door as early as possible.** It can be helpful to buffer an `up` input as you land near a door to get an optimal IL entry. Again, these work the same for big and small doors.
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/TJjiOv4AO8c6dl9P7D/giphy.gif" alt="2-C IL door">

@@ -14,7 +14,7 @@ Dealing with pipes is simple once you learn how to enter and exit them properly 
 
 RTA strategies are strategies used to optimize **real-time** speedruns, so *RTA Pipes* are the fastest way to deal with pipes. *IL pipes and strategies* optimize for in-game time, but are slower for real-time.
 
-A pipe can face four directions. For **left and right facing pipes**, running into them normally is as fast as you'll get. Keep in mind you need to be on the ground by a pipe entrance for **6 frames** (0.1 seconds) before entering that pipe. Meaning, ideally you want to land on the ground about one two blocks before a horizontal pipe to enter it without waiting.
+A pipe can face four directions. For **left and right facing pipes**, running into them normally is as fast as you'll get. Keep in mind you need to be on the ground by a pipe entrance for **10 frames** (0.16 seconds) before entering that pipe. Meaning, ideally you want to land on the ground about one two blocks before a horizontal pipe to enter it without waiting.
 
 For **down-facing pipes**, you want to crouch jump into the middle of the pipe. Crouch jumping makes Mario's hitbox height smaller, thus making the pipe-entering animation shorter. Entering on the left or right edge of the pipe causes Mario to slowly align to the center of the pipe- much slower than Mario's running speed. 
 

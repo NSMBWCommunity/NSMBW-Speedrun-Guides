@@ -15,13 +15,13 @@ Some moving ground/platforms can affect your speed ind the air after jumping off
 ## 1. Ground That *Does* Affect Your Air Speed
 
 <div class="gif-container">
-  <img src="https://media.giphy.com/media/iVgk2p7rHnwANWz4sb/giphy.gif" alt="1-1 rolling hills">
+  <img src="https://media.giphy.com/media/FcGRxeE1U2C9ncp61U/giphy.gif" alt="1-1 rolling hills">
 </div>
 <small><i>You'll eventually get sick of the rolling hills in 1-1, but at least you'll be a pro at dealing with them.</i><small>
 
 Moving platforms/ground that will affect your speed in the air include **rolling hills, conveyor belts, the bone coaster, and big ice blocks.**
 
-To maximize the speed from these ground types, run onto them as early as possible then jump off of as late as possible, staying in the air as long as possible. Twirling (if you aren't propellor Mario) will help you stay in the air for longer.
+To maximize the speed from these ground types, run onto them as early as possible then jump off as late as possible, staying in the air as long as possible. Twirling (if you aren't propellor Mario) will help you stay in the air for longer.
 
 Similarly, backwards moving ground and rolling hills will decrease your speed while running/jumping off of them.
 
@@ -39,7 +39,7 @@ For all backwards moving ground of this type, there are two ways to jump off and
 <div class="gif-container">
   <img src ="https://media.giphy.com/media/dUdW0uwWAely1TX9gS/giphy.gif" alt="6-2 rolling hill">
 </div>
-<i><small> Shooting fire/ice right before jumping will immediately bring Mario back to 3 speed. </small></i>
+<i><small> Shooting fire/ice right before jumping will immediately bring Mario back to 3 speed (6-2). </small></i>
 
 Of course, your speed will revert to the speed of the moving ground (or 3 speed if on normal ground) as soon as you land.
 
@@ -50,7 +50,7 @@ Any **line-controlled blocks/platforms, rotating blocks, and floating platforms*
 <div class="gif-container">
   <img src="https://media.giphy.com/media/CCAaxLpfqoYuRQCJ3M/giphy.gif" alt="7-3 floating platform">
 </div>
-<i><small> these sideways-moving platforms appear in many horizontal levels including 2-2, 7-3, and 9-3. Note how Mario's speed momentarily goes to 4.0 while on the patform, then reverts to 3.0 when he jumps off. </small></i>
+<i><small> Note how Mario's speed momentarily goes to 4.0 while on the patform, then reverts to 3.0 when he jumps off.</small></i>
 
 Follow the rule of thumb and run on them while they are moving in your desired direction. Jumping off will immediately revert you to 3 speed regardless of which direction the ground is moving.
 
