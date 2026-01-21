@@ -10,6 +10,8 @@ nav_order: 5
 
 Doors are everywhere in this game. Entering them optimally is very important, but easy to understand!
 
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>*RTA* stands for *Real-Time Attack*, and refers to speedruns done in real time. *IL* stands for *Individual Level*. *IGT* refers to the *In-Game Timer* that appears in the top right corner of your screen while in a level.</i>
+
 ## RTA Doors
 
 Again, these are the entrances we will be going for in real time runs. Essentially, we always want to **enter doors as early as possible *without* making Mario turn to the side** during his door entry animation.
@@ -30,12 +32,14 @@ This game has big and small doors but this rule applies to them both.
 
 ## IL Doors
 
-For the most part, save these for ILs! **Enter the door as early as possible.** It can be helpful to buffer an `up` input as you land near a door to get an optimal IL entry. Again, these work the same for big and small doors.
+For the most part, save these for ILs! **Enter the door as early as possible.** It can be helpful to buffer an `up` input as you approach a door to enter it as soon as possible.
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/TJjiOv4AO8c6dl9P7D/giphy.gif" alt="2-C IL door">
 </div>
 <i><small> IL door example in 2-Tower. IL doors have a greater difference on big doors because the center is further from either edge. </small></i>
+
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>Tower and Castle boss doors behave the same and are the same size. The same is true for ghost house doors and yellow dpad doors.</i>
 
 ---
 

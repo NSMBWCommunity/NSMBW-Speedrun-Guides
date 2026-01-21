@@ -40,5 +40,9 @@ nav order
 12- mini
 13- multiplayer
 
+list of gifs to create
+1-1 goomba boost
+8-2 goomba boost
+5-1 neutral vines
 
 -->

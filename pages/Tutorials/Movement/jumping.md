@@ -43,9 +43,10 @@ Triple jump storage can be activated a few ways, but really only one is useful. 
 
 Triple storage can be preserved through slowing down to a complete stop, crouching, changing X directions, and even through boss cutscenes. You will lose triple jump storage if you leave the ground, crouch jump, or spin jump
 
-A **crouch triple** is done by double jumping, then doing a frame perfect crouch jump. You will get triple jump height without the flip animation. Your hitbox will also be reduced to one block tall for all powerups (except small and mini), but this trick is impossible with penguin.
+A **crouch triple** is done by double jumping, then doing a frame-perfect crouch jump. You will get triple jump height without the flip animation. Your hitbox will also be reduced to one block tall for all powerups (except small and mini), but this trick is impossible with penguin.
 
-Both of these triple jump techniques make the same "boing" sound effect as a regular triple jump when done properly.
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>Both of these triple jump techniques will make the "boing" sound effect, but Mario won't say anything like he does while performing a regular triple jump.</i>
+
 
 ## Hovering
 
@@ -70,15 +71,17 @@ Stutterstepping is a trick that is useful in only one or two settings in the ent
 To stutterstep, you need to hold `2` while you land (technically a hover jump...) and you should continue holding `2` as long as you can while running on the rolling hill. Seeing the example with input display may be helpful:
 
 <div class="gif-container">
-  <img src="https://media.giphy.com/media/rxWWZZdnq22MkD4hAg/giphy.gif" alt="8-2 stutterstep">
+  <img src="https://media.giphy.com/media/jCU7k27u18LDE8LMIb/giphy.gif" alt="8-2 stutterstep">
 </div>
 <i><small> Mario's speed goes above 6.0 for a few frames on each rolling hill (8-2). </small></i>
 
 ## Jump Rule Exceptions
 
-If Mario jumps onto backwards moving ground (specifically moving ground that affects your midair speed; more info [here](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/moving-platforms)), double and triple jumps must be frame perfect.
+If Mario jumps onto backwards moving ground (specifically moving ground that affects your midair speed; more info [here](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/moving-platforms)), double and triple jumps must be frame-perfect.
 
 If Mario jumps very precisely at the edge of a platform, he will lose his jump progression (Mario will do a single jump regardless of the prevous jump). Try not to jump at the very edge of platforms to avoid this.
+
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>On moving platforms that affect your speed midair like the bone coaster, jumping off the very edge will cause you not only to lose your jump progression, but also your speed.</i>
 
 ---
 

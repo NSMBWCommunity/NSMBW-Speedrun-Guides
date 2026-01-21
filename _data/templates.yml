@@ -1,0 +1,22 @@
+<!-- templates for embedding in other files -->
+
+---
+
+**GIFs**
+
+<div class="gif-container">
+  <img src="" alt="">
+</div>
+<i><small></small></i>
+
+---
+
+**Info/Tips**
+
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i></i>
+
+---
+
+**Links Within This Site**
+
+[](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/)
