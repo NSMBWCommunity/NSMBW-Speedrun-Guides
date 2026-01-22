@@ -4,9 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome To The Ultimate NSMBW Speedrun Resource
+# Welcome To The Ultimate NSMBW Speedrunning Resource
 
-Here you'll find everything you need for NSMBW speedrunning, from a huge amount of detailed tutorials to just about every resource ever created for this game's speedrun.
+Here you'll find everything you need for NSMBW speedrunning, from a huge amount of detailed tutorials to just about every resource ever created for speedrunning this game.
 
 Built and regularly updated by the community and active top-level speedrunners.
 
