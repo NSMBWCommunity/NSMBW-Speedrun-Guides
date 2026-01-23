@@ -11,6 +11,15 @@
 
 ---
 
+**/assets Resources**
+
+<div class="gif-container">
+  <img src="{{ site.baseurl }}/assets/" alt="">
+</div>
+<i><small></small></i>
+
+---
+
 **Info/Tips**
 
 <i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i></i>

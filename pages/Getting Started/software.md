@@ -15,7 +15,8 @@ To have a practical speedrunning setup we recommend having a reliable recording 
 For recording, most speedrunners use [OBS](https://obsproject.com/download), although any recording software will do as long as you can upload legible run footage to YouTube. OBS is free and easy to use, and allows for easily streaming to Twitch and locally recording at the same. 
 
 For verification purposes we recommend recording at a bitrate and video quality that won't cause choppy recording while still being legible.
-<i> For information on when to start recording and where to upload your runs, see the [Intro to NSMBW Speedrunning Video (WIP)]().
+
+<i>For information on when to start recording and where to upload your runs, see the [Intro to NSMBW Speedrunning Video (WIP)]().</i>
 
 ## LiveSplit
 
@@ -27,7 +28,7 @@ If you want to use your phone as a speedrun timer, we recommend the app **FrameP
 
 For blank splits for *all* RTA leaderboard categories, go [here](https://drive.google.com/drive/folders/1Hv7Z0CEArkLPw3m_ACdqbD-_CjAaiCzM).
 
-<i>Reminder: having a timer on your run footage is not required, but it highly recommended. All submitted runs are officially retimed.</i>
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>Having a timer on your run footage is not required, but it highly recommended. All submitted runs are officially retimed.</i>
 
 ## Other NSMBW Software
 
