@@ -12,7 +12,7 @@ While NSMBW might look difficult on the surface, nothing in this game can’t be
 
 Knowing how to effectively practice NSMBW is what will keep you from plateauing and help you to continuously improve your times.
 
-If you're looking for a plain list of practice resource links without any explanation, head to [Practice Resources]().
+If you're looking for a plain list of practice resource links, head to [Practice Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/practice-resources).
 
 ## Practice Mod 
 
@@ -39,13 +39,14 @@ The NSMBW Practice Mod is packed with a multitude of features, including:
 | Zoom in | Plus + D-Pad Down | Plus + D-Pad Down | Plus + D-Pad Down |
 | Toggle zoom | Plus + D-Pad Left | Plus + D-Pad Left | Plus + D-Pad Left |
 | Default zoom | Plus + D-Pad right | Plus + D-Pad right | Plus + D-Pad right |
+| Visualize Hitboxes | B + 2 | B + 2 | B + 2 |
 
 3. An info display at the top of the screen provides real-time useful info including X/Y speed, precise IGT, an input display, Mario's current movement state, and a power-up-specific frame timer (more info can be found throughout the [Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement)).
 
 <div class="gif-container">
   <img src="{{ site.baseurl }}/assets/infoDisplay.png" alt="Practice Mod info display">
 </div>
-<i><small>What the info display looks like in-game. This will be shown in all tutorial examples.</small></i>
+<i><small>What the Info Display looks like in-game. This will be shown in all tutorial examples.</small></i>
 
 <i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>We recommend practicing while using instant replay software such as [AmaRecTV](https://www.videohelp.com/software/AmaRecTV) to make the most of this feature.</i>
 

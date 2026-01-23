@@ -2,7 +2,7 @@
 layout: default
 title: NSMBW Speedrunning Archive
 permalink: /resources/nsmbw-speedrunning-archive/
-nav_order: 2
+nav_order: 4
 parent: Resources
 has_toc: true
 ---
