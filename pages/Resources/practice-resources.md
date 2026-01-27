@@ -8,13 +8,23 @@ parent: Resources
 
 # Practice Resources
 
-A condensed version of our introductory [Practice Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/getting-started/practice).
+All of the resources listed from the introductory [Practice Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/getting-started/practice).
 
 ## Mods
 
+A list of NSMBW Mods (Riivolution patches) used for practice.
+
+---
+<div class="gif-container">
+  <img src="{{ site.baseurl }}/assets/pracromSS.png" alt="practice rom screenshot">
+</div>
+<i><small></small></i>
+
 [Practice Mod](https://discordapp.com/channels/135832360099774464/1033932077890027561){: .btn }
 
-Has Rynnoo's pipes for accessibility, Roadrunner's Practice Mode, and MGR's Info Display + Zoom mods all in one. Can be found in the `#resources` channel of the NSMBW Speedrunning Server. ([Invite Link](https://discord.gg/pMKAaGscrh)) Controls:
+Has Rynnoo's pipes for accessibility, Roadrunner's Practice Mode, and MGR's Info Display + Zoom mods all in one. Can be found in the `#resources` channel of the NSMBW Speedrunning Server. ([Invite Link](https://discord.gg/pMKAaGscrh))
+
+**Controls:**
 
 | Action | Sideways Wiimote ("A") | Sideways Wiimote ("B") | Wiimote + Nunchuk |
 | - | - | - | - |
@@ -33,11 +43,21 @@ Has Rynnoo's pipes for accessibility, Roadrunner's Practice Mode, and MGR's Info
 
 ---
 
+<div class="gif-container">
+  <img src="{{ site.baseurl }}/assets/pracmodeSS.png" alt="practice mode logo">
+</div>
+<i><small></small></i>
+
 [NSMBW Practice Mode](https://github.com/RoadrunnerWMC/NSMBW-Practice-Mode){: .btn }
 
 Roadrunner's practice mod that uses all of the button combos above minus the zoom features and hitbox visualizer.
 
 ---
+
+<div class="gif-container">
+  <img src="{{ site.baseurl }}/assets/infoDisplay.png" alt="info display">
+</div>
+<i><small></small></i>
 
 [Info Display](https://discord.com/channels/135832360099774464/601539713169489932/1406751267505569862){: .btn }
 
@@ -45,11 +65,27 @@ An installation for just the Info Display on the top of the screen. Includes Mar
 
 ---
 
+<div class="gif-container">
+  <img src="{{ site.baseurl }}/assets/ilsmodSS.png" alt="ils mod screenshot">
+</div>
+<i><small></small></i>
+
 [ILs Mod](https://github.com/RoadrunnerWMC/NSMBW-ILs-Mod){: .btn}
 
 The mod legal for IL Runs on [Speedrun.com](speedrun.com). Under "Features" in the `README` on this page has all the info you need!
 
+---
+
 ## Software
+
+Software we recommend for practicing NSMBW.
+
+---
+
+<div class="gif-container">
+  <img src="{{ site.baseurl }}/assets/dolphinSS.png" alt="dolphin emu screenshot">
+</div>
+<i><small></small></i>
 
 [Dolphin Emulator](https://dolphin-emu.org/){: .btn }
 
@@ -57,9 +93,14 @@ The best Wii (and Gamecube) emulator. Plenty of tutorials are on YouTube for set
 
 ---
 
+<div class="gif-container">
+  <img src="{{ site.baseurl }}/assets/amarecSS.png" alt="amaRecTV screenshot">
+</div>
+<i><small></small></i>
+
 [AmaRecTV](https://www.videohelp.com/software/AmaRecTV){: .btn }
 
-Software used for instant-replay. Has built-in frame advance and slow down which is super useful for analyzing gameplay and understanding movement. Program documentation is limited due to it being pretty old and developed in Japanese.
+Software used for instant replay. Has built-in frame advance and slow down which is super useful for analyzing gameplay and understanding movement. Program documentation is limited due to it being pretty old and developed in Japanese.
 
 ---
 

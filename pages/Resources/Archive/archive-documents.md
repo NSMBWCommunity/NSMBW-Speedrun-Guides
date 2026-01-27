@@ -17,7 +17,8 @@ These documents once were used for a NSMBW speedrunning project, tracking commun
 
 **Creator(s):** BMAN
 
-**Date created/last updated:** 12/20/2021, 12/21/2021
+**Date created:**: 12/20/2021
+**Last updated:**: 12/21/2021
 
 ---
 
@@ -25,7 +26,8 @@ These documents once were used for a NSMBW speedrunning project, tracking commun
 
 **Creator(s):** BillyJoe66, Bikkear
 
-**Date created/last updated:** 12/24/2021, 12/24/2021
+**Date created:** 12/24/2021
+**Last updated:** 12/24/2021
 
 ---
 
@@ -33,7 +35,8 @@ These documents once were used for a NSMBW speedrunning project, tracking commun
 
 **Creator(s):** LunaEclipse
 
-**Date created/last updated:** 7/8/2022, 7/22/2022
+**Date created:** 7/8/2022
+**Last updated:** 7/22/2022
 
 ---
 
@@ -41,17 +44,9 @@ These documents once were used for a NSMBW speedrunning project, tracking commun
 
 **Creator(s):** Pidgey
 
-**Date created/last updated:** 10/14/2024, 11/15/2024
+**Date created:** 10/14/2024
+**Last updated:** 11/15/2024
 
----
-
-[](): desc
-
-**Creator(s):**
-
-**Date created/last updated:**
-
----
 ---
 
 <!--
@@ -60,9 +55,10 @@ Template
 
 [](): desc
 
-**Creator(s):**
+**Creator(s):** 
 
-**Date created/last updated:**
+**Date created:** 
+**Last updated:** 
 
 ---
 
@@ -70,4 +66,4 @@ questionable adds
 
 [NSMBW 100% Routes](): extensive documentation on 100% routes and their history
 
->
+-->
