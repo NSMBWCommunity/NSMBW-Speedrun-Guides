@@ -19,7 +19,7 @@ Vines and chains initially give you a lot of speed when you jump off at a desira
 <div class="gif-container">
   <img src="https://media.giphy.com/media/UtmFgERaxYBfLKUFAy/giphy.gif" alt="5-1 neutral vines">
 </div>
-<i><small> Make the jump off the last vine as far as possible without bonking on the bricks to keep your neutral vine speed as long as possible (5-1). </small></i>
+<i><small>Make the last neutral vine jump as far as possible without bonking on the bricks to keep 3.9 speed as long as possible (5-1). </small></i>
 
 ## Enemy Boosts
 

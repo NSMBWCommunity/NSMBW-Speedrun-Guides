@@ -16,15 +16,15 @@ There are a few techniques used while jumping. First for the basics:
 
 ## Double Jumps
 
-Jumping then following with another jump with at least 3 speed within *8 frames* (roughly .1 seconds) allows Mario to double jump.
+Jumping then following with another jump with at least 3 speed within 8 frames (roughly .1 seconds) allows Mario to double jump.
 
 A double jump can also be initiated with a crouch off of a ledge, or a wallkick that gains enough speed and falls far enough. Messing around in practice will help you understand these concepts.
 
-A full single or double 
+A full single or double jump will make Mario jump 5 blocks high.
 
 ## Triple Jumps
 
-Double jumping, landing, and jumping with at least 3 speed within *8 frames* will make Mario perform a triple jump.
+Double jumping, landing, and jumping with at least 3 speed within 8 frames will make Mario perform a triple jump.
 
 A full triple jump will make Mario jump 6 blocks high, one higher than any single or double jump.
 
@@ -37,11 +37,11 @@ Double jumping and landing activates **triple jump storage.**
 Triple jump storage can be activated a few ways, but really only one is useful. with fire, ice, or penguin power, shooting fire/ice and jumping within 6 frames will make Mario jump with triple jump height, but not perform the flip animation. You can also activate it by throwing an item like a shell or propellor block. Watch the input display to get a better idea of how this is done.
 
 <div class="gif-container">
-  <img src="https://media.giphy.com/media/z3jo7MfMmSIWFNJ0es/giphy.gif" alt="volza vault tj storage in 8-c">
+  <img src="https://media.giphy.com/media/z3jo7MfMmSIWFNJ0es/giphy.gif" alt="volza vault triple jump storage in 8-c">
 </div>
 <i><small> Triple jump storage in 8-Castle to instantly jump over Bowser ("Volza Vault"). </small></i>
 
-Triple storage can be preserved through slowing down to a complete stop, crouching, changing X directions, and even through boss cutscenes. You will lose triple jump storage if you leave the ground, crouch jump, or spin jump
+Triple storage can be preserved through slowing down to a complete stop, crouching, changing X directions, and even through boss cutscenes. You will lose triple jump storage if you leave the ground, crouch jump, or spin jump.
 
 A **crouch triple** is done by double jumping, then doing a frame-perfect crouch jump. You will get triple jump height without the flip animation. Your hitbox will also be reduced to one block tall for all powerups (except small and mini), but this trick is impossible with penguin.
 

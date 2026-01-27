@@ -19,12 +19,11 @@ A pipe can face four directions. For **left and right facing pipes**, running in
 For **down-facing pipes**, you want to crouch jump into the middle of the pipe. Crouch jumping makes Mario's hitbox height smaller, thus making the pipe-entering animation shorter. Entering on the left or right edge of the pipe causes Mario to slowly align to the center of the pipe- much slower than Mario's running speed. 
 
 <div class="gif-container">
-  <img src="" alt="">
+  <img src="https://media.giphy.com/media/WphsUei3oPsxzIk2pR/giphy.gif" alt="8-A crouch pipe">
 </div>
-<i><small></small></i>
+<i><small>Crouch jumping into 8-Airship's downward pipe.</small></i>
 
 <i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>Crouching as mini Mario does not change his hitbox, so crouching jumping into pipes isn't worth it because of the risk of losing speed while crouching on the ground.</i>
-
 
 For pipes facing up, enter them as close to the middle as possible. Crouching into upwards-facing pipes has no effect.
 
