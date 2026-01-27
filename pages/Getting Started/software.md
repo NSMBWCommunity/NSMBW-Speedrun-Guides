@@ -18,6 +18,12 @@ For verification purposes we recommend recording at a bitrate and video quality 
 
 <i>For information on when to start recording and where to upload your runs, see the [Intro to NSMBW Speedrunning Video (WIP)]().</i>
 
+---
+
+<div class="gif-container">
+  <img src="{{ site.baseurl }}/assets/livesplitSS.png" alt="">
+</div>
+
 ## LiveSplit
 
 For **Windows** users, it is highly recommended to use [Livesplit](https://livesplit.org/downloads/). It is highly customizable, free, and dependable.
