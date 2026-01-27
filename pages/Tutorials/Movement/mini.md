@@ -10,3 +10,6 @@ nav_order: 12
 
 ---
 
+The next guide is quick and there are only a few techniques you need to know. Yoshi Time!
+
+[Yoshi ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/yoshi){: .btn }

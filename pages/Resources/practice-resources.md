@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Practice Resources
-permalink: /resources/discord-servers/practice-resources
+permalink: /resources/practice-resources
 nav_order: 2
 parent: Resources
 ---

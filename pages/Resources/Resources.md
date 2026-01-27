@@ -18,7 +18,8 @@ Feel free to ask in our [Discord Servers](https://nsmbwcommunity.github.io/NSMBW
 nav order
 1- servers
 2- practice resources
-3- spreadsheets
-4- archive
+3- documents
+4- wr history
+5- archive
 
 >

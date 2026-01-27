@@ -2,7 +2,7 @@
 layout: default
 title: TASes
 permalink: /resources/nsmbw-speedrunning-archive/tases
-nav_order: 2
+nav_order: 5
 parent: NSMBW Speedrunning Archive
 has_children: true
 has_toc: true

@@ -18,6 +18,14 @@ A pipe can face four directions. For **left and right facing pipes**, running in
 
 For **down-facing pipes**, you want to crouch jump into the middle of the pipe. Crouch jumping makes Mario's hitbox height smaller, thus making the pipe-entering animation shorter. Entering on the left or right edge of the pipe causes Mario to slowly align to the center of the pipe- much slower than Mario's running speed. 
 
+<div class="gif-container">
+  <img src="" alt="">
+</div>
+<i><small></small></i>
+
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>Crouching as mini Mario does not change his hitbox, so crouching jumping into pipes isn't worth it because of the risk of losing speed while crouching on the ground.</i>
+
+
 For pipes facing up, enter them as close to the middle as possible. Crouching into upwards-facing pipes has no effect.
 
 ## *IL Pipe* **Entering**
@@ -25,6 +33,11 @@ For pipes facing up, enter them as close to the middle as possible. Crouching in
 Entering pipes when optimizing for ILs is essentially the opposite of optimizing for RTA. 
 
 Pipe animations and transitions pause the IGT so you want to enter pipes as soon as possible in ILs. This means no crouch jumping, and entering as far left/right as possible.
+
+<div class="gif-container">
+  <img src="" alt="">
+</div>
+<i><small></small></i>
 
 ---
 
@@ -39,12 +52,23 @@ For **sideways pipes** do a small wallkick off of the pipe. We call these pipeki
 </div>
 <i><small> This pipekick in 5-3 is barely possible with a small wallkick. </small></i>
 
+---
+
+<div class="gif-container">
+  <img src="https://media.giphy.com/media/JrHiOdS6MldOM9n5bj/giphy.gif" alt="4-1 pipekick">
+</div>
+<i><small>As mentioned earlier, shooting fire/ice after wallkicking gives you an acceleration boost (4-1).</small></i>
+
+---
+
 For **down-facing pipes**, just fall. If you are high enough up and there is a wall opposite your desired direction, do a small wallkick off that wall as you fall out of the pipe.
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/JHnGrdqKo2gOeg60M6/giphy.gif" alt="8-C downwards pipe">
 </div>
 <i><small> Example of a downward facing pipe with an opposite wall (8-Castle). </small></i>
+
+---
 
 For **upwards-facing pipes**, just run off unless there is a wall opposite to your desired direciton. If so, immediately do a small wallkick off the wall after you exit the pipe.
 
@@ -55,6 +79,6 @@ For **upwards-facing pipes**, just run off unless there is a wall opposite to yo
 
 ---
 
-Pipes are the most common way Mario transitions areas. Next most common are doors. These are pretty easy!
+Pipes are the most common way Mario transitions areas. The next most common are doors. These are pretty easy!
 
 [Doors ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/doors){: .btn }

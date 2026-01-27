@@ -48,7 +48,9 @@ In a flat, open area (most levels start this way), running is the fastest way to
 </div>
 <i><small> Getting the timing for this wallkick in 8-1 can be tough but optimally saves 11 frames over running right. </small></i>
 
- **Wallkicking** is one of the main ways we get to max speed quickly in this game. It is the fastest way to go from zero to max speed if you are near enough to a wall. When doing a wallkick, make it as small as possible (press `2` for as short as the situation permits). The smaller the wallkick, the faster you will accelerate! If you have fire, ice, or penguin, shoot fire/ice as you wallkick and you will get an acceleration boost. **Wallkicking instantly sets Mario's speed to ~2.25.**
+ **Wallkicking** is one of the main ways we get to max speed quickly in this game. It is the fastest way to go from zero to max speed if you are near enough to a wall. When doing a wallkick, make it as small as possible (press `2` for as short as the situation permits). The smaller the wallkick, the faster you will accelerate! **Wallkicking instantly sets Mario's speed to ~2.25.**
+ 
+ If you have fire, ice, or penguin, shoot fire/ice as you wallkick and you will get an acceleration boost. See an example under **Exiting Pipes** in [Pipes](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/pipes/) for an example.
 
  Wallkicking is also extremely fast for vertical climbing. Keep in mind, in order to wallkick:
 

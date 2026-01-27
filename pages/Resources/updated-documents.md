@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Updated Documents
+title: Documents
 permalink: /resources/updated-documents/
 nav_order: 3
 parent: Resources
 ---
 
-# Updated Documents
+# Documents
 
-This page contains all **up-to-date NSMBW speedrunning documents**. These are all open for the public to view and creators are credited if you are wanting to reach out for more information.
+This page contains all **up-to-date** NSMBW speedrunning documents. These are all open for the public to view and creators are credited if you are wanting to reach out for more information.
 
 ---
 

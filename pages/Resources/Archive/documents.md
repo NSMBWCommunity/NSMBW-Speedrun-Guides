@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Documents
+title: Archived Documents
 permalink: /resources/nsmbw-speedrunning-archive/documents
 nav_order: 4
 parent: NSMBW Speedrunning Archive
 ---
 
-# Documents (Archived, Not Updated)
+# Archived Documents
 
 These documents once were used for a NSMBW speedrunning project, tracking community progress, or simply taking notes. You may just learn something new here!
 <i> In general, the list of documents is sorted in order of *assumed theoretical content (value)*, or ATC. </i>

@@ -19,7 +19,7 @@ When sliding down slopes it's usually important to slide on the ground after the
 
 For any slopes created by rotating blocks/platforms or rolling hills, slide down them as long as they are moving you in your desired direction and are less steep than 45 degrees. 
 
-For 45 degree slopes, it is fastest to run down these and slide at the last moment and on the flat ground for a bit.
+For **45 degree slopes**, it is fastest to run down these and slide at the last moment and on the flat ground for a bit.
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/wFGAtPOwji3EBzUzBN/giphy.gif" alt="6-3 steep slope">
@@ -30,6 +30,6 @@ Running up upwards slopes is slow so avoid them if possible. If you are forced t
 
 --- 
 
-Now that we understand slopes, let's really quickly understand jumping.
+Now that we understand slopes, let's look at some information on jumping.
 
 [Jumping ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/jumping){: .btn }

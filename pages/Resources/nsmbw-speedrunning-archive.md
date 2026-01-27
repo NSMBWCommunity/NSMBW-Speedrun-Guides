@@ -2,7 +2,7 @@
 layout: default
 title: NSMBW Speedrunning Archive
 permalink: /resources/nsmbw-speedrunning-archive/
-nav_order: 4
+nav_order: 5
 parent: Resources
 has_toc: true
 ---
@@ -16,9 +16,9 @@ Here you can find a huge collection of content from the game's speedrunning hist
 nav order:
 
 1- events
-2- tases
-3- video essays
-4- docs
-5- servers
+2- video essays
+3- docs
+4- servers
+5- tases
 
 >
