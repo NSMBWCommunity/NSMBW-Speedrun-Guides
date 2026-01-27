@@ -29,7 +29,7 @@ If you get speed in certain ways, you can preserve your speed by chaining jumps 
 
 We have learned that running and sliding on slopes is fast. 
 
-As seen in 1-1, you can get a boost from a goomba right after the checkpoint. This is done by getting a frame-perfect `2` press to bounce off of the goomba while Mario's speed is still above 3.0 from running/sliding off the slope. If you get a boost, stay neutral until landing. Chaining bounces off of enemies will maintain that speed. Pressing `left` or `right` will deccelerate you back to a max of 3 speed.
+As seen in 1-1, you can get a boost from a goomba right after the checkpoint. This is done by getting a frame-perfect `2` press to bounce off of the goomba while Mario's speed is still above `3.0` from running/sliding off the slope. If you get a boost, stay neutral until landing. Chaining bounces off of enemies will maintain that speed. Pressing `left` or `right` will deccelerate you back to a max of 3 speed.
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/ZFyIZHmQHv8FsxZK91/giphy.gif" alt="1-1 goomba boost">
@@ -45,9 +45,9 @@ As seen in 1-1, you can get a boost from a goomba right after the checkpoint. Th
 </div>
 <i><small> The mega goomba boosts in 8-2 are more lenient because of the forgiving hitboxes of mega goombas. Here includes an example of a crouch triple jump!</small></i>
 
-### Propellor Boosts
+### Propeller Boosts
 
-We know that jumping off of a slope while Mario has over 3 speed will revert his speed to 3.0 as soon as he jumps.  However, propellor spinning off of slopes and rolling hills deccelerates Mario at a slower rate, thus carrying the speed slightly longer through the spin. So, if you can manage to bounce off of an enemy while spinning, which is in most cases frame-perfect, and Mario has greater than 3.0 speed, he will stay at that speed until touching the ground.
+We know that jumping off of a slope while Mario has over 3 speed will revert his speed to `3.0` as soon as he jumps.  However, propeller spinning off of slopes and rolling hills deccelerates Mario at a slower rate, thus carrying the speed slightly longer through the spin. So, if you can manage to bounce off of an enemy while spinning, which is in most cases frame-perfect, and Mario has greater than `3.0` speed, he will stay at that speed until touching the ground.
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/n0ABNTkuCqUVsnWiiJ/giphy.gif" alt="1-1 prop goomba boost">

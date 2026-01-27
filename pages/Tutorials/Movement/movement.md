@@ -35,15 +35,16 @@ nav order
 7- neutral tricks
 8- swimming
 9- star
-10- propellor
+10- propeller
 11- penguin
 12- mini
 13- multiplayer
 
 list of gifs to create
+
 9-1 penguin tech
 4-3 penguin star hyperspeed
-
-
+8-a il pipe
+8-1 shellbost
 
 -->

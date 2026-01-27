@@ -12,11 +12,11 @@ Mario's maximum regular running speed is 3 pixels/frame, or *3 speed*. You alway
 
 For reference, here are some of Mario's speeds during different actions.
 
-**Running:**:            3.0
+**Running:**:            `3.0`
 
-**Jumping**:             3.0
+**Jumping**:             `3.0`
 
-**Star Power**:          4.0
+**Star Power**:          `4.0`
 
 **Prop Spin (Up)**:      2.5
 
@@ -27,9 +27,9 @@ For reference, here are some of Mario's speeds during different actions.
 </div>
 <i><small> Pay close attention to Mario's X speed in this example and the rest in this guide (5-4). </small></i>
 
-Learning these is important for understanding speed optimization. The propellor suit may be convenient for vertical levels and some obstacles, but because of its slow speed while spinning, we want to utilize it as little as possible in horizontal levels.
+Learning these is important for understanding speed optimization. The propeller suit may be convenient for vertical levels and some obstacles, but because of its slow speed while spinning, we want to utilize it as little as possible in horizontal levels.
 
-This also shows the benefits of using the star power-up. More on the star and propellor power-ups soon!
+This also shows the benefits of using the star power-up. More on the star and propeller power-ups soon!
 
 ---
 
@@ -56,7 +56,7 @@ In a flat, open area (most levels start this way), running is the fastest way to
 
  1) You must be a certain height above the ground.
 
- 2) You must be near the peak of a propellor spin.
+ 2) You must be near the peak of a propeller spin.
 
 ---
 

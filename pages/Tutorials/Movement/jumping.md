@@ -34,7 +34,7 @@ Triple jumps will make Mario do a front-flip animation, unless...
 
 Double jumping and landing activates **triple jump storage.**
 
-Triple jump storage can be activated a few ways, but really only one is useful. with fire, ice, or penguin power, shooting fire/ice and jumping within 6 frames will make Mario jump with triple jump height, but not perform the flip animation. You can also activate it by throwing an item like a shell or propellor block. Watch the input display to get a better idea of how this is done.
+Triple jump storage can be activated a few ways, but really only one is useful. with fire, ice, or penguin power, shooting fire/ice and jumping within 6 frames will make Mario jump with triple jump height, but not perform the flip animation. You can also activate it by throwing an item like a shell or propeller block. Watch the input display to get a better idea of how this is done.
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/z3jo7MfMmSIWFNJ0es/giphy.gif" alt="volza vault triple jump storage in 8-c">

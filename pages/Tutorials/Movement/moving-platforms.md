@@ -21,7 +21,7 @@ Some moving ground/platforms can affect your speed ind the air after jumping off
 
 Moving platforms/ground that will affect your speed in the air include **rolling hills, conveyor belts, the bone coaster, and big ice blocks.**
 
-To maximize the speed from these ground types, run onto them as early as possible then jump off as late as possible, staying in the air as long as possible. Twirling (if you aren't propellor Mario) will help you stay in the air for longer.
+To maximize the speed from these ground types, run onto them as early as possible then jump off as late as possible, staying in the air as long as possible. Twirling (if you aren't propeller Mario) will help you stay in the air for longer.
 
 Similarly, backwards moving ground and rolling hills will decrease your speed while running/jumping off of them.
 
@@ -32,7 +32,7 @@ For all backwards moving ground of this type, there are two ways to jump off and
 <div class="gif-container">
   <img src="https://media.giphy.com/media/qYq8O2XKLXrQfFF7wQ/giphy.gif" alt="8-2 rolling hills">
 </div>
-<i><small> Notice how Mario's X speed returns to 3.0 as soon as he uncrouches midair (8-2). </small></i>
+<i><small> Notice how Mario's X speed returns to `3.0` as soon as he uncrouches midair (8-2). </small></i>
 
 2) **Shooting fire or ice.** The position on the hill/platform does not matter; this technique is essentially free and is faster because you don't have to wait until the peak of your jump to regain speed.
 
@@ -50,7 +50,7 @@ Any **line-controlled blocks/platforms, rotating blocks, and floating platforms*
 <div class="gif-container">
   <img src="https://media.giphy.com/media/CCAaxLpfqoYuRQCJ3M/giphy.gif" alt="7-3 floating platform">
 </div>
-<i><small> Note how Mario's speed momentarily goes to 4.0 while on the patform, then reverts to 3.0 when he jumps off.</small></i>
+<i><small> Note how Mario's speed momentarily goes to `4.0` while on the patform, then reverts to `3.0` when he jumps off.</small></i>
 
 Follow the rule of thumb and run on them while they are moving in your desired direction. Jumping off will immediately revert you to 3 speed regardless of which direction the ground is moving.
 

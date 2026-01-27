@@ -8,15 +8,15 @@ nav_order: 9
 
 # Star
 
-Star power is almost always worth getting because of the speed advantage it gives you. Your max ground running speed is 4.0 and Mario becomes invincible to enemies for the duration of the star power. Star power lasts _ frames.
+Star power is almost always worth getting because of the speed advantage it gives you. Your max ground running speed is `4.0` and Mario becomes invincible to enemies for the duration of the star power. Star power lasts 660 frames (11 seconds).
 
 Some movement that is faster is still faster to do with star, and some moveemnt is slower with star. Knowing how to move differently with star power is vital to learning categories like Any%.
 
-<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>You keep 4.0 speed while running and jumping in NSMBW, unlike **New Super Mario Bros. DS** where you lose your star speed in the air.</i>
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>You keep `4.0` speed while running and jumping in NSMBW, unlike **New Super Mario Bros. DS** where you lose your star speed in the air.</i>
 
 ## Pipekicks
 
-You *do* accelerate significantly faster with star power, but *wallkicking is still the fastest way* to reach max 4 speed.
+You *do* accelerate significantly faster with star power, but *wallkicking is still the fastest way* to reach max `4` speed from 0 speed.
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/gZFNkPCn2njpmuR6YF/giphy.gif" alt="2-3 star pipekick">
@@ -37,9 +37,9 @@ Do *not* run down steep slopes unless you are going for...
 
 To acquire hyperspeed:
 
-1. Run down a slope to accelerate to over 4.0 running speed.
+1. Run down a slope to accelerate to over `4.0` running speed.
 
-2. Penguin slide and quickly jump. You will now maintain this >4.0 speed horizontally as long as you are in the air.
+2. Penguin slide and quickly jump. You will now maintain this >`4.0` speed horizontally as long as you are in the air.
 
 3. Chain jumps, jumping off of the ground as quickly as possible. Sliding on the ground will lose speed.
 
@@ -52,6 +52,6 @@ To acquire hyperspeed:
 
 ---
 
-Star is usually fastest for horizontal movement. Propellor is usually fastest for vertical movement, so let's learn how it works.
+Star is usually fastest for horizontal movement. Propeller is usually fastest for vertical movement, so let's learn how it works.
 
-[Propellor ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/propellor){: .btn }
+[Propeller ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/propeller){: .btn }
