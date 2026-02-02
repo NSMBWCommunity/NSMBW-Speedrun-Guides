@@ -16,11 +16,7 @@ If you're looking for a plain list of practice resource links, head to [Practice
 
 ## Practice Mod 
 
-The **Practice Mod** is the best way to practice most aspects of this game.
-
-<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>The Practice Mod is essentially a combination of Rynnoo's stage edits and RoadrunnerWMC's `NSMBW Practice Mode`, hence the filename `Roadrunner Rynnoo Edit`.</i>
-
-The NSMBW Practice Mod is packed with a multitude of features, including:
+The **Practice Mod** is the best way to practice this game. It is packed with a multitude of features, including:
 
 1. Pipes placed throughout almost every level for quick access to rooms that may typically take a long time to reach. In 8-Airship, there is a pipe at the start of the level that takes you directly to the Bowser Jr. fight.
 
