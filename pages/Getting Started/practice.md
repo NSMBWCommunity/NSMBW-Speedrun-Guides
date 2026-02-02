@@ -18,9 +18,9 @@ If you're looking for a plain list of practice resource links, head to [Practice
 
 The **Practice Mod** is the best way to practice this game. It is packed with a multitude of features, including:
 
-1. Pipes placed throughout almost every level for quick access to rooms that may typically take a long time to reach. In 8-Airship, there is a pipe at the start of the level that takes you directly to the Bowser Jr. fight.
+- Pipes placed throughout almost every level for quick access to rooms that may typically take a long time to reach. In 8-Airship, there is a pipe at the start of the level that takes you directly to the Bowser Jr. fight.
 
-2. Certain button combinations are hardcoded in for savestates, zooming in/out, power-up cycling, and instant room reloading. Here is the full list of features with their respective button combo:
+- Certain button combinations are hardcoded in for savestates, zooming in/out, power-up cycling, and instant room reloading. Here is the full list of features with their respective button combo:
 
 | Action | Sideways Wiimote ("A") | Sideways Wiimote ("B") | Wiimote + Nunchuk |
 | - | - | - | - |
@@ -37,7 +37,7 @@ The **Practice Mod** is the best way to practice this game. It is packed with a 
 | Default zoom | Plus + D-Pad right | Plus + D-Pad right | Plus + D-Pad right |
 | Visualize Hitboxes | B + 2 | B + 2 | B + 2 |
 
-3. An info display at the top of the screen provides real-time useful info including X/Y speed, precise IGT, an input display, Mario's current movement state, and a power-up-specific frame timer (more info can be found throughout the [Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement)).
+- An info display at the top of the screen provides real-time useful info including X/Y speed, precise IGT, an input display, Mario's current movement state, and a power-up-specific frame timer (more info can be found throughout the [Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement)).
 
 <div class="gif-container">
   <img src="{{ site.baseurl }}/assets/infoDisplay.png" alt="Practice Mod info display">
