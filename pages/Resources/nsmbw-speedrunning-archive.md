@@ -16,9 +16,8 @@ Here you can find a huge collection of content from the game's speedrunning hist
 nav order:
 
 1- events
-2- video essays
-3- docs
-4- servers
-5- tases
+2- docs
+3- servers
+4- tases
 
 --->
