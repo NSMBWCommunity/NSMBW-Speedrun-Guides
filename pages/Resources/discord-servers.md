@@ -44,6 +44,12 @@ Interested in speedrunning another game in the NSMB Series like New Super Mario 
 
 ---
 
+[NSMBWii TAS Competition](https://discord.gg/kd4qwXSq9m){: .btn }
+
+Looking for a fun way to get into TASing NSMBW? This server hosts competetitions with unique completion requirements.
+
+---
+
 ## Inactive Servers
 
 Check out the [NSMBW Speedrunning Archive's Inactive Servers](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/nsmbw-speedrunning-archive/) for inactive servers you may be interested in.

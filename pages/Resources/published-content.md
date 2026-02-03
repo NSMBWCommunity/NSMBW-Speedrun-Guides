@@ -8,9 +8,11 @@ parent: Resources
 
 # Video Projects
 
-For tons of video content created and published by speedrunners and community members themselves, look no further. Countless hours have been put into the content here so while you're at it, subscrbibe to the creators and give the videos a like!
+For tons of video content created by accomplished speedrunners and community members themselves, look no further. Countless hours have been put into creating this content so while you're at it, subscribe to the creators and give their videos a like!
 
-A playlist of NSMBW speedrunning videos published by creators outside of the NSMBW speedrunning community can be found [Here]().
+A playlist of NSMBW speedrunning videos published by content creators can be found [here]().
 
+---
 
+## 
 

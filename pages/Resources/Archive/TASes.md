@@ -1,9 +1,9 @@
 ---
 layout: default
 title: TASes
-permalink: /resources/nsmbw-speedrunning-archive/tases
+permalink: /resources/tases
 nav_order: 4
-parent: NSMBW Speedrunning Archive
+parent: Resources
 has_children: true
 has_toc: true
 ---
