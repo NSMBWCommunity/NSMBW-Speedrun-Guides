@@ -18,7 +18,7 @@ A list of NSMBW Mods (Riivolution patches) used for practice.
 <div class="gif-container">
   <img src="{{ site.baseurl }}/assets/pracromSS.png" alt="practice rom screenshot">
 </div>
-<i><small></small></i>
+<i><small>The pipes shown lead to each of the different rooms in 8-A for easy access.</small></i>
 
 [Practice Mod](https://discordapp.com/channels/135832360099774464/1033932077890027561){: .btn }
 

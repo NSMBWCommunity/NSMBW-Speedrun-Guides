@@ -13,7 +13,9 @@ These documents once were used for a NSMBW speedrunning project, tracking commun
 
 ---
 
-[NSMBW World Record Leaderboard](): a very outdated leaderboard ranking the speedrunners who accumulated the most main board world records.
+[NSMBW World Record Leaderboard](https://docs.google.com/spreadsheets/d/1SvhShCTtC5QikUeJhHL26QisFTQzzaytQ6blGmooECg/edit?gid=0#gid=0){: .btn }
+
+A very outdated leaderboard ranking the speedrunners who accumulated the most main board world records.
 
 **Creator(s):** BMAN
 
@@ -22,7 +24,9 @@ These documents once were used for a NSMBW speedrunning project, tracking commun
 
 ---
 
-[5-3 Music Differences??](): a strange phenomenon in 5-3 lead to this artifact's creation. Abandoned due to lack of conclusive evidence.
+[5-3 Music Differences??](){: .btn }
+
+A strange phenomenon in 5-3 lead to this artifact's creation. Abandoned due to lack of conclusive evidence.
 
 **Creator(s):** BillyJoe66, Bikkear
 
@@ -31,7 +35,9 @@ These documents once were used for a NSMBW speedrunning project, tracking commun
 
 ---
 
-[NSMBW retimes](): a resource used to track the innacuracies of the SRC boards. Comes with a color key and covers all main board categories. 
+[NSMBW retimes](){: .btn }
+
+A resource used to track the innacuracies of the SRC boards. Comes with a color key and covers all main board categories. 
 
 **Creator(s):** LunaEclipse
 
@@ -40,7 +46,9 @@ These documents once were used for a NSMBW speedrunning project, tracking commun
 
 ---
 
-[Any% BTT](): includes links to individual clips used for each room in the 2024 Any% community BTT.
+[Any% BTT](https://docs.google.com/spreadsheets/d/1i2jYiwQHBW6YocLKZLCKi4pMHOfayVRr5wD9D1P0QcM/edit?usp=sharing){: .btn }
+
+Includes links to individual clips used for each room in the 2024 Any% community BTT.
 
 **Creator(s):** Pidgey
 
