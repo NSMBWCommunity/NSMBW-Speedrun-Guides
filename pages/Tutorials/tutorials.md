@@ -7,7 +7,8 @@ has_children: true
 has_toc: true
 ---
 
-# Tutorials
+<img src="{{ site.baseurl }}/assets/logoTutorials.png" class="plain-img" alt="tutorials logo">
+
 
 This site offers a number of tutorials. Here you can navigate to tutorials for a category of your choice, or our full Movement Guide.
 

@@ -6,6 +6,6 @@ nav_order: 2
 has_children: true
 ---
 
-# Getting Started
+<img src="{{ site.baseurl }}/assets/logoGettingStarted.png" class="plain-img" alt="nsmbw resources logo">
 
-These guides will help you pick a way to play NSMBW and prepare you for recording and practicing for runs.
+These guides will help you first pick a way to play NSMBW, then prepare you for recording and practicing for real speedruns.

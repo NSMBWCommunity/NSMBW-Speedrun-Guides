@@ -10,6 +10,8 @@ Here you'll find everything you need for NSMBW speedrunning, from a huge amount 
 
 Built and regularly updated by the community and active top-level speedrunners.
 
+---
+
 ## Website Guide
 
 If you're here because you're brand new to speedrunning this game, we recommend you watch our [Introduction to Speedrunning NSMBW]() video (coming soon).
