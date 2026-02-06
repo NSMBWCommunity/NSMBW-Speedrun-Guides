@@ -3,7 +3,7 @@ layout: default
 title: Propeller
 permalink: /tutorials/movement/propeller/
 parent: Movement
-nav_order: 10
+nav_order: 11
 ---
 
 # Propeller

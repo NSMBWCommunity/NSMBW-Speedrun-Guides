@@ -8,7 +8,7 @@ nav_order: 2
 has_toc: true
 ---
 
-<img src="{{ site.baseurl }}/assets/logoMovement.png" class="plain-img" alt="movement guide logo">
+<img src="{{ site.baseurl }}/assets/logoMovementGuide.png" class="plain-img" alt="movement guide logo">
 
 Movement in this game is intricate yet intuitive. It is worth understanding the physics of this game and learning the intricacies of Mario and how to make him to go fast.
 
@@ -46,5 +46,7 @@ list of gifs to create
 4-3 penguin star hyperspeed
 8-a il pipe
 8-1 shellbost
+1-t lck
+8-1 midair
 
 -->

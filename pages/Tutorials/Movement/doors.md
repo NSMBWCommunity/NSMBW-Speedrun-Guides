@@ -3,7 +3,7 @@ layout: default
 title: Doors
 permalink: /tutorials/movement/doors/
 parent: Movement
-nav_order: 5
+nav_order: 6
 ---
 
 # Doors

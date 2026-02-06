@@ -3,7 +3,7 @@ layout: default
 title: Jumping
 permalink: /tutorials/movement/jumping/
 parent: Movement
-nav_order: 3
+nav_order: 4
 ---
 
 # Jumping

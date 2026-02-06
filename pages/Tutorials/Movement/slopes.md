@@ -3,7 +3,7 @@ layout: default
 title: Slopes
 permalink: /tutorials/movement/slopes/
 parent: Movement
-nav_order: 2
+nav_order: 3
 ---
 
 # Slopes

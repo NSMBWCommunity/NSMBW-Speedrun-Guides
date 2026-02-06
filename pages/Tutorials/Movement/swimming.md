@@ -3,7 +3,7 @@ layout: default
 title: Swimming
 permalink: /tutorials/movement/swimming/
 parent: Movement
-nav_order: 8
+nav_order: 9
 ---
 
 # Swimming

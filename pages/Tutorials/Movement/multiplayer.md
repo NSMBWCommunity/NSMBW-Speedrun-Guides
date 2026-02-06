@@ -3,7 +3,7 @@ layout: default
 title: Multiplayer
 permalink: /tutorials/movement/mulitplayer/
 parent: Movement
-nav_order: 14
+nav_order: 15
 ---
 
 # Multiplayer

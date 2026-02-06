@@ -3,7 +3,7 @@ layout: default
 title: Moving Platforms
 permalink: /tutorials/movement/moving-platforms/
 parent: Movement
-nav_order: 6
+nav_order: 7
 ---
 
 # Moving Platforms
