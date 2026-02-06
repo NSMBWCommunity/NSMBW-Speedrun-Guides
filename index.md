@@ -16,13 +16,15 @@ Built and regularly updated by the community and active top-level speedrunners.
 
 If you're here because you're brand new to speedrunning this game, we recommend you watch our [Introduction to Speedrunning NSMBW]() video (coming soon).
 
-For extended info on hardware and mods to help with effective practice, navigate to [Getting Started](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/getting-started/)
+For a guide on how to start speedrunning NSMBW, go to [Getting Started](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/getting-started/)
 
-For an in-depth guide to moving Mario as fast as possible, see our [Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/).
+To understand moving Mario, see our in-depth [Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/).
 
-If you're looking to learn a specific category, like Any%, we have detailed tutorials and videos for every experience level--beginner to expert. Head to [Categories](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/) and go from there.
+If you're looking to learn a specific category, like Any%, we have detailed tutorials and videos for every experience level- beginner to expert. Head to [Categories](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/) and go from there.
 
-For useful resources, unofficial leaderboards, and a community archive, check out [Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/).
+For useful resources like our world record history, unofficial leaderboards, and community projects, check out [Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/).
+
+For archived documents and information on past events, dive into the [NSMBW Speedrunning Archive](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/nsmbw-speedrunning-archive/)
 
 ---
 

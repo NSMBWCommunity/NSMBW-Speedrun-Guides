@@ -23,7 +23,7 @@ Using the propeller powerup requires using motion controls. You will often hear 
 
 As a reminder, spinning up gives Mario `2.5` X-speed and `2.5` Y-speed. Falling from a propellor spin puts Mario at `1.5` X-speed. To fall slower with propellor, continuously shake the Wiimote to go from `-1.25` to `-1.0` Y-speed.
 
-Spin-drilling is done by pressing `DOWN` after spinning and being high enough above the ground below you. This will make Mario move downward with `-4.0` Y-speed, the same Y-speed as ground-pounding. Note that you cannot slightly move left or right while spin-drilling like you can while ground-pounding.  
+Spin-drilling is done by pressing `DOWN` after spinning and being high enough above the ground below you. This will make Mario move downward with `-6.0` Y-speed, the same Y-speed as ground-pounding. Note that you cannot slightly move left or right while spin-drilling like you can while ground-pounding.  
 
 Becuase your max X-speed goes from `3.0` to `2.5` when spinning, the goal is to minimize propellor spinning in horizontal levels. Falling to the ground after prop spinning is slow (`1.5` X-speed and `-1.0` Y-speed) and spin-drilling is usually slow too, so let's talk about a few ways to cancel a prop spin.
 
