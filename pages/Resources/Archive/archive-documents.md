@@ -20,8 +20,8 @@ A very outdated leaderboard ranking the speedrunners who accumulated the most ma
 
 **Creator(s):** BMAN
 
-**Date created:**: 12/20/2021
-**Last updated:**: 12/21/2021
+**Date created:** 12/20/2021
+**Last updated:** 12/21/2021
 
 ---
 
