@@ -1,9 +1,10 @@
 ---
 layout: default
 title: NSMBW Speedrunning Archive
-permalink: /resources/nsmbw-speedrunning-archive/
+permalink: /nsmbw-speedrunning-archive/
 nav_order: 5
-parent: Resources
+has_children: true
+has_parent: false
 has_toc: true
 ---
 

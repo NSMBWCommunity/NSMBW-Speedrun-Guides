@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archived Documents
-permalink: /resources/nsmbw-speedrunning-archive/documents
+permalink: /nsmbw-speedrunning-archive/documents
 nav_order: 2
 parent: NSMBW Speedrunning Archive
 ---

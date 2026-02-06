@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inactive Servers
-permalink: /resources/nsmbw-speedrunning-archive/inactive-servers
+permalink: /nsmbw-speedrunning-archive/inactive-servers
 nav_order: 3
 parent: NSMBW Speedrunning Archive
 ---

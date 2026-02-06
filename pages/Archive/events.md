@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Past Events
-permalink: /resources/nsmbw-speedrunning-archive/past-events
+permalink: /nsmbw-speedrunning-archive/past-events
 nav_order: 1
 parent: NSMBW Speedrunning Archive
 ---
