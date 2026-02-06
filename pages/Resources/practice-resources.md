@@ -22,7 +22,7 @@ A list of NSMBW Mods (Riivolution patches) used for practice.
 
 [Practice Mod](https://discordapp.com/channels/135832360099774464/1033932077890027561){: .btn }
 
-Has Rynnoo's pipes for accessibility, Roadrunner's Practice Mode, and MGR's Info Display + Zoom mods all in one. Can be found in the `#resources` channel of the NSMBW Speedrunning Server. ([Invite Link](https://discord.gg/pMKAaGscrh))
+Has Rynnoo's pipes for accessibility, Roadrunner's Practice Mode, and MGR's Info Display + Zoom mods all in one. Can be found in the `#resources` channel of the NSMBW Speedrunning Server ([Invite Link](https://discord.gg/pMKAaGscrh)).
 
 **Controls:**
 
@@ -40,6 +40,17 @@ Has Rynnoo's pipes for accessibility, Roadrunner's Practice Mode, and MGR's Info
 | Toggle zoom | Plus + D-Pad Left | Plus + D-Pad Left | Plus + D-Pad Left |
 | Default zoom | Plus + D-Pad right | Plus + D-Pad right | Plus + D-Pad right |
 | Visualize Hitboxes | B + 2 | B + 2 | B + 2 |
+
+---
+
+<div class="gif-container">
+  <img src="{{ site.baseurl }}/assets/ilsmodSS.png" alt="ils mod screenshot">
+</div>
+<i><small></small></i>
+
+[ILs Mod](https://github.com/RoadrunnerWMC/NSMBW-ILs-Mod){: .btn}
+
+Roadrunner's mod that is legal for ILs on [Speedrun.com](speedrun.com/nsmbw/). Pressing `-` will instantly reload a level from the banner loading screen. It also tracks attempts, and provides a precise IGT and star coins acquired in a run after completing the stage.
 
 ---
 
@@ -63,22 +74,10 @@ Roadrunner's practice mod that uses all of the button combos above minus the zoo
 
 An installation for just the Info Display on the top of the screen. Includes Mario's X/Y speed, precise IGT, an input display, Mario's current movement state, and a power-up-specific frame timer. This mod is pinned in the NSMBW Speedrunning Server `#general` channel.
 
----
-
-<div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/ilsmodSS.png" alt="ils mod screenshot">
-</div>
-<i><small></small></i>
-
-[ILs Mod](https://github.com/RoadrunnerWMC/NSMBW-ILs-Mod){: .btn}
-
-The mod legal for IL Runs on [Speedrun.com](speedrun.com). Under "Features" in the `README` on this page has all the info you need!
-
----
 
 ## Software
 
-Software we recommend for practicing NSMBW.
+Software we recommend for effective practice.
 
 ---
 
