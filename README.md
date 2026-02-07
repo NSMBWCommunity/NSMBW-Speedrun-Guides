@@ -1,4 +1,4 @@
-Welcome to NSMBW Tutorials!
+Welcome to NSMBW Resources!
 
 The home of all things New Super Mario Bros. Wii speedrunning.
 
