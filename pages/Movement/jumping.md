@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jumping
-permalink: /tutorials/movement/jumping/
+permalink: /movement/jumping/
 parent: Movement
 nav_order: 4
 ---
@@ -76,7 +76,7 @@ To stutterstep, you need to hold `2` while you land (technically a hover jump...
 
 ## Jump Rule Exceptions
 
-If Mario jumps onto backwards moving ground (specifically moving ground that affects your midair speed; more info [here](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/moving-platforms)), double and triple jumps must be frame-perfect.
+If Mario jumps onto backwards moving ground (specifically moving ground that affects your midair speed; more info [here](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/moving-platforms)), double and triple jumps must be frame-perfect.
 
 If Mario jumps very precisely at the edge of a platform, he will lose his jump progression (Mario will do a single jump regardless of the prevous jump). Try not to jump at the very edge of platforms to avoid this.
 
@@ -86,4 +86,4 @@ If Mario jumps very precisely at the edge of a platform, he will lose his jump p
 
 Now that we feel confident making the plumber jump, let's make sure he knows how to enter and exit every pipe optimally.
 
-[Pipes ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/pipes){: .btn }
+[Pipes ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/pipes){: .btn }

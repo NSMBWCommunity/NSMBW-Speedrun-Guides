@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pipes
-permalink: /tutorials/movement/pipes/
+permalink: /movement/pipes/
 parent: Movement
 nav_order: 5
 ---
@@ -10,7 +10,7 @@ nav_order: 5
 
 Dealing with pipes is simple once you learn how to enter and exit them properly in different scenarios.
 
-## *RTA Pipe* **Entering**
+## RTA Pipe Entering
 
 RTA strategies are strategies used to optimize **real-time** speedruns, so *RTA Pipes* are the fastest way to deal with pipes. *IL pipes and strategies* optimize for in-game time, but are slower for real-time.
 
@@ -27,7 +27,7 @@ For **down-facing pipes**, you want to crouch jump into the middle of the pipe. 
 
 For pipes facing up, enter them as close to the middle as possible. Crouching into upwards-facing pipes has no effect.
 
-## *IL Pipe* **Entering**
+## IL Pipe Entering
 
 Entering pipes when optimizing for ILs is essentially the opposite of optimizing for RTA. 
 
@@ -40,7 +40,7 @@ Pipe animations and transitions pause the IGT so you want to enter pipes as soon
 
 ---
 
-## **Exiting** Pipes
+## Exiting Pipes
 
 The optimal technique for exiting pipes is the same for all run types.
 
@@ -78,6 +78,6 @@ For **upwards-facing pipes**, just run off unless there is a wall opposite to yo
 
 ---
 
-Pipes are the most common way Mario transitions areas. The next most common are doors. These are pretty easy!
+Pipes are the most common way Mario transitions between areas. The next most common are doors. These are pretty easy!
 
-[Doors ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/doors){: .btn }
+[Doors ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/doors){: .btn }

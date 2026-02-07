@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Any%
-permalink: /tutorials/categories/any%/
-parent: Categories
+permalink: /tutorials/any%/
+parent: Tutorials
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 # Any% 
 
@@ -14,10 +14,6 @@ Before hopping into a run, we recommend taking a look at each tutorial and getti
 
 ## Category Specific Information
 
+Beat the game as fast as possible. Read the game and category rules on [Speedrun.com](speedrun.com/nsmbw) for more information.
+
 This category retimes runs **under 25 minutes** (done on physical console).
-
-Timing starts on your first input on the world map, i.e. pressing "right" to move to 1-1.
-    *More specifically, the first frame mario turns or moves on the map.*
-
-Timing ends when you hit the big switch at the end of 8-Castle.
-    *Specifically the frame the "8000" appears from hitting the switch.*

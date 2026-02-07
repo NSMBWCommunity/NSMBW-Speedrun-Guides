@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Any% Multiplayer
-permalink: /tutorials/categories/Any%25-Multiplayer/
-parent: Categories
-nav_order: 6
+permalink: /tutorials/Any%25-Multiplayer/
+parent: Tutorials
+nav_order: 8
 ---
 
 # Any% Multiplayer

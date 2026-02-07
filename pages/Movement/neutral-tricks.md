@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Neutral Tricks
-permalink: /tutorials/movement/neutral-tricks/
+permalink: /movement/neutral-tricks/
 parent: Movement
 nav_order: 8
 ---
@@ -34,7 +34,7 @@ As seen in 1-1, you can get a boost from a goomba right after the checkpoint. Th
 <div class="gif-container">
   <img src="https://media.giphy.com/media/ZFyIZHmQHv8FsxZK91/giphy.gif" alt="1-1 goomba boost">
 </div>
-<i><small> This is "goomba boost" in 1-1, and is only faster to attempt if you get [DSS]((https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/any%/world1/1-1)) </small></i>
+<i><small> This is "goomba boost" in 1-1, and is only faster to attempt if you get [DSS]((https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/any%/world1/1-1)) </small></i>
 
 <i class="fas fa-info-circle" style="font-size: 0.8em; color: rgba(56, 165, 255, 0.9);"></i> <i> This is frame-perfect because when you jump off of a slope, you immediately revert to 3 speed. Also, as long as you're not small/mini Mario, **sliding will ensure you will not take damage to attemping goomba boost.**</i>
 
@@ -62,4 +62,4 @@ Learn more [here](), then come back!
 
 Now for the tech that every speedrunner hates...
 
-[Swimming ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/swimming){: .btn }
+[Swimming ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/swimming){: .btn }

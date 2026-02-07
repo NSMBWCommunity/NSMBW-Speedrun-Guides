@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wallkicking
-permalink: /tutorials/movement/wallkicking/
+permalink: /movement/wallkicking/
 parent: Movement
 nav_order: 2
 ---
@@ -78,4 +78,4 @@ Look at the example's input display and practice to get a feel for this trick.
 
 Now that we've looked at the many applications of wallkicks, we'll explain how to deal with slopes.
 
-[Slopes ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/slopes){: .btn }
+[Slopes ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/slopes){: .btn }

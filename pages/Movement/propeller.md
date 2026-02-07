@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Propeller
-permalink: /tutorials/movement/propeller/
+permalink: /movement/propeller/
 parent: Movement
 nav_order: 11
 ---
@@ -13,7 +13,7 @@ Propeller is the most important powerup to understand for Any%, and is still ver
 Using the propeller powerup requires using motion controls. You will often hear about runners "dropping spins" or getting "delayed spins" because of the accelerometer in the wii remote not being reliable. Motion control sensitivity can vary between wii remotes as well. To get motion inputs (commonmly called 'spinputs') more consistently, we recommend shaking with your left hand, or the hand on the side with the dpad.
 
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/wiimote.inside.png" alt="">
+  <img src="{{ site.baseurl }}/assets/wiimote.inside.png" alt="inside a wii remote">
 </div>
 <i><small>The accelerometer is inside the Wiimote below the `A` button when held with the dpad on the left.</small></i>
 
@@ -21,11 +21,21 @@ Using the propeller powerup requires using motion controls. You will often hear 
 
 ## General Usage
 
-As a reminder, spinning up gives Mario `2.5` X-speed and `2.5` Y-speed. Falling from a propellor spin puts Mario at `1.5` X-speed. To fall slower with propellor, continuously shake the Wiimote to go from `-1.25` to `-1.0` Y-speed.
+Here are some of propellor Mario's speeds during certain actions. Moving at full speed holding `1` is assumed:
+
+| Action | X-Speed | Y-Speed |
+| - | - | - |
+| Running | 3.0 | "-" |
+| Spinning up | 2.5 | 2.5 |
+| Spinning (falling) | 1.5 | (-1.0, -1.25)* |
+| Spin-drilling | 0 | -6.0 |
+| Ground pounding | 0-X | -6.0 |
+
+*To fall slower with after a spin, continuously shake the Wiimote to go from `-1.25` to `-1.0` Y-speed.
 
 Spin-drilling is done by pressing `DOWN` after spinning and being high enough above the ground below you. This will make Mario move downward with `-6.0` Y-speed, the same Y-speed as ground-pounding. Note that you cannot slightly move left or right while spin-drilling like you can while ground-pounding.  
 
-Becuase your max X-speed goes from `3.0` to `2.5` when spinning, the goal is to minimize propellor spinning in horizontal levels. Falling to the ground after prop spinning is slow (`1.5` X-speed and `-1.0` Y-speed) and spin-drilling is usually slow too, so let's talk about a few ways to cancel a prop spin.
+Becuase your max X-speed goes from `3.0` to `2.5` when spinning, the goal is to minimize propellor spinning (in horizontal levels). Falling after spinning is slow (`1.5` X-speed, `-1.0` Y-speed), so let's talk about a few ways to "cancel" a spin:
 
 ## Throwing
 
@@ -40,7 +50,7 @@ One of the most common ways we cancel a prop spin is by throwing something, usua
 
 ## Wallkicking
 
-If there is a wall near the peak of your spin, wallkicking is almost the fastest way to continue upward. Keep in mind that you have to be near the peak of your spin in order to initiate a wallkick.
+If there is a wall near the peak of your spin, wallkicking is almost the fastest way to continue upward. Remember, you have to be near the peak of your spin in order to wallkick.
 
 <div class="gif-container">
   <img src="" alt="5-T 556 wallkick">
@@ -51,18 +61,20 @@ If there is a wall near the peak of your spin, wallkicking is almost the fastest
 
 ---
 
-## Instant-Landing
+## Instantlanding
 
-Instant-lands have been implemented in most vertical levels. This technique negates the need for any space between Mario and the ground. There are two types of platforms that allow for instant-landing.
+Instantlands have been implemented in most vertical levels. This technique negates the need for any space between Mario and the ground. There are two types of platforms that allow for instandlanding in different ways.
 
 ### Lifts
 
-You can easily instant-land on pass-through lifts like basic yellow platforms and mushrooms. Simply prop spin from below the platform and press `DOWN` as Mario's feet approach the platform.
+You can easily instantland on lifts like basic yellow platforms and mushrooms. Simply spin from below the platform and press `DOWN` as Mario's feet approach the platform.
 
 <div class="gif-container">
   <img src="" alt="6-t lift instantland">
 </div>
 <i><small></small></i>
+
+---
 
 ## Semisolids and Ground Corners
 
@@ -71,12 +83,20 @@ You can easily instant-land on pass-through lifts like basic yellow platforms an
 </div>
 <i><small></small></i>
 
-### For a visual explanation on , go to `12:30` in Pidgey's **History of 5-T Video:**
+### For a visual explanation on instantlands, go to `12:30` in Pidgey's **History of 5-T Video:**
 
 {% include yt.html id="BhP6lJPy0" %}
 
 ---
 
+### To summarize prop movement:
+
+For horizontal stages, spin as little as possible and throw enemies to cancel spins.
+
+For vertical stages, prop is fast when you can't simply jump. Use instantlands and wallkicks to climb as fast as possible.
+
+---
+
 Get ready to cover the fastest, yet most technically complex powerup in the game...
 
-[Penguin ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/penguin){: .btn }
+[Penguin ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/penguin){: .btn }

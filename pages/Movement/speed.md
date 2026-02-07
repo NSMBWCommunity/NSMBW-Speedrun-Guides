@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Speed
-permalink: /tutorials/movement/speed/
+permalink: /movement/speed/
 parent: Movement
 nav_order: 1
 ---
@@ -33,8 +33,8 @@ This also shows the benefits of using the star power-up. More on the star and pr
 
 In order to have speed, you must accelerate to that speed!
 
-Downward slopes aid acceleration, so if you are trying to speed up, go down a slope. More on [Slopes](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/slopes) soon.
+Downward slopes aid acceleration, so if you are trying to speed up, go down a slope. More on [Slopes](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/slopes) soon.
 
 In a flat, open area (most levels start this way), in general, running is the fastest way to accelerate starting with no speed. Unless there is a wall...
 
-[Wallkicking ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/wallkicking){: .btn }
+[Wallkicking ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/wallkicking){: .btn }

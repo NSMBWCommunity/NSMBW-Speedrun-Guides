@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Slopes
-permalink: /tutorials/movement/slopes/
+permalink: /movement/slopes/
 parent: Movement
 nav_order: 3
 ---
@@ -32,4 +32,4 @@ Running up upwards slopes is slow so avoid them if possible. If you are forced t
 
 Now that we understand slopes, let's look at some information on jumping.
 
-[Jumping ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/jumping){: .btn }
+[Jumping ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/jumping){: .btn }

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Low%
-permalink: /categories/Low%/
-parent: Categories
-nav_order: 8
+permalink: /tutorials/Low%/
+parent: Tutorials
+nav_order: 6
 ---
 
 # Low%

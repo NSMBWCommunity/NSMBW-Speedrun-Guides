@@ -9,7 +9,17 @@ has_toc: true
 
 <img src="{{ site.baseurl }}/assets/logoTutorials.png" class="plain-img" alt="tutorials logo">
 
+Here you can find a number of tutorials. Before you start runs, please refresh yourself with the [Before Doing Runs](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/before-runs/) guide. For category-specific guides, pick a category from the Table of Contents.
 
-This site offers a number of tutorials. Here you can navigate to tutorials for a category of your choice, or our full Movement Guide.
+As of **February 2026**, the [Any%](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/any%25/) tutorial is complete. The other categories are a WIP, so for the time being we recommend watching runs at the time you want to achieve on [Speedrun.com](speedrun.com/nsmbw). Feel free to ask any questions you may have in the [Main NSMBW Speedrunning Server](https://discord.gg/pMKAaGscrh) or this site's server, the [NSMBW Tutorials Server](https://discord.gg/xMmfPyJ6Mh).
 
-As of **January 2026**, the [Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/) is being worked on and the [Any%](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/any%25/) tutorial is complete. The other categories are a WIP, so for the time being we recommend watching runs at the time you want to achieve on [Speedrun.com](speedrun.com). Feel free to ask any questions you may have in the [Main NSMBW Speedrunning Server](https://discord.gg/pMKAaGscrh) or the site-specific [Tutorials Server](https://discord.gg/xMmfPyJ6Mh).
+<!--
+
+split goals template
+
+**Beginner:**
+**Intermediate:**
+**Expert:**
+**World Record:**
+
+--->

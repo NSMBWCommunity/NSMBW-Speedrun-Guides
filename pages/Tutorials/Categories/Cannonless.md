@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Cannonless
-permalink: /tutorials/categories/Cannonless/
-parent: Categories
+permalink: /tutorials/Cannonless/
+parent: Tutorials
 nav_order: 3
 ---
 

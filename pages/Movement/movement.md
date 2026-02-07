@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Movement
-permalink: /tutorials/movement/
-parent: Tutorials
+permalink: /movement/
+has_parent: false
 has_children: true
 nav_order: 2
 has_toc: true
@@ -16,11 +16,13 @@ This guide is ordered from simple to advanced, starting with the basics to help 
 
 In the examples, pay attention to Mario's `SpeedX` and the input display on the top of the screen. 
 
-<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>You too can see this info while practicing by getting the [Practice Rom](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/practice-resources) with the Info Display Mod!</i>
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>You too can see this display while practicing by playing with the [Practice Rom](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/practice-resources)</i>
+
+---
 
 The guide starts by providing some base knowledge on speed:
 
-[Speed ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/speed){: .btn }
+[Speed ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/speed){: .btn }
 
 <!--
 
@@ -42,6 +44,7 @@ nav order
 
 list of gifs to create
 
+5-t 556 wallkicks
 9-1 penguin tech
 4-3 penguin star hyperspeed
 8-a il pipe

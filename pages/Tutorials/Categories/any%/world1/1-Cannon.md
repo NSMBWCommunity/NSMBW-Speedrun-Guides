@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1-Cannon
-permalink: /tutorials/categories/any%/world1/1-cannon/
+permalink: /tutorials/any%/world1/1-cannon/
 parent: World 1
 has_children: false
 nav_order: 4

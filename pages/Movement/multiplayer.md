@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Multiplayer
-permalink: /tutorials/movement/mulitplayer/
+permalink: /movement/mulitplayer/
 parent: Movement
 nav_order: 15
 ---

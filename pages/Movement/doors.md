@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Doors
-permalink: /tutorials/movement/doors/
+permalink: /movement/doors/
 parent: Movement
 nav_order: 6
 ---
@@ -52,4 +52,4 @@ For the most part, save these for ILs! **Enter the door as early as possible.** 
 
 Let's get a little more complex now! We'll next take a closer look at how moving platforms affect Mario's speed.
 
-[Moving Platforms ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/moving-platforms){: .btn }
+[Moving Platforms ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/moving-platforms){: .btn }
