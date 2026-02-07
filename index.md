@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<img src="{{ site.baseurl }}/assets/resourcesLogo.png" class="plain-img" alt="nsmbw resources logo">
+<img src="{{ site.baseurl }}/assets/logos/resourcesLogo.png" class="plain-img" alt="nsmbw resources logo">
 
 Here you'll find everything you need for NSMBW speedrunning, from a huge amount of detailed tutorials to just about every resource ever created for speedrunning this game.
 
