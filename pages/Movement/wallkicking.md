@@ -30,7 +30,7 @@ There are a couple special types of wallkicks you should be aware of.
 If you have fire, ice, or penguin, shoot fire/ice as you wallkick and you will get an acceleration boost.
 
 <div class="gif-container">
-  <img src="" alt=" fire/ice wallkick">
+  <img src="" alt="fire/ice wallkick">
 </div>
 <i><small></small></i>
 

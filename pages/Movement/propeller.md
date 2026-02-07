@@ -13,7 +13,7 @@ Propeller is the most important powerup to understand for Any%, and is still ver
 Using the propeller powerup requires using motion controls. You will often hear about runners "dropping spins" or getting "delayed spins" because of the accelerometer in the wii remote not being reliable. Motion control sensitivity can vary between wii remotes as well. To get motion inputs (commonmly called 'spinputs') more consistently, we recommend shaking with your left hand, or the hand on the side with the dpad.
 
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/wiimote.inside.png" alt="inside a wii remote">
+  <img src="{{ site.baseurl }}/assets/movement/wiimote.inside.png" alt="inside a wii remote">
 </div>
 <i><small>The accelerometer is inside the Wiimote below the `A` button when held with the dpad on the left.</small></i>
 

@@ -40,7 +40,7 @@ The **Practice Mod** is the best way to practice this game. It is packed with a 
 - An info display at the top of the screen provides real-time useful info including X/Y speed, precise IGT, an input display, Mario's current movement state, and a power-up-specific frame timer (more info can be found throughout the [Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement)).
 
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/infoDisplay.png" alt="Practice Mod info display">
+  <img src="{{ site.baseurl }}/assets/resources/infoDisplay.png" alt="Practice Mod info display">
 </div>
 <i><small>What the Info Display looks like in-game. This will be shown in all tutorial examples.</small></i>
 

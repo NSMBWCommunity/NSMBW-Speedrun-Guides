@@ -11,7 +11,7 @@ nav_order: 3
 It fastest to slide down slopes that are less steep than 45 degrees (if solid ground, only slide down 1x2 or 1x4 slopes).
 
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/slopeBlocks.png" alt="slope steepnesses">
+  <img src="{{ site.baseurl }}/assets/movement/slopeBlocks.png" alt="slope steepnesses">
 </div>
 <i><small>The three steepnesses of solid ground slopes.</small></i>
 

@@ -7,7 +7,7 @@ has_children: true
 has_toc: true
 ---
 
-<img src="{{ site.baseurl }}/assets/logoTutorials.png" class="plain-img" alt="tutorials logo">
+<img src="{{ site.baseurl }}/assets/logos/logoTutorials.png" class="plain-img" alt="tutorials logo">
 
 Here you can find a number of tutorials. Before you start runs, please refresh yourself with the [Before Doing Runs](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/before-runs/) guide. For category-specific guides, pick a category from the Table of Contents.
 

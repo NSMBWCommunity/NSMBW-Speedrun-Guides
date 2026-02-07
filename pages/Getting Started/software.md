@@ -21,7 +21,7 @@ For verification purposes we recommend recording at a bitrate and video quality 
 ---
 
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/livesplitSS.png" alt="">
+  <img src="{{ site.baseurl }}/assets/resources/livesplitSS.png" alt="">
 </div>
 
 ## LiveSplit

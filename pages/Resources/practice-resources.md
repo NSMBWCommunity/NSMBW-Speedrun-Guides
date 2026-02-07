@@ -16,7 +16,7 @@ A list of NSMBW Mods (Riivolution patches) used for practice.
 
 ---
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/pracromSS.png" alt="practice rom screenshot">
+  <img src="{{ site.baseurl }}/assets/resources/pracromSS.png" alt="practice rom screenshot">
 </div>
 <i><small>The pipes shown lead to each of the different rooms in 8-A for easy access.</small></i>
 
@@ -44,7 +44,7 @@ Has Rynnoo's pipes for accessibility, Roadrunner's Practice Mode, and MGR's Info
 ---
 
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/ilsmodSS.png" alt="ils mod screenshot">
+  <img src="{{ site.baseurl }}/assets/resources/ilsmodSS.png" alt="ils mod screenshot">
 </div>
 <i><small></small></i>
 
@@ -55,7 +55,7 @@ Roadrunner's mod that is legal for ILs on [Speedrun.com](speedrun.com/nsmbw/). P
 ---
 
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/pracmodeSS.png" alt="practice mode logo">
+  <img src="{{ site.baseurl }}/assets/resources/pracmodeSS.png" alt="practice mode logo">
 </div>
 <i><small></small></i>
 
@@ -66,7 +66,7 @@ Roadrunner's practice mod that uses all of the button combos above minus the zoo
 ---
 
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/infoDisplay.png" alt="info display">
+  <img src="{{ site.baseurl }}/assets/resources/infoDisplay.png" alt="info display">
 </div>
 <i><small></small></i>
 
@@ -82,7 +82,7 @@ Software we recommend for effective practice.
 ---
 
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/dolphinSS.png" alt="dolphin emu screenshot">
+  <img src="{{ site.baseurl }}/assets/resources/dolphinSS.png" alt="dolphin emu screenshot">
 </div>
 <i><small></small></i>
 
@@ -93,7 +93,7 @@ The best Wii (and Gamecube) emulator. Plenty of tutorials are on YouTube for set
 ---
 
 <div class="gif-container">
-  <img src="{{ site.baseurl }}/assets/amarecSS.png" alt="amaRecTV screenshot">
+  <img src="{{ site.baseurl }}/assets/resources/amarecSS.png" alt="amaRecTV screenshot">
 </div>
 <i><small></small></i>
 
