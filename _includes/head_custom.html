@@ -43,6 +43,31 @@ small {
   display: block;
 }
 
+.plain-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+
+  /* opt out of theme styling */
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+/* left-aligned image with text wrapping */
+.plain-img.left {
+  margin: 0 1rem 1rem 0;
+}
+
+/* smaller img */
+.plain-img.half {
+  max-width: 50%;
+}
+
+/* Border controlled per-image */
+.plain-img {
+  border: 2px solid var(--img-border, #ccc);
+}
+
 </style>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">

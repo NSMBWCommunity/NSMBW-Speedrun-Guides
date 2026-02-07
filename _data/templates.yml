@@ -29,3 +29,14 @@
 **Links Within This Site**
 
 [](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/)
+
+---
+
+**Left aligned image with custom border color**
+
+<img
+  src="{{ site.baseurl }}/assets/"
+  alt="Example"
+  class="plain-img left half"
+  style="--img-border: #e63946;"
+>
