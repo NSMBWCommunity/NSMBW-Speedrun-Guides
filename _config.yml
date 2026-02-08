@@ -16,4 +16,5 @@ aux_links:
   
 
 just_the_docs:
-
+  custom_css:
+  - custom/custom.scss
