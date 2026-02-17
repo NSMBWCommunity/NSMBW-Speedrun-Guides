@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<img src="{{ site.baseurl }}/assets/logos/resourcesLogo.png" class="plain-img" alt="nsmbw resources logo">
+<img src="{{ site.baseurl }}/assets/resourcesLogo.png" class="plain-img" alt="nsmbw resources logo">
 
 Here you'll find everything you need for NSMBW speedrunning, from a huge amount of detailed tutorials to just about every resource ever created for speedrunning this game.
 
@@ -14,17 +14,33 @@ Built and regularly updated by the community and active top-level speedrunners.
 
 ## Website Guide
 
-If you're here because you're brand new to speedrunning this game, we recommend you watch our [Introduction to Speedrunning NSMBW]() video (coming soon).
+[Getting Started](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/getting-started/)
 
-For a guide on how to start speedrunning NSMBW, go to [Getting Started](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/getting-started/)
+A full guide for newcomers to NSMBW speedrunning. Includes guides on software, installing the practice mod, and console information.
 
-To understand moving Mario, see our in-depth [Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/).
+---
 
-If you're looking to learn a specific category, like Any%, we have detailed tutorials and videos for every experience level- beginner to expert. Head to [Categories](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/) and go from there.
+[Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/)
 
-For useful resources like our world record history, unofficial leaderboards, and community projects, check out [Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/).
+In-depth tutorials at how to optimally move Mario.
 
-For archived documents and information on past events, dive into the [NSMBW Speedrunning Archive](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/nsmbw-speedrunning-archive/)
+---
+
+[Categories](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/)
+
+Pick a category from here to find tutorials for each speedrun on the Speedrun.com leaderboards.
+
+---
+
+[Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/)
+
+From roms, sheets, and video guides, here you can find almost every active NSMBW speedrunning resource.
+
+---
+
+[NSMBW Speedrunning Archive](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/nsmbw-speedrunning-archive/)
+
+For archived documents and information on past events, go here!
 
 ---
 
