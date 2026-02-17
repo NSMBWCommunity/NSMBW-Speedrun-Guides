@@ -17,7 +17,7 @@ We recommend at minimum joining the main speedrunning server!
 <img
   src="{{ site.baseurl }}/assets/resources/serverNSMBW.png"
   alt="nsmbw speedrunning server info"
-  class="plain-img left half"
+  class="plain-img-half"
   style="--img-border: #ff2e3f;"
 >
 
@@ -30,7 +30,7 @@ The main hub for sharing strats, PBs, and discussing speedrunning this game in g
 <img
   src="{{ site.baseurl }}/assets/resources/serverTutorials.png"
   alt="tutorials nsmbw"
-  class="plain-img left half"
+  class="plain-img-half"
   style="--img-border: #ff6c6c;"
 >
 
@@ -43,7 +43,7 @@ This server is used for website documentation, discussion, and resource developm
 <img
   src="{{ site.baseurl }}/assets/resources/serverTourneys.png"
   alt="nsmbw tourney server info"
-  class="plain-img left half"
+  class="plain-img-half"
   style="--img-border: #34e059;"
 >
 
@@ -56,7 +56,7 @@ All NSMBW tournament information can be found here! If you're interested in sign
 <img
   src="{{ site.baseurl }}/assets/resources/serverbtt.png"
   alt="btt server info"
-  class="plain-img left half"
+  class="plain-img-half"
   style="--img-border: #ffb731;"
 >
 
@@ -69,7 +69,7 @@ The community BTT server for posting clips to create a "best theoretical time" s
 <img
   src="{{ site.baseurl }}/assets/resources/servernsmbseries.png"
   alt="btt server info"
-  class="plain-img left half"
+  class="plain-img-half"
   style="--img-border: #cf9bff;"
 >
 
@@ -82,7 +82,7 @@ Interested in speedrunning another game in the NSMB Series like New Super Mario 
 <img
   src="{{ site.baseurl }}/assets/resources/servertascomp.png"
   alt="tas comp server info"
-  class="plain-img left half"
+  class="plain-img-half"
   style="--img-border: #ff5656;"
 >
 

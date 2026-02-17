@@ -7,7 +7,7 @@ has_children: true
 has_toc: true
 ---
 
-<img src="{{ site.baseurl }}/assets/resources/logoResources.png" class="plain-img" alt="resources logo">
+<img src="{{ site.baseurl }}/assets/logos/resourcesLogo.png" class="plain-img" alt="resources logo">
 
 
 Anything that the community has achieved, created, or documented in speedrunning this game can be found on this page somewhere. You can find a complete world record history for all categories here as well. Use the table of contents to help find what you need!
