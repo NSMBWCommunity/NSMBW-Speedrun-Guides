@@ -4,43 +4,33 @@ layout: home
 nav_order: 1
 ---
 
-<img src="{{ site.baseurl }}/assets/resourcesLogo.png" class="plain-img" alt="nsmbw resources logo">
+<img src="{{ site.baseurl }}/assets/logos/resourcesLogo.png" class="plain-img" alt="nsmbw resources logo">
 
 Here you'll find everything you need for NSMBW speedrunning, from a huge amount of detailed tutorials to just about every resource ever created for speedrunning this game.
 
-Built and regularly updated by the community and active top-level speedrunners.
+Built and regularly updated by the community and active speedrunners.
 
 ---
 
 ## Website Guide
 
-[Getting Started](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/getting-started/)
-
-A full guide for newcomers to NSMBW speedrunning. Includes guides on software, installing the practice mod, and console information.
+[Getting Started](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/getting-started/) ▶ A full guide for newcomers to NSMBW speedrunning. Includes guides on software, installing the practice mod, and console information.
 
 ---
 
-[Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/)
-
-In-depth tutorials at how to optimally move Mario.
+[Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/) ▶ In-depth tutorials at how to optimally move Mario.
 
 ---
 
-[Categories](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/)
-
-Pick a category from here to find tutorials for each speedrun on the Speedrun.com leaderboards.
+[Categories](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/) ▶ Pick a category from here to find tutorials for each speedrun on the Speedrun.com leaderboards.
 
 ---
 
-[Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/)
-
-From roms, sheets, and video guides, here you can find almost every active NSMBW speedrunning resource.
+[Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/) ▶ From roms, sheets, and video guides, here you can find almost every active NSMBW speedrunning resource.
 
 ---
 
-[NSMBW Speedrunning Archive](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/nsmbw-speedrunning-archive/)
-
-For archived documents and information on past events, go here!
+[NSMBW Speedrunning Archive](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/nsmbw-speedrunning-archive/) ▶ For archived documents and information on past events, go here!
 
 ---
 

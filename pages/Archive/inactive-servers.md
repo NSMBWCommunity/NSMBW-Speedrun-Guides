@@ -13,7 +13,7 @@ A list of servers once used for NSMBW Speedrunning. Could be useful for historic
 ---
 
 <img
-  src="{{ site.baseurl }}/assets/resources/serverRelay.png"
+  src="{{ site.baseurl }}/assets/servers/serverRelay.png"
   alt="nsmbssr server info"
   class="plain-img-half"
   style="--img-border: #ff9640;"
@@ -26,7 +26,7 @@ A NSMB series relay race once per season! *Inactive since August 2024.*
 ---
 
 <img
-  src="{{ site.baseurl }}/assets/resources/serverwrprog.png"
+  src="{{ site.baseurl }}/assets/servers/serverwrprog.png"
   alt="wr prog server info"
   class="plain-img-half"
   style="--img-border: #88aeff;"
