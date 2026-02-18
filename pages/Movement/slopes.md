@@ -32,4 +32,4 @@ Running up upwards slopes is slow so avoid them if possible. If you are forced t
 
 Now that we understand slopes, let's look at some information on jumping.
 
-[Jumping ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/jumping){: .btn }
+[Jumping ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/jumping){: .btn }

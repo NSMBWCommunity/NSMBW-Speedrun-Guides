@@ -86,4 +86,4 @@ If Mario jumps very precisely at the edge of a platform, he will lose his jump p
 
 Now that we feel confident making the plumber jump, let's make sure he knows how to enter and exit every pipe optimally.
 
-[Pipes ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/pipes){: .btn }
+[Pipes ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/pipes){: .btn }

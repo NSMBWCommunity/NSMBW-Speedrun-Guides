@@ -80,4 +80,4 @@ For **upwards-facing pipes**, just run off unless there is a wall opposite to yo
 
 Pipes are the most common way Mario transitions between areas. The next most common are doors. These are pretty easy!
 
-[Doors ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/doors){: .btn }
+[Doors ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/doors){: .btn }

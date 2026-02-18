@@ -37,4 +37,4 @@ Downward slopes aid acceleration, so if you are trying to speed up, go down a sl
 
 In a flat, open area (most levels start this way), in general, running is the fastest way to accelerate starting with no speed. Unless there is a wall...
 
-[Wallkicking ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/wallkicking){: .btn }
+[Wallkicking ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/wallkicking){: .btn }

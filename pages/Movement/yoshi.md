@@ -12,4 +12,4 @@ nav_order: 14
 
 You have now learned all single-player movement! There are a few multiplayer-specific movement techniques to learn if you're interested in multiplayer speedruns.
 
-[Multiplayer ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/multiplayer){: .btn }
+[Multiplayer ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/multiplayer){: .btn }

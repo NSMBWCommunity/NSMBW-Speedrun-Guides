@@ -56,4 +56,4 @@ To acquire hyperspeed:
 
 Star is usually fastest for horizontal movement. Propeller is usually fastest for vertical movement, so let's learn how it works.
 
-[Propeller ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/propeller){: .btn }
+[Propeller ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/propeller){: .btn }

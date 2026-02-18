@@ -34,7 +34,7 @@ The main hub for sharing strats, PBs, and discussing speedrunning this game in g
   style="--img-border: #ff6c6c;"
 >
 
-### [NSMBW Tutorials](https://discord.gg/xMmfPyJ6Mh)
+### [↗ NSMBW Tutorials](https://discord.gg/xMmfPyJ6Mh)
 
 This server is used for website documentation, discussion, and resource development.
 
@@ -47,7 +47,7 @@ This server is used for website documentation, discussion, and resource developm
   style="--img-border: #34e059;"
 >
 
-### [NSMBW Tournaments Server](https://discord.gg/uWnjt8FCVA)
+### [↗ NSMBW Tournaments Server](https://discord.gg/uWnjt8FCVA)
 
 All NSMBW tournament information can be found here! If you're interested in signing up or learning when the next tournament is, join and ask a staff member!
 
@@ -60,7 +60,7 @@ All NSMBW tournament information can be found here! If you're interested in sign
   style="--img-border: #ffb731;"
 >
 
-### [NSMBW BTT Server](https://discord.gg/uhyVmA5DuE)
+### [↗ NSMBW BTT Server](https://discord.gg/uhyVmA5DuE)
 
 The community BTT server for posting clips to create a "best theoretical time" segmented speedrun.
 
@@ -73,7 +73,7 @@ The community BTT server for posting clips to create a "best theoretical time" s
   style="--img-border: #cf9bff;"
 >
 
-### [NSMB Series Speedrunning](https://discord.gg/GZ5Gg5E7RJ)
+### [↗ NSMB Series Speedrunning](https://discord.gg/GZ5Gg5E7RJ)
 
 Interested in speedrunning another game in the NSMB Series like New Super Mario Bros. DS? Join here!
 
@@ -86,7 +86,7 @@ Interested in speedrunning another game in the NSMB Series like New Super Mario 
   style="--img-border: #ff5656;"
 >
 
-### [NSMBWii TAS Competition](https://discord.gg/kd4qwXSq9m)
+### [↗ NSMBWii TAS Competition](https://discord.gg/kd4qwXSq9m)
 
 Looking for a fun way to get into TASing NSMBW? This server hosts competetitions with unique completion requirements.
 

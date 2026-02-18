@@ -1,29 +1,39 @@
 <style>
 /* site-wide styles for image containers */
-.gif-container { max-width: 480px; margin: 0.5rem auto; }
+.gif-container {
+  text-align: center; /* centers the image */
+}
+
 .gif-container img {
-  display: block;
-  width: 100%;
+  display: inline-block;
+  max-width: 100%;
   height: auto;
   box-sizing: border-box;
-  border: 8px solid rgba(56, 165, 255, 0.9); /* light blue */
-  border-radius: 12px; /* rounded corners */
-  /* images are visible by default (in case JS fails). When JS is available, */
-  /* the `js-enabled` class will be added to <html> and hide them until revealed. */
+
+  /* Brick base color */
+  background-color: #483012;
+
+  /* Brick pattern */
+  background-image:
+    linear-gradient(90deg, rgba(0,0,0,0.15) 2px, transparent 2px),
+    linear-gradient(rgba(0,0,0,0.15) 2px, transparent 2px);
+  background-size: 40px 20px;
+
+  /* Padding creates the brick frame thickness */
+  padding: 18px;
+
+  /* Slightly rounded like NSMBW UI */
+  border-radius: 12px;
+
+  /* Offset shadow */
+  box-shadow: 6px 6px 0 rgba(0, 0, 0, 0.25);
+
+  /* Keep your original animation behavior */
   opacity: 1;
   transform: translateY(0);
   transition: opacity 420ms ease-in, transform 420ms ease-in;
 }
 
-/* When JavaScript runs we add `js-enabled` to <html> and hide images until observed */
-.js-enabled .gif-container img {
-  opacity: 0;
-  transform: translateY(8px);
-}
-.js-enabled .gif-container img.is-visible {
-  opacity: 1;
-  transform: translateY(0);
-}
 
 /* Centering for small text */
 small {
@@ -37,12 +47,12 @@ small {
 }
 
 /* for plain images that should be full width but not have the blue border */
-.plain-img {
+.plain-img img{
   max-width: 100%;
   height: auto;
 }
 
-.plain-img-half {
+.plain-img-half img {
   max-width: 50%;
   height: auto; 
 }

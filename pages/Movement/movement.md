@@ -22,7 +22,7 @@ In the examples, pay attention to Mario's `SpeedX` and the input display on the 
 
 The guide starts by providing some base knowledge on speed:
 
-[Speed ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/speed){: .btn }
+[Speed ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/speed){: .btn }
 
 <!--
 

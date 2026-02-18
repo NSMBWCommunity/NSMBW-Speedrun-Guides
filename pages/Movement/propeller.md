@@ -99,4 +99,4 @@ For vertical stages, prop is fast when you can't simply jump. Use instantlands a
 
 Get ready to cover the fastest, yet most technically complex powerup in the game...
 
-[Penguin ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/penguin){: .btn }
+[Penguin ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/penguin){: .btn }

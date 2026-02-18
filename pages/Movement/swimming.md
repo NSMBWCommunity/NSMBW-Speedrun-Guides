@@ -45,4 +45,4 @@ It can be done by alternating between `UP/DOWN` and `2` rhythmically. Take note 
 
 Now that we're finally done here, let's move on to power-up specific tech. First, the most fun!
 
-[Star ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/star){: .btn }
+[Star ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/star){: .btn }

@@ -58,4 +58,4 @@ Follow the rule of thumb and run on them while they are moving in your desired d
 
 Next: neutral speed preservation tricks! 
 
-[Neutral Tricks ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/neutral-tricks){: .btn }
+[Neutral Tricks ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/neutral-tricks){: .btn }

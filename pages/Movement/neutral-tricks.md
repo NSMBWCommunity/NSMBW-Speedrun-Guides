@@ -62,4 +62,4 @@ Learn more [here](), then come back!
 
 Now for the tech that every speedrunner hates...
 
-[Swimming ▶](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/swimming){: .btn }
+[Swimming ▷](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/swimming){: .btn }
