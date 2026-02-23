@@ -24,7 +24,7 @@ The main hub for sharing strats, PBs, and discussing speedrunning this game in g
 
 ---
 
-<img src="{{ site.baseurl }}/assets/servers/servertutorials.png" 
+<img src="{{ site.baseurl }}/assets/servers/serverTutorials.png" 
      style="max-width: 50%; border: 8px solid #5aacff;">
 >
 
@@ -44,7 +44,7 @@ All NSMBW tournament information can be found here! If you're interested in sign
 
 ---
 
-<img src="{{ site.baseurl }}/assets/servers/serverbtt.png" 
+<img src="{{ site.baseurl }}/assets/servers/serverBTT.png" 
      style="max-width: 50%; border: 8px solid #cbc43a;">
 >
 
@@ -64,7 +64,7 @@ Interested in speedrunning another game in the NSMB Series like New Super Mario 
 
 ---
 
-<img src="{{ site.baseurl }}/assets/servers/servertascomp.png" 
+<img src="{{ site.baseurl }}/assets/servers/serverTAScomp.png" 
      style="max-width: 50%; border: 8px solid #ed9467;">
 >
 
