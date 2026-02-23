@@ -12,7 +12,7 @@ There are many examples of moving platforms/ground in this game, including rolli
 
 Some moving ground/platforms can affect your speed ind the air after jumping off of them. Let's take a closer look at these:
 
-## 1. Ground That *Does* Affect Your Air Speed
+## Ground That Affects Your Air Speed
 
 <div class="gif-container">
   <img src="https://media.giphy.com/media/FcGRxeE1U2C9ncp61U/giphy.gif" alt="1-1 rolling hills">

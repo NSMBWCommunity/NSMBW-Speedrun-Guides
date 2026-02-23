@@ -12,7 +12,7 @@ While NSMBW might look difficult on the surface, nothing in this game can’t be
 
 Knowing how to effectively practice NSMBW is what will keep you from plateauing and help you to continuously improve your times.
 
-If you're looking for a plain list of practice resource links, head to [Practice Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/practice-resources).
+If you're looking for a plain list of practice resource links, head to [⤤ Practice Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/practice-resources).
 
 ## Practice Mod 
 
@@ -37,7 +37,7 @@ The **Practice Mod** is the best way to practice this game. It is packed with a 
 | Default zoom | Plus + D-Pad right | Plus + D-Pad right | Plus + D-Pad right |
 | Visualize Hitboxes | B + 2 | B + 2 | B + 2 |
 
-- An info display at the top of the screen provides real-time useful info including X/Y speed, precise IGT, an input display, Mario's current movement state, and a power-up-specific frame timer (more info can be found throughout the [Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement)).
+- An info display at the top of the screen provides real-time useful info including X/Y speed, precise IGT, an input display, Mario's current movement state, and a power-up-specific frame timer (more info can be found throughout the [⤤ Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement)).
 
 <div class="gif-container">
   <img src="{{ site.baseurl }}/assets/resources/infoDisplay.png" alt="Practice Mod info display">
@@ -48,18 +48,18 @@ The **Practice Mod** is the best way to practice this game. It is packed with a 
 
 ## Installation
 
-NSMBW mods require installing [Homebrew](https://wiibrew.org/wiki/Homebrew_setup) to your Wii/Wii U.
+NSMBW mods require installing [⤤ Homebrew](https://wiibrew.org/wiki/Homebrew_setup) to your Wii/Wii U.
 
 Linked are easy-to-follow Homebrew setup tutorials for: 
 - [Wii](https://youtu.be/bHGf7JbQR9c)
 - [Wii U](https://www.youtube.com/watch?v=iTJ3cShA6AI).
 
 All NSMBW mods launch using a Homebrew app called 
-[Riivolution](https://aerialx.github.io/rvlution.net/wiki/Riivolution/).
+[⤤ Riivolution](https://aerialx.github.io/rvlution.net/wiki/Riivolution/).
 
 After having a Homebrewed console with Riivolution:
 
-1) Download and open the latest Practice Mod .zip file, located in the [Discord Server #resources Channel](https://discordapp.com/channels/135832360099774464/1033932077890027561)
+1) Download and open the latest Practice Mod .zip file, located in the [⤤ Discord Server #resources Channel](https://discordapp.com/channels/135832360099774464/1033932077890027561)
 
 2) Drag the `Roadrunner_Rynnoo_Edit` and `riivolution` folders onto the root of your SD card and hit "Replace Files" if a prompt shows up.
 
@@ -73,6 +73,6 @@ This same installation process can be applied to all NSMBW Mods. Navigate Riivol
 
 ---
 
-By now you should have a solid foundation for starting your NSMBW speedrunning journey. For more advice, questions, or any feedback you may have, join the [NSMBW Speedrunning Server](https://discord.gg/pMKAaGscrh).
+By now you should have a solid foundation for starting your NSMBW speedrunning journey. For more advice, questions, or any feedback you may have, join the [⤤ NSMBW Speedrunning Server](https://discord.gg/pMKAaGscrh).
 
-Your next steps are to start learning strats and movement in [Tutorials](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/)! Good luck!
+Your next steps are to pick a category from [☆ Tutorials](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/) and learning strats! We also recommend getting familiar with movement by using the [☆ Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/)! Good luck!

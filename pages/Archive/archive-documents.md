@@ -14,7 +14,7 @@ These documents once were used for a NSMBW speedrunning project, tracking commun
 
 ---
 
-[NSMBW World Record Leaderboard](https://docs.google.com/spreadsheets/d/1SvhShCTtC5QikUeJhHL26QisFTQzzaytQ6blGmooECg/edit?gid=0#gid=0){: .btn }
+[⤤ NSMBW World Record Leaderboard](https://docs.google.com/spreadsheets/d/1SvhShCTtC5QikUeJhHL26QisFTQzzaytQ6blGmooECg/edit?gid=0#gid=0){: .btn }
 
 A very outdated leaderboard ranking the speedrunners who accumulated the most main board world records.
 
@@ -26,7 +26,7 @@ A very outdated leaderboard ranking the speedrunners who accumulated the most ma
 ---
 
 
-[NSMBW retimes](https://docs.google.com/spreadsheets/d/104tFmGd5qZi6s04Tm7-WvS5Gib_cEUFORJvLZ5sJKP8/edit?usp=sharing){: .btn }
+[⤤ NSMBW retimes](https://docs.google.com/spreadsheets/d/104tFmGd5qZi6s04Tm7-WvS5Gib_cEUFORJvLZ5sJKP8/edit?usp=sharing){: .btn }
 
 A resource used to track the innacuracies of the SRC boards. Comes with a color key and covers all main board categories. 
 
@@ -37,7 +37,7 @@ A resource used to track the innacuracies of the SRC boards. Comes with a color 
 
 ---
 
-[Any% BTT](https://docs.google.com/spreadsheets/d/1i2jYiwQHBW6YocLKZLCKi4pMHOfayVRr5wD9D1P0QcM/edit?usp=sharing){: .btn }
+[⤤ Any% BTT](https://docs.google.com/spreadsheets/d/1i2jYiwQHBW6YocLKZLCKi4pMHOfayVRr5wD9D1P0QcM/edit?usp=sharing){: .btn }
 
 Includes links to individual clips used for each room in the 2024 Any% community BTT.
 
@@ -48,7 +48,7 @@ Includes links to individual clips used for each room in the 2024 Any% community
 
 ---
 
-[5-3 Music Differences??](https://docs.google.com/spreadsheets/d/1Ipm0ltW3Wjy85Xj6HSz1Z1_UjjMx2baJ4nLilbCVF04/edit?usp=sharing){: .btn }
+[⤤ 5-3 Music Differences??](https://docs.google.com/spreadsheets/d/1Ipm0ltW3Wjy85Xj6HSz1Z1_UjjMx2baJ4nLilbCVF04/edit?usp=sharing){: .btn }
 
 A strange phenomenon in 5-3 lead to this artifact's creation. Abandoned due to lack of conclusive evidence.
 

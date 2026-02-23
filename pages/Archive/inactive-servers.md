@@ -12,28 +12,22 @@ A list of servers once used for NSMBW Speedrunning. Could be useful for historic
 
 ---
 
-<img
-  src="{{ site.baseurl }}/assets/servers/serverRelay.png"
-  alt="nsmbssr server info"
-  class="plain-img-half"
-  style="--img-border: #ff9640;"
->
+<img src="{{ site.baseurl }}/assets/serverRelay" 
+     style="max-width: 50%; border: 8px solid #ffa622;">
+
 
 A NSMB series relay race once per season! *Inactive since August 2024.*
 
-### [NSMB Series Seasonal Relay](https://discord.gg/vjYJK9QfDQ)
+### [⤤ NSMB Series Seasonal Relay](https://discord.gg/vjYJK9QfDQ)
 
 ---
 
-<img
-  src="{{ site.baseurl }}/assets/servers/serverwrprog.png"
-  alt="wr prog server info"
-  class="plain-img-half"
-  style="--img-border: #88aeff;"
->
+<img src="{{ site.baseurl }}/assets/serverWRprog.png" 
+     style="max-width: 50%; border: 8px solid #bdb5ff;">
+
 
 A server dedicated to working on NSMBW WR Progression video essays. *Inactive since November 2024.*
 
-### [NSMBW WR Progression](https://discord.gg/6hNUqNZebQ)
+### [⤤ NSMBW WR Progression](https://discord.gg/6hNUqNZebQ)
 
 ---

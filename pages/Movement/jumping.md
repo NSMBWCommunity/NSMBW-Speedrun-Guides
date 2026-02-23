@@ -76,7 +76,7 @@ To stutterstep, you need to hold `2` while you land (technically a hover jump...
 
 ## Jump Rule Exceptions
 
-If Mario jumps onto backwards moving ground (specifically moving ground that affects your midair speed; more info [here](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/moving-platforms)), double and triple jumps must be frame-perfect.
+If Mario jumps onto backwards moving ground that affects your midair speed (more info [☆ here](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/moving-platforms/#Ground-that-Affects-Your-Air-Speed)), double and triple jumps must be frame-perfect.
 
 If Mario jumps very precisely at the edge of a platform, he will lose his jump progression (Mario will do a single jump regardless of the prevous jump). Try not to jump at the very edge of platforms to avoid this.
 

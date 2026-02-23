@@ -14,24 +14,18 @@ We recommend at minimum joining the main speedrunning server!
 
 ---
 
-<img
-  src="{{ site.baseurl }}/assets/resources/serverNSMBW.png"
-  alt="nsmbw speedrunning server info"
-  class="plain-img-half"
-  style="--img-border: #ff2e3f;"
+<img src="{{ site.baseurl }}/assets/servers/serverNSMBW.png" 
+     style="max-width: 50%; border: 8px solid #ed6767;">
 >
 
-### [NSMBW Speedrunning](https://discord.gg/pMKAaGscrh)
+### [↗ NSMBW Speedrunning](https://discord.gg/pMKAaGscrh)
 
 The main hub for sharing strats, PBs, and discussing speedrunning this game in general.
 
 ---
 
-<img
-  src="{{ site.baseurl }}/assets/servers/serverTutorials.png"
-  alt="tutorials nsmbw"
-  class="plain-img-half"
-  style="--img-border: #ff6c6c;"
+<img src="{{ site.baseurl }}/assets/servers/servertutorials.png" 
+     style="max-width: 50%; border: 8px solid #5aacff;">
 >
 
 ### [↗ NSMBW Tutorials](https://discord.gg/xMmfPyJ6Mh)
@@ -40,11 +34,8 @@ This server is used for website documentation, discussion, and resource developm
 
 ---
 
-<img
-  src="{{ site.baseurl }}/assets/servers/serverTourneys.png"
-  alt="nsmbw tourney server info"
-  class="plain-img-half"
-  style="--img-border: #34e059;"
+<img src="{{ site.baseurl }}/assets/servers/serverTourneys.png" 
+     style="max-width: 50%; border: 8px solid #4ce481;">
 >
 
 ### [↗ NSMBW Tournaments Server](https://discord.gg/uWnjt8FCVA)
@@ -53,11 +44,8 @@ All NSMBW tournament information can be found here! If you're interested in sign
 
 ---
 
-<img
-  src="{{ site.baseurl }}/assets/servers/serverbtt.png"
-  alt="btt server info"
-  class="plain-img-half"
-  style="--img-border: #ffb731;"
+<img src="{{ site.baseurl }}/assets/servers/serverbtt.png" 
+     style="max-width: 50%; border: 8px solid #cbc43a;">
 >
 
 ### [↗ NSMBW BTT Server](https://discord.gg/uhyVmA5DuE)
@@ -66,11 +54,8 @@ The community BTT server for posting clips to create a "best theoretical time" s
 
 ---
 
-<img
-  src="{{ site.baseurl }}/assets/servers/servernsmbseries.png"
-  alt="btt server info"
-  class="plain-img-half"
-  style="--img-border: #cf9bff;"
+<img src="{{ site.baseurl }}/assets/servers/serverNSMBseries.png" 
+     style="max-width: 50%; border: 8px solid #edb567;">
 >
 
 ### [↗ NSMB Series Speedrunning](https://discord.gg/GZ5Gg5E7RJ)
@@ -79,11 +64,8 @@ Interested in speedrunning another game in the NSMB Series like New Super Mario 
 
 ---
 
-<img
-  src="{{ site.baseurl }}/assets/servers/servertascomp.png"
-  alt="tas comp server info"
-  class="plain-img-half"
-  style="--img-border: #ff5656;"
+<img src="{{ site.baseurl }}/assets/servers/servertascomp.png" 
+     style="max-width: 50%; border: 8px solid #ed9467;">
 >
 
 ### [↗ NSMBWii TAS Competition](https://discord.gg/kd4qwXSq9m)
@@ -94,4 +76,4 @@ Looking for a fun way to get into TASing NSMBW? This server hosts competetitions
 
 ## Inactive Servers
 
-Check out the [NSMBW Speedrunning Archive's Inactive Servers](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/nsmbw-speedrunning-archive/) for inactive servers you may be interested in.
+Check out the [☆ Archive's List of Inactive Servers](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/nsmbw-speedrunning-archive/) for inactive servers you may be interested in.

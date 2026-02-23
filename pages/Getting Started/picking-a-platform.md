@@ -8,7 +8,7 @@ nav_order: 1
 
 # Picking a Platform
 
-In order to submit to the [official leaderboards](https://www.speedrun.com/nsmbw), you need to play on one of the supported platforms:
+In order to submit to the [⤤ official leaderboards](https://www.speedrun.com/nsmbw), you need to play on one of the supported platforms:
 - Wii RVL-001 ("Gamecube Wii")
 - Wii RVL-101 ("Side Wii")
 - Wii U (Physical or Digital)

@@ -26,13 +26,13 @@ Volza, BigCheese, and Cads curated a [Best Matches in History playlist](https://
 
 **Staff:** Azord, Volza, Pacasa02
 
-**Restreamer:** [NSMBWCommunity Twitch Channel](https://www.twitch.tv/nsmbwcommunity)
+**Restreamer:** [⤤ NSMBWCommunity Twitch Channel](https://www.twitch.tv/nsmbwcommunity)
 
-**Vods:** [Winter '26 Full Matches](https://www.youtube.com/playlist?list=PLCFYuPZOlv8tOvEBh_4yEuZzdN1MiT1jk)
+**Vods:** [⤤ Winter '26 Full Matches](https://www.youtube.com/playlist?list=PLCFYuPZOlv8tOvEBh_4yEuZzdN1MiT1jk)
 
-**Bracket:** [Challonge - NSMBWWinter26](https://challonge.com/nsmbwwinter26)
+**Bracket:** [⤤ Challonge - NSMBWWinter26](https://challonge.com/nsmbwwinter26)
 
-**Times/Stats:** [NSMBW Winter '26 Info](https://docs.google.com/spreadsheets/d/1uITK8CgXxlfyzEdtEf52O0X77nyYzs49JvDhZe1O16w/edit?gid=0#gid=0)
+**Times/Stats:** [⤤ NSMBW Winter '26 Info](https://docs.google.com/spreadsheets/d/1uITK8CgXxlfyzEdtEf52O0X77nyYzs49JvDhZe1O16w/edit?gid=0#gid=0)
 
 ---
 
@@ -46,13 +46,13 @@ Volza, BigCheese, and Cads curated a [Best Matches in History playlist](https://
 
 **Staff:** Volza, LunaEclipse
 
-**Restreamer:** [Speedgaming](https://www.twitch.tv/speedgaming)
+**Restreamer:** [⤤ Speedgaming](https://www.twitch.tv/speedgaming)
 
-**Vods:** [NSMBW Summer Tournament 2025 Playlist](https://youtube.com/playlist?list=PLdoWICJMgPKVkxA7dK43dBeuy-Epz72dV&si=p1NgmZ_ky25X79x2)
+**Vods:** [⤤ NSMBW Summer Tournament 2025 Playlist](https://youtube.com/playlist?list=PLdoWICJMgPKVkxA7dK43dBeuy-Epz72dV&si=p1NgmZ_ky25X79x2)
 
-**Bracket:** [Challonge - NSMBW2025](https://challonge.com/nsmbw2025)
+**Bracket:** [⤤ Challonge - NSMBW2025](https://challonge.com/nsmbw2025)
 
-**Times/Stats:** [NSMBW Summer 2025 Tournament Tracker](https://docs.google.com/spreadsheets/d/1lOO4B_X3twEdJrzOOzOGl8YDK-CAjSL_Hl_Xn8UaWA8/edit?usp=sharing)
+**Times/Stats:** [⤤ NSMBW Summer 2025 Tournament Tracker](https://docs.google.com/spreadsheets/d/1lOO4B_X3twEdJrzOOzOGl8YDK-CAjSL_Hl_Xn8UaWA8/edit?usp=sharing)
 
 ---
 
@@ -66,13 +66,13 @@ Volza, BigCheese, and Cads curated a [Best Matches in History playlist](https://
 
 **Staff:** Caleb, LunaEclipse, Volza
 
-**Restreamer:** [Speedgaming](https://www.twitch.tv/speedgaming)
+**Restreamer:** [⤤ Speedgaming](https://www.twitch.tv/speedgaming)
 
-**Vods:** [NSMBW Summer Tournament 2024 Playlist](https://youtube.com/playlist?list=PLdoWICJMgPKWOvOewul_9eS4cuHA1nYtu&si=RlpTbA-KTbU2cMwX)
+**Vods:** [⤤ NSMBW Summer Tournament 2024 Playlist](https://youtube.com/playlist?list=PLdoWICJMgPKWOvOewul_9eS4cuHA1nYtu&si=RlpTbA-KTbU2cMwX)
 
-**Bracket:** [Challonge - NSMBW2024](https://challonge.com/nsmbw2024)
+**Bracket:** [⤤ Challonge - NSMBW2024](https://challonge.com/nsmbw2024)
 
-**Times/Stats:** [NSMBW Summer Tournament Times 2024](https://docs.google.com/spreadsheets/d/1OIYonKfGJqVKEv-faN2yUhw4xo_nmU0cAjCm43uw4eU/edit?usp=sharing)
+**Times/Stats:** [⤤ NSMBW Summer Tournament Times 2024](https://docs.google.com/spreadsheets/d/1OIYonKfGJqVKEv-faN2yUhw4xo_nmU0cAjCm43uw4eU/edit?usp=sharing)
 
 ---
 
@@ -86,13 +86,13 @@ Volza, BigCheese, and Cads curated a [Best Matches in History playlist](https://
 
 **Staff:** LunaEclipse
 
-**Restreamer:** [Speedgaming](https://www.twitch.tv/speedgaming)
+**Restreamer:** [⤤ Speedgaming](https://www.twitch.tv/speedgaming)
 
-**Vods:** [NSMBW Summer Tournament 2022 Playlist](https://youtube.com/playlist?list=PLdoWICJMgPKX0ij9pBCn8XdwXQTb9PVmk&si=htZzcq1Y7El4XzH3)
+**Vods:** [⤤ NSMBW Summer Tournament 2022 Playlist](https://youtube.com/playlist?list=PLdoWICJMgPKX0ij9pBCn8XdwXQTb9PVmk&si=htZzcq1Y7El4XzH3)
 
-**Bracket:** [Challonge - NSMBW22](https://challonge.com/nsmbw22)
+**Bracket:** [⤤ Challonge - NSMBW22](https://challonge.com/nsmbw22)
 
-**Times/Stats:** [Challonge Standings](https://challonge.com/nsmbw22/standings)
+**Times/Stats:** [⤤ Challonge Standings](https://challonge.com/nsmbw22/standings)
 
 ---
 <!--
