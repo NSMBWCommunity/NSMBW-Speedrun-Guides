@@ -26,14 +26,14 @@ Built and regularly updated by the community and active speedrunners.
 
 ---
 
+<div class="pause-button-container">
+  <a href="{{ site.baseurl }}/feedback/" class="pause-button-link">
+    <img src="{{ site.baseurl }}/assets/resources/feedback.png" alt="Feedback" class="button-image">
+    <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner tl">
+    <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner tr">
+    <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner bl">
+    <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner br">
+  </a>
+</div>
+
 <small>All site content managed by Rynnoo and Volza.</small>
-
-<a href="{{ site.baseurl }}/feedback/" class="pause-button">
-
-  <img src="{{ site.baseurl }}/assets/resources/feedback.png" alt="Feedback">
-
-  <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner tl">
-  <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner tr">
-  <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner bl">
-  <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner br">
-</a>

@@ -98,46 +98,52 @@ small {
   height: auto;
 }
 
-/* Button Container */
-.pause-button {
+/* Button container */
+.pause-button-container {
   display: inline-block;
-  position: relative;    /* ensures corners are positioned relative to the button */
+  position: relative; /* positioning context for corners */
   max-width: 240px;
-  text-decoration: none;
-  cursor: pointer;       /* hand cursor on hover */
 }
 
-/* Make the main button image scale properly */
-.pause-button > img:first-child {
+/* Clickable link */
+.pause-button-link {
+  display: block;
+  text-decoration: none;
+  cursor: pointer; /* hand cursor on hover */
+  position: relative; /* ensures corners stay inside */
+}
+
+/* Main button image */
+.button-image {
   display: block;
   width: 100%;
   height: auto;
 }
 
-/* Corner Base Style */
+/* Corner base style */
 .corner {
   position: absolute;
   width: 25px;
   height: 25px;
   image-rendering: pixelated;
   animation: pulse 1200ms steps(1) infinite;
-  pointer-events: none; /* allows clicks to pass through corners */
+  pointer-events: none; /* clicks pass through corners */
 }
 
-/* Corner Placement */
-.tl { top: -1px; left: -8px; }
-.tr { top: -1px; right: -8px; transform: rotate(90deg); }
-.br { bottom: -1px; right: -8px; transform: rotate(180deg); }
-.bl { bottom: -1px; left: -8px; transform: rotate(270deg); }
+/* Corner positions */
+.tl { top: -1px; left: -8px; } /* top-left corner */
+.tr { top: -1px; right: -8px; transform: rotate(90deg); } /* top-right corner */
+.br { bottom: -1px; right: -8px; transform: rotate(180deg); } /* bottom-right corner */
+.bl { bottom: -1px; left: -8px; transform: rotate(270deg); } /* bottom-left corner */
 
-/* Teleport Pulse Animation */
+/* Teleport pulse animation */
 @keyframes pulse {
   0%, 100% { margin: 0; }
   50% { margin: -8px; }
 }
 
-/* Optional: pulse faster on hover for extra effect */
-.pause-button:hover .corner {
+/* Hover effect: faster pulse */
+.pause-button-link:hover .corner {
   animation-duration: 600ms;
 }
 
