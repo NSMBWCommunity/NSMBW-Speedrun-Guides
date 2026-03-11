@@ -18,7 +18,7 @@ We recommend at minimum joining the main speedrunning server!
      style="max-width: 50%; border: 8px solid #ed6767;">
 >
 
-### [↗ NSMBW Speedrunning](https://discord.gg/pMKAaGscrh)
+### [⤤ NSMBW Speedrunning](https://discord.gg/pMKAaGscrh)
 
 The main hub for sharing strats, PBs, and discussing speedrunning this game in general.
 
@@ -28,7 +28,7 @@ The main hub for sharing strats, PBs, and discussing speedrunning this game in g
      style="max-width: 50%; border: 8px solid #5aacff;">
 >
 
-### [↗ NSMBW Tutorials](https://discord.gg/xMmfPyJ6Mh)
+### [⤤ NSMBW Tutorials](https://discord.gg/xMmfPyJ6Mh)
 
 This server is used for website documentation, discussion, and resource development.
 
@@ -38,7 +38,7 @@ This server is used for website documentation, discussion, and resource developm
      style="max-width: 50%; border: 8px solid #4ce481;">
 >
 
-### [↗ NSMBW Tournaments Server](https://discord.gg/uWnjt8FCVA)
+### [⤤ NSMBW Tournaments Server](https://discord.gg/uWnjt8FCVA)
 
 All NSMBW tournament information can be found here! If you're interested in signing up or learning when the next tournament is, join and ask a staff member!
 
@@ -48,7 +48,7 @@ All NSMBW tournament information can be found here! If you're interested in sign
      style="max-width: 50%; border: 8px solid #cbc43a;">
 >
 
-### [↗ NSMBW BTT Server](https://discord.gg/uhyVmA5DuE)
+### [⤤ NSMBW BTT Server](https://discord.gg/uhyVmA5DuE)
 
 The community BTT server for posting clips to create a "best theoretical time" segmented speedrun.
 
@@ -58,17 +58,17 @@ The community BTT server for posting clips to create a "best theoretical time" s
      style="max-width: 50%; border: 8px solid #edb567;">
 >
 
-### [↗ NSMB Series Speedrunning](https://discord.gg/GZ5Gg5E7RJ)
+### [⤤ NSMB Series Speedrunning](https://discord.gg/GZ5Gg5E7RJ)
 
 Interested in speedrunning another game in the NSMB Series like New Super Mario Bros. DS? Join here!
 
 ---
 
 <img src="{{ site.baseurl }}/assets/servers/serverTAScomp.png" 
-     style="max-width: 50%; border: 8px solid #ed9467;">
+     style="max-width: 50%; border: 8px solid #d299f0;">
 >
 
-### [↗ NSMBWii TAS Competition](https://discord.gg/kd4qwXSq9m)
+### [⤤ NSMBWii TAS Competition](https://discord.gg/kd4qwXSq9m)
 
 Looking for a fun way to get into TASing NSMBW? This server hosts competetitions with unique completion requirements.
 
@@ -76,4 +76,4 @@ Looking for a fun way to get into TASing NSMBW? This server hosts competetitions
 
 ## Inactive Servers
 
-Check out the [☆ Archive's List of Inactive Servers](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/nsmbw-speedrunning-archive/) for inactive servers you may be interested in.
+Check out the [☆ Archive's List of Inactive Servers](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/nsmbw-speedrunning-archive/inactive-servers) for inactive servers you may be interested in.
