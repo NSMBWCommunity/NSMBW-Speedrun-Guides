@@ -29,6 +29,7 @@ Built and regularly updated by the community and active speedrunners.
 <small>All site content managed by Rynnoo and Volza.</small>
 
 <a href="{{ site.baseurl }}/feedback/" class="pause-button">
+
   <img src="{{ site.baseurl }}/assets/resources/feedback.png" alt="Feedback">
 
   <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner tl">
