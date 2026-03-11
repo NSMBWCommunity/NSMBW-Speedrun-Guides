@@ -98,15 +98,24 @@ small {
   height: auto;
 }
 
+/* ---------------------- */
+/* Button Container */
+/* ---------------------- */
+
 .pause-button {
-  align-self: center;
   display: inline-block;
-  max-width: 240px;
-  height: auto;
   position: relative;
-  padding: 0;
+  max-width: 240px;
   text-decoration: none;
   cursor: pointer;
+}
+
+/* main button image */
+
+.pause-button > img:first-child {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 /* ---------------------- */
@@ -153,17 +162,17 @@ small {
 /* ---------------------- */
 
 @keyframes pulse {
-  0% {
-    margin: 0;
-  }
 
-  50% {
-    margin: -8px;
-  }
+  0% { margin: 0; }
 
-  100% {
-    margin: 0;
-  }
+  50% { margin: -8px; }
+
+  100% { margin: 0; }
+
+}
+
+.pause-button:hover .corner {
+  animation-duration: 600ms;
 }
 
 </style>
