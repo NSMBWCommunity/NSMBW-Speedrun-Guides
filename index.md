@@ -28,11 +28,12 @@ Built and regularly updated by the community and active speedrunners.
 
 <small>All site content managed by Rynnoo and Volza.</small>
 
-<div class="pause-button">
-  <img src="{{ site.baseurl }}/assets/resources/feedback.png" />
-
-  <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner tl">
-  <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner tr">
-  <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner bl">
-  <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner br">
-</div>
+<a href="https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/feedback/" class="pause-button">
+  <div class="pause-button">
+    <img src="{{ site.baseurl }}/assets/resources/feedback.png" />
+    <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner tl">
+    <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner tr">
+    <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner bl">
+    <img src="{{ site.baseurl }}/assets/resources/pause-corner.png" class="corner br">
+  </div>
+</a>
