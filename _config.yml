@@ -1,5 +1,5 @@
 title: NSMBW Speedrunning
-description: Guide and resources for New Super Mario Bros. Wii speedrunning.
+description: Guides and resources for New Super Mario Bros. Wii speedrunning.
 theme: just-the-docs
 color_scheme: dark
 
@@ -7,23 +7,18 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-
-url: https://just-the-docs.github.io
-baseurl: "/NSMBW-Speedrun-Guides"
+url: https://nsmbwcommunity.github.io
+baseurl: /NSMBW-Speedrun-Guides
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-  
 
 just_the_docs:
   custom_css:
-  - custom/custom.scss
+    - custom/custom.scss
 
 logo:
   image: assets/logos/icon128px.png
   alt: NSMBW Speedrunning Logo
 
-favicon_ico: "/assets/images/favicon.png"
-
-url: https://nsmbwcommunity.github.io
-baseurl: /NSMBW-Speedrun-Guides
+favicon_ico: "/assets/logos/icon64px.png"
