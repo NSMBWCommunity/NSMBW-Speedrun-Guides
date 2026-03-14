@@ -85,7 +85,7 @@ You can easily instantland on lifts like basic yellow platforms and mushrooms. S
 
 ### For a visual explanation on instantlands, go to `12:30` in Pidgey's **History of 5-T Video:**
 
-{% include yt.html id="BhP6lJPy0" %}
+{% include yt.html id="_-BhP6lJPy0" %}
 
 ---
 

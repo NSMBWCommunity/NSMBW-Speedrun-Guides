@@ -37,3 +37,4 @@ Built and regularly updated by the community and active speedrunners.
 </div>
 
 <small>All site content managed by Rynnoo and Volza.</small>
+
