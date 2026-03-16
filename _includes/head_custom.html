@@ -1,11 +1,173 @@
-<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/logos/icon64px.png' | relative_url }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/logos/iconApple.png' | relative_url }}">
 
+<meta name="description" content="Guides and resources for New Super Mario Bros. Wii speedrunning!">
+
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta name="robots" content="index, follow">
+
 <meta property="og:title" content="NSMBW Speedrun Guides">
-<meta property="og:description" content="Guides and resources for New Super Mario Bros. Wii speedrunning.">
+<meta property="og:description" content="Guides and resources for New Super Mario Bros. Wii speedrunning!">
 <meta property="og:image" content="{{ '/assets/logos/iconLinkPreview.png' | absolute_url }}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="NSMBW Speedrun Guides">
 
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="NSMBW Speedrun Guides">
+<meta name="twitter:description" content="Guides and resources for New Super Mario Bros. Wii speedrunning!">
 <meta name="twitter:image" content="{{ '/assets/logos/iconLinkPreview.png' | absolute_url }}">
+<style>
+
+/* site-wide styles for image containers */
+.gif-container {
+  text-align: center; /* centers the image */
+}
+
+.gif-container {
+  text-align: center;
+}
+
+.gif-container img {
+  display: inline-block;
+  max-width: 75%;
+  height: auto;
+  box-sizing: border-box;
+
+  /* Brick frame thickness */
+  padding: 18px;
+  border-radius: 12px;
+
+  /* Base brick color */
+  background-color: #7a4a1d;
+
+  /* Brick pattern layers */
+      background-image:
+    /* Horizontal mortar lines */
+    linear-gradient(
+      to bottom,
+      rgba(0,0,0,0.65) 0px,
+      rgba(0,0,0,0.65) 4px,
+      transparent 4px,
+      transparent 28px
+    ),
+
+    /* Vertical mortar (row A) */
+    linear-gradient(
+      to right,
+      rgba(0,0,0,0.65) 0px,
+      rgba(0,0,0,0.65) 4px,
+      transparent 4px,
+      transparent 80px
+    ),
+
+    /* Vertical mortar (row B offset) */
+    linear-gradient(
+      to right,
+      rgba(0,0,0,0.65) 0px,
+      rgba(0,0,0,0.65) 4px,
+      transparent 4px,
+      transparent 80px
+    ),
+
+    /* Top light shading */
+    linear-gradient(
+      to bottom,
+      rgba(255,190,120,0.35),
+      rgba(0,0,0,0)
+    );
+
+  background-size:
+    100% 32px,
+    80px 32px,
+    80px 32px,
+    100% 100%;
+
+  background-position:
+    0 0,
+    0 0,
+    40px 16px,
+    0 0;
+
+  background-repeat: repeat;
+
+  /* Subtle depth */
+  box-shadow: 6px 6px 0 rgba(0,0,0,0.35);
+
+  /* Keep your original animation behavior */
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 420ms ease-in, transform 420ms ease-in;
+}
+
+
+/* Centering for small text */
+small {
+  display: block;
+  text-align: center;
+}
+
+/* Smaller text for info circle notes */
+.fas.fa-info-circle + i {
+  font-size: 0.92em;
+}
+
+/* for plain images that should be full width but not have the blue border */
+.plain-img img{
+  max-width: 100%;
+  height: auto;
+}
+
+/* Button container */
+.pause-button-container {
+  display: inline-block;
+  position: relative; /* positioning context for corners */
+  max-width: 240px;
+  margin: 0 auto;
+  overflow: visible;
+}
+
+/* Clickable link */
+.pause-button-link {
+  display: block;
+  text-decoration: none;
+  cursor: pointer; /* hand cursor on hover */
+  position: relative; /* ensures corners stay inside */
+}
+
+/* Main button image */
+.button-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Corner base style */
+.corner {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  image-rendering: pixelated;
+  animation: pulse 1200ms steps(1) infinite;
+  pointer-events: none; /* clicks pass through corners */
+}
+
+/* Corner positions */
+.tl { top: -1px; left: -8px; } /* top-left corner */
+.tr { top: -1px; right: -8px; transform: rotate(90deg); } /* top-right corner */
+.br { bottom: -1px; right: -8px; transform: rotate(180deg); } /* bottom-right corner */
+.bl { bottom: -1px; left: -8px; transform: rotate(270deg); } /* bottom-left corner */
+
+/* Teleport pulse animation */
+@keyframes pulse {
+  0%, 100% { margin: 0; }
+  50% { margin: -8px; }
+}
+
+/* Hover effect: faster pulse */
+.pause-button-link:hover .corner {
+  animation-duration: 600ms;
+}
+
+</style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
