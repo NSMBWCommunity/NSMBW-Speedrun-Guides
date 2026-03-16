@@ -14,8 +14,6 @@ just_the_docs:
   custom_css:
     - custom/custom.scss
 
-logo:
-  image: assets/logos/icon128px.png
-  alt: NSMBW Speedrunning Logo
+logo: "assets/logos/icon128px.png"
 
 favicon_ico: "/assets/logos/icon64px.png"
