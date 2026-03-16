@@ -1,7 +1,7 @@
 ---
-title: Home
+title: NSMBW Speedrunning Resources
 layout: home
-nav_order: 1
+nav_exclude: true
 ---
 
 <img src="{{ site.baseurl }}/assets/logos/resourcesLogo.png" class="plain-img" alt="nsmbw resources logo">

@@ -1,4 +1,4 @@
-<!-- templates for embedding in other files -->
+templates for embedding in other files
 
 ---
 
