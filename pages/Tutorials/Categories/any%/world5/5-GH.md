@@ -8,7 +8,9 @@ nav_order: 6
 ---
 
 # 5-GH
+The last room in Ghost House has 4 main variations below is a comparison vid made by NM.
 
+{% include yt.html id="LsG3hhRcRz0" %}
 
 ## 5-GH Beginner
 {% include yt.html id="VNH8Bu7XlUI" %}
