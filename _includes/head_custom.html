@@ -1,12 +1,16 @@
 <link rel="apple-touch-icon" sizes="1024x1024" href="{{ '/assets/logos/iconAppleFull3.png' | relative_url }}">
 
-<meta name="description" content="Guides and resources for New Super Mario Bros. Wii speedrunning!">
+{% assign fallback_description = "Guides and resources for New Super Mario Bros. Wii speedrunning!" %}
+{% assign page_summary = page.description | default: page.excerpt | default: fallback_description %}
+{% assign preview_description = page_summary | markdownify | strip_html | normalize_whitespace | replace: page.title, "" | strip | default: fallback_description | truncate: 155 %}
+
+<meta name="description" content="{{ preview_description | escape }}">
 
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <meta name="robots" content="index, follow">
 
 <meta property="og:title" content="NSMBW Speedrun Guides">
-<meta property="og:description" content="Guides and resources for New Super Mario Bros. Wii speedrunning!">
+<meta property="og:description" content="{{ preview_description | escape }}">
 <meta property="og:image" content="{{ '/assets/logos/iconLinkPreview.png' | absolute_url }}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
@@ -14,12 +18,22 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="NSMBW Speedrun Guides">
-<meta name="twitter:description" content="Guides and resources for New Super Mario Bros. Wii speedrunning!">
+<meta name="twitter:description" content="{{ preview_description | escape }}">
 <meta name="twitter:image" content="{{ '/assets/logos/iconLinkPreview.png' | absolute_url }}">
 <style>
 
 /* gif container with blue oval background */
 .gif-container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin: 1.2rem 0 0.25rem;
+  padding: 24px 36px 14px;
+  isolation: isolate;
+  z-index: 0;
+}
+
+.youtube-container {
   display: flex;
   justify-content: center;
   position: relative;
@@ -29,7 +43,8 @@
   z-index: 0;
 }
 
-.gif-container::before {
+.gif-container::before,
+.youtube-container::before {
   content: "";
   position: absolute;
   top: 50%;
@@ -54,11 +69,23 @@
   box-sizing: border-box;
   position: relative;
   z-index: 1;
+  filter: drop-shadow(0 8px 14px rgba(0, 0, 0, 0.35));
 
   /* Keep your animation */
   opacity: 1;
   transform: translateY(0);
   transition: opacity 420ms ease-in, transform 420ms ease-in;
+}
+
+.youtube-container iframe {
+  display: block;
+  max-width: 720px;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  position: relative;
+  z-index: 1;
+  filter: drop-shadow(0 8px 14px rgba(0, 0, 0, 0.35));
 }
 
 /* Centering for small text */

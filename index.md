@@ -16,9 +16,9 @@ Built and regularly updated by the community and active speedrunners.
 
 [★ Getting Started](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/getting-started/) ▹ A full guide for newcomers to NSMBW speedrunning. Includes guides on software, installing the practice mod, and console information.
 
-[★ Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/movement/) ▹ In-depth tutorials on how to optimally move Mario.
+[★ Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/) ▹ In-depth tutorials on how to optimally move Mario.
 
-[★ Categories](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/categories/) ▹ Pick a category from here to find tutorials for each speedrun on the Speedrun.com leaderboards.
+[★ Categories](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/) ▹ Pick a category from here to find tutorials for each speedrun on the Speedrun.com leaderboards.
 
 [★ Resources](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/resources/) ▹ Here you can find every up-to-date resource for NSMBW. Our full WR History, practice resources, and all other documentation.
 

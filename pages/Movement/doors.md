@@ -39,7 +39,7 @@ For the most part, save these for ILs! **Enter the door as early as possible.** 
 </div>
 <i><small> IL door example in 2-Tower. IL doors have a greater difference on big doors because the center is further from either edge. </small></i>
 
-<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>Tower and Castle boss doors behave the same and are the same size. The same is true for ghost house doors and yellow dpad doors.</i>
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>Tower and Castle boss doors behave the same and are the same size. The same is true for ghost house doors and yellow D-pad doors.</i>
 
 ---
 

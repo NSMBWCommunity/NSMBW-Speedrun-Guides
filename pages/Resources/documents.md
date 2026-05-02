@@ -20,7 +20,7 @@ This spreadsheet includes an official current tally of current Individual Level 
 
 ---
 
-[Unofficial Emulator Leaderboard](){: .btn }
+**Unofficial Emulator Leaderboard**
 
 The official/unofficial leaderboards for runs done on emulator. Has a separate sheet for each main category and category extension.
 
@@ -80,7 +80,7 @@ A sheet that compares and tracks the best Any% stage IGTs achieved in both pract
 
 template
 
-[](): desc
+[Title](url): desc
 
 **Creator(s):**
 

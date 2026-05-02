@@ -9,7 +9,7 @@ nav_order: 1
 
 # Before Doing Runs
 
-Please first review both the **Game Rules** and **Category Rules** on [Speedrun.com](speedrun.com/nsmbw).
+Please first review both the **Game Rules** and **Category Rules** on [Speedrun.com](https://www.speedrun.com/nsmbw).
 
 ## Reminders
 
@@ -25,7 +25,7 @@ Please upload your runs to YouTube for retiming and accessibility purposes.
 
 Every category begins on the frame Mario moves on the World 1 map on an empty file. 
 
-<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>Pausing, pressing `-`, `HOME`, or `A` before entering 1-1 will count towards your time. It is worth it to reset if an accidental input happends before your run begins. </i>
+<i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>Pausing, pressing `-`, `HOME`, or `A` before entering 1-1 will count towards your time. It is worth it to reset if an accidental input happens before your run begins. </i>
 
 Every category except 100% ends on the frame `8000` appears when you hit the button at the end of 8-Castle. You must survive after hitting the switch for the run to count. Make sure to include footage of you surviving after hitting the switch.
 

@@ -34,7 +34,7 @@ If you have fire, ice, or penguin, shoot fire/ice as you wallkick and you will g
 </div>
 <i><small></small></i>
 
-Shooting a projectile gives you an acceleration boost in the direction you are holding on the dpad, which makes **one-sided wallkicks** possible.
+Shooting a projectile gives you an acceleration boost in the direction you are holding on the D-pad, which makes **one-sided wallkicks** possible.
 
 ## One-Sided Wallkicks
 

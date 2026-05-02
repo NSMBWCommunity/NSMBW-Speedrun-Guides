@@ -28,7 +28,7 @@ A very outdated leaderboard ranking the speedrunners who accumulated the most ma
 
 [⤤ NSMBW retimes](https://docs.google.com/spreadsheets/d/104tFmGd5qZi6s04Tm7-WvS5Gib_cEUFORJvLZ5sJKP8/edit?usp=sharing){: .btn }
 
-A resource used to track the innacuracies of the SRC boards. Comes with a color key and covers all main board categories. 
+A resource used to track the inaccuracies of the SRC boards. Comes with a color key and covers all main board categories. 
 
 **Creator(s):** LunaEclipse
 
@@ -63,7 +63,7 @@ A strange phenomenon in 5-3 lead to this artifact's creation. Abandoned due to l
 
 Template
 
-[](): desc
+[Title](url): desc
 
 **Creator(s):** 
 
@@ -74,6 +74,6 @@ Template
 
 questionable adds
 
-[NSMBW 100% Routes](): extensive documentation on 100% routes and their history
+NSMBW 100% Routes: extensive documentation on 100% routes and their history
 
 -->

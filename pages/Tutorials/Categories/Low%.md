@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Low%
-permalink: /tutorials/Low%/
+permalink: /tutorials/low%25/
 parent: Tutorials
 nav_order: 6
 ---

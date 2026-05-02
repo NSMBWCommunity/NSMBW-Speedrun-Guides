@@ -13,7 +13,7 @@ In order to submit to the [⤤ official leaderboards](https://www.speedrun.com/n
 - Wii RVL-101 ("Side Wii")
 - Wii U (Physical or Digital)
 
-The only difference between the 3 platforms is load times dictated by the version of the disc drive in the wii. Side Wiis have the best chance to have the fastest disc drive, but this is not guaranteed. In Any%, Low%, and Any% NoW5, loadless retimes are done after breaking a time barrier.*
+The only difference between the 3 platforms is load times dictated by the version of the disc drive in the Wii. Side Wiis have the best chance to have the fastest disc drive, but this is not guaranteed. In Any%, Low%, and Any% NoW5, loadless retimes are done after breaking a time barrier.*
 
 In the other categories you will get a real leaderboard advantage by having faster loads. When people mention their "loads," they typically are referring to their any% load time.
 <i> Example: 24:30 RTA - **2:10 loads** = 22:20 LRT </i>

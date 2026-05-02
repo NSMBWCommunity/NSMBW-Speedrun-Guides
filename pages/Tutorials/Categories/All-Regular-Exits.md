@@ -1,7 +1,7 @@
 ---
 layout: default
 title: All Regular Exits
-permalink: /tutorials/All-Regular-Exits/
+permalink: /tutorials/all-regular-exits/
 parent: Tutorials
 nav_order: 7
 ---

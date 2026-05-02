@@ -11,7 +11,7 @@ nav_order: 4
 There are a few techniques used while jumping. First for the basics:
 
 1. Jumping on solid ground does not lose or gain Mario speed.
-2. Running and jumping makes Mario jump higher than stationairy jumping (running then holding `2` for the entire jump will be refered to as full jumps).
+2. Running and jumping makes Mario jump higher than stationary jumping (running then holding `2` for the entire jump will be referred to as full jumps).
 3. Doing consecutive jumps with running speed allows Mario to double and triple jump.
 
 ## Double Jumps
@@ -78,7 +78,7 @@ To stutterstep, you need to hold `2` while you land (technically a hover jump...
 
 If Mario jumps onto backwards moving ground that affects your midair speed (more info [☆ here](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/moving-platforms/#Ground-that-Affects-Your-Air-Speed)), double and triple jumps must be frame-perfect.
 
-If Mario jumps very precisely at the edge of a platform, he will lose his jump progression (Mario will do a single jump regardless of the prevous jump). Try not to jump at the very edge of platforms to avoid this.
+If Mario jumps very precisely at the edge of a platform, he will lose his jump progression (Mario will do a single jump regardless of the previous jump). Try not to jump at the very edge of platforms to avoid this.
 
 <i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>On moving platforms that affect your speed midair like the bone coaster, jumping off the very edge will cause you not only to lose your jump progression, but also your speed.</i>
 

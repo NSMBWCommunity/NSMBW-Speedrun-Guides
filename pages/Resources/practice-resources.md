@@ -50,7 +50,7 @@ Has Rynnoo's pipes for accessibility, Roadrunner's Practice Mode, and MGR's Info
 
 [ILs Mod](https://github.com/RoadrunnerWMC/NSMBW-ILs-Mod){: .btn}
 
-Roadrunner's mod that is legal for ILs on [Speedrun.com](speedrun.com/nsmbw/). Pressing `-` will instantly reload a level from the banner loading screen. It also tracks attempts, and provides a precise IGT and star coins acquired in a run after completing the stage.
+Roadrunner's mod that is legal for ILs on [Speedrun.com](https://www.speedrun.com/nsmbw/). Pressing `-` will instantly reload a level from the banner loading screen. It also tracks attempts, and provides a precise IGT and star coins acquired in a run after completing the stage.
 
 ---
 

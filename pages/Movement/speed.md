@@ -6,7 +6,7 @@ parent: Movement
 nav_order: 1
 ---
 
-# Introdution to Speed
+# Introduction to Speed
 
 Mario's maximum regular running speed is 3 pixels/frame, or *3 speed*. You always want to be holding `1` while moving left or right to run in NSMBW.
 

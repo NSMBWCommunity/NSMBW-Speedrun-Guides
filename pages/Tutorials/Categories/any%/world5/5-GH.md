@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 5-GH
-permalink: /tutorials/any%/world5/5-gh/
+permalink: /tutorials/any%25/world5/5-gh/
 parent: World 5
+grand_parent: Any%
 has_children: false
 nav_order: 6
 ---

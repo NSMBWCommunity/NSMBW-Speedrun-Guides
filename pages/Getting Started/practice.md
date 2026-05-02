@@ -67,7 +67,7 @@ After having a Homebrewed console with Riivolution:
 
 4) Open the Riivolution app from the Wii Menu, make sure "NSMBW Practice Mode" is the only mod set to `ENABLED`, and hit `LAUNCH`.
 
-This same installation process can be applied to all NSMBW Mods. Navigate Riivolution by using the Wii Remote dpad or cursor.
+This same installation process can be applied to all NSMBW Mods. Navigate Riivolution by using the Wii Remote D-pad or cursor.
 
 <i class="fas fa-info-circle" style="font-size: 0.8em; color: #007bff;"></i> <i>The Practice Mod also works well with [Dolphin Emulator](https://dolphin-emu.org/). ([Tutorial](https://www.youtube.com/watch?v=Jt97J7aWf8k) on how to play Riivolution patches on Dolphin)</i>
 
@@ -75,4 +75,4 @@ This same installation process can be applied to all NSMBW Mods. Navigate Riivol
 
 By now you should have a solid foundation for starting your NSMBW speedrunning journey. For more advice, questions, or any feedback you may have, join the [⤤ NSMBW Speedrunning Server](https://discord.gg/pMKAaGscrh).
 
-Your next steps are to pick a category from [☆ Tutorials](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/) and learning strats! We also recommend getting familiar with movement by using the [☆ Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/)! Good luck!
+Your next steps are to pick a category from [☆ Tutorials](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/tutorials/) and learn strats! We also recommend getting familiar with movement by using the [☆ Movement Guide](https://nsmbwcommunity.github.io/NSMBW-Speedrun-Guides/movement/)! Good luck!

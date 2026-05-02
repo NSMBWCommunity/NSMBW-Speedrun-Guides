@@ -16,6 +16,27 @@ The community has hosted speedrunning events dating way back to 2016. Here is a 
 
 Volza, BigCheese, and Cads curated a [Best Matches in History playlist](https://youtube.com/playlist?list=PLMAOs5vUOQ6hccaMlSUjT0yPagp_UXQDM&si=xXRbm2OVBjAG3cfX). It includes the most memorable and competitive matches we've seen dating back to the 2020 Tournament. If you find a match that's not on here that you think qualifies as super memorable or competitive, let us know!
 
+## Randomizer Seed Challenge
+
+**Standings:**
+
+1. @Cads (26:22.900) $30
+2. Volza (26:27.650) $15
+3. Azord (27:36.550) $5
+4. BigCheese (28:34.383)
+5. Luna (35:27.450)
+6. MGR (45:22.216)
+7. iceserpent (46:44.100)
+8-9. @Inforcer and @Night2 (DNF)
+
+**Date of Event:** April 1-11, 2026
+
+**Participants:** 12
+
+**Staff:** NMSpeedruns, Rynnoo
+
+---
+
 ## 2025-2026 Any% Randomizer Tournament
 
 **Winner:** BigCheese

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Any%
-permalink: /tutorials/any%/
+permalink: /tutorials/any%25/
 parent: Tutorials
 has_children: true
 nav_order: 2
@@ -14,6 +14,6 @@ Before hopping into a run, we recommend taking a look at each tutorial and getti
 
 ## Category Specific Information
 
-Beat the game as fast as possible. Read the game and category rules on [Speedrun.com](speedrun.com/nsmbw) for more information.
+Beat the game as fast as possible. Read the game and category rules on [Speedrun.com](https://www.speedrun.com/nsmbw) for more information.
 
 This category retimes runs **under 25 minutes** (done on physical console).

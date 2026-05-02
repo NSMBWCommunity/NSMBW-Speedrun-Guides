@@ -1,8 +1,9 @@
 ---
 layout: default
 title: World 8
-permalink: /tutorials/any%/world8/
+permalink: /tutorials/any%25/world8/
 parent: Any%
+grand_parent: Tutorials
 has_children: true
 nav_order: 4
 ---

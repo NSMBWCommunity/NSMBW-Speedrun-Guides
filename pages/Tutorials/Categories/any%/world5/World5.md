@@ -1,8 +1,9 @@
 ---
 layout: default
 title: World 5
-permalink: /tutorials/any%/world5/
+permalink: /tutorials/any%25/world5/
 parent: Any%
+grand_parent: Tutorials
 has_children: true
 nav_order: 3
 ---

@@ -10,7 +10,7 @@ parent: Resources
 
 For tons of video content created by accomplished speedrunners and community members themselves, look no further. Countless hours have been put into creating this content so while you're at it, subscribe to the creators and give their videos a like!
 
-A playlist of NSMBW speedrunning videos published by content creators can be found [here]().
+A playlist of NSMBW speedrunning videos published by content creators will be added here.
 
 ---
 

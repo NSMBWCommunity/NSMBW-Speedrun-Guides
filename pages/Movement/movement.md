@@ -10,7 +10,7 @@ has_toc: true
 
 <img src="{{ site.baseurl }}/assets/logos/logoMovementGuide.png" class="plain-img" alt="movement guide logo">
 
-Movement in this game is intricate yet intuitive. It is worth understanding the physics of this game and learning the intricacies of Mario and how to make him to go fast.
+Movement in this game is intricate yet intuitive. It is worth understanding the physics of this game and learning the intricacies of Mario and how to make him go fast.
 
 This guide is ordered from simple to advanced, starting with the basics to help you understand what makes Mario fast, and will eventually tackle the advanced techniques and precise inputs. Use the table of contents if you're looking for info on a specific topic!
 
