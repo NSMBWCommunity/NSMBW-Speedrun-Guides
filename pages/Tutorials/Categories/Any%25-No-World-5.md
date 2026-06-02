@@ -3,6 +3,7 @@ layout: default
 title: Any% No World 5
 permalink: /tutorials/any%25-no-world-5/
 parent: Tutorials
+has_children: true
 nav_order: 5
 ---
 
